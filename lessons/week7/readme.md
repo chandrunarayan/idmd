@@ -1,4 +1,4 @@
-[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
+[_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
 # Week 7
 
