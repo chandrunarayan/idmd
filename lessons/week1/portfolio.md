@@ -25,7 +25,8 @@ These steps will guide you through setting up your portfolio on [Github](https:/
 1. Go to the top level of the ___username/idmd-portfolio___ repository and Click ___Add file___, ___Create new file___
 1. Name it `index.html`
 1. Copy-Paste the code below into the body of the file and modify
-````
+
+```html
 <html>
 	<head>
 	
@@ -43,7 +44,8 @@ These steps will guide you through setting up your portfolio on [Github](https:/
 		</ol>
 	</body>
 </html>
-````
+```
+
 1. Modify the portfolio title and an introduction paragraph about yourself
 1. Click ___Commit new file___ at the bottom of the page
 
