@@ -20,4 +20,4 @@ Start by taking notes or brainstorming a list of what you value. Then move to a 
 * Your writing will be private between you and the instructor, your response will not be shared with the class
 
 ### Submission
-Your personal values paper should be submitted on [Google Drive
+Your personal values paper should be submitted to the [Google Clasroom](https://classroom.google.com/u/0/c/MjQ5OTg2OTEwMDEz?cjc=gmy37a3)

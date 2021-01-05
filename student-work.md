@@ -3,28 +3,27 @@
 
 ## Student Portfolios
 
-| Student | Link | Pathway
-| :--- | :--- | :--- |
-| Pamela | [https://pamelabiniam.github.io/idmd-portfolio](https://pamelabiniam.github.io/idmd-portfolio) | Standard
-| Max | [https://maxalhadeff.github.io/idmd-portfolio](https://maxalhadeff.github.io/idmd-portfolio) | Standard
-| Tilden | [https://tildenkeffeler.github.io/idmd-portfolio](https://tildenkeffeler.github.io/idmd-portfolio) | Standard
-| Owen | [https://owenprendergast.github.io/idmd-portfolio](https://owenprendergast.github.io/idmd-portfolio) | Standard
-| Eli | [https://eliweise.github.io/idmd-portfolio](https://eliweise.github.io/idmd-portfolio) | Standard
+| Student | Link |
+| :--- | :--- |
+| Max | [https://maxalhadeff.github.io/idmd-portfolio](https://maxalhadeff.github.io/idmd-portfolio)
+| Tilden | [https://tildenkeffeler.github.io/idmd-portfolio](https://tildenkeffeler.github.io/idmd-portfolio)
+| Owen | [https://owenprendergast.github.io/idmd-portfolio](https://owenprendergast.github.io/idmd-portfolio)
+| Eli | [https://eliweise.github.io/idmd-portfolio](https://eliweise.github.io/idmd-portfolio)
 
 ## Student Final Projects
 
-| People | Project | Pathway |
-| :--- | :--- | :--- |
-| Max | [https://maxalhadeff.github.io/final-project](https://maxalhadeff.github.io/final-project) | Standard
-| Tilden | [https://tildenkeffeler.github.io/final-project](https://tildenkeffeler.github.io/final-project) | Standard
-| Owen | [https://owenprendergast.github.io/final-project](https://owenprendergast.github.io/final-project) | Standard
-| Eli | [https://eliweise.github.io/final-project](https://eliweise.github.io/final-project) | Standard
+| People | Project |
+| :--- | :--- |
+| Max | [https://maxalhadeff.github.io/final-project](https://maxalhadeff.github.io/final-project)
+| Tilden | [https://tildenkeffeler.github.io/final-project](https://tildenkeffeler.github.io/final-project)
+| Owen | [https://owenprendergast.github.io/final-project](https://owenprendergast.github.io/final-project)
+| Eli | [https://eliweise.github.io/final-project](https://eliweise.github.io/final-project)
 
 ## Student Githubs
 
-| Student Github Sites | Pathway |
-| :-------------------------------------- | :--- |
-| [Max's Github](https://github.com/maxalhadeff) | Standard
-| [Tilden's Github](https://github.com/tildenkeffeler) | Standard
-| [Owen's Github](https://github.com/owenprendergast) | Standard
-| [Eli's Github](https://github.com/eliweise) | Standard
+| Student Github Sites |
+| :-------------------------------------- |
+| [Max's Github](https://github.com/maxalhadeff) |
+| [Tilden's Github](https://github.com/tildenkeffeler) |
+| [Owen's Github](https://github.com/owenprendergast) |
+| [Eli's Github](https://github.com/eliweise) |
