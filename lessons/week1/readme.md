@@ -7,6 +7,11 @@
 * Introductions
 * Try P5JS!
   * [First right-click-here and open new Tab to open editor](https://editor.p5js.org)
+  * Click on ___Sign up___ top-right with usernames below. Use your Bush email address.
+     * `maxalhadeff`
+     * `tildenkeffeler`
+     * `owenprendergast`
+     * `eliweise`  
   * [Then create your first Sketch with these instructions](https://p5js.org/get-started/#sketch)
 
 ## Goals
@@ -26,11 +31,7 @@
 * Review the [syllabus](../../syllabus.md)
 * Create a [Github](https://github.com/) account by clicking 'Sign up'.
 * Do so using your Bush email address (if you already have a Github account using this email, please talk to me).
-* Use the following usernames when creating your Github account.
-     * `maxalhadeff`
-     * `tildenkeffeler`
-     * `owenprendergast`
-     * `eliweise`
+* Use the ***same usernames*** as you did in the Warm up section above when you created your P5JS account.
 * Setup your [portfolio](portfolio.md)
 * Complete the [installfest](installfest.md)
 
