@@ -53,8 +53,8 @@
 * What did you especially enjoy about today's class?
 
 ## Resources
-* [How to add projects to your Github portfolio video](https://youtu.be/M-bNnVwBHUY)
-  * The video references UW "hcde-portfolio" - Instead use Bush School "idmd-portfolio"
+* How to add projects to your Github portfolio video (No Sound)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fQ99-XExRpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Homework
-* Continue classwork Exercises to finish at home
+* Continue classwork Exercises to finish during asynchronous times
