@@ -49,7 +49,7 @@ We are all going through some extraordinary times due to the coronavirus.  I wou
 
 * Course Website: [IDMD 2021 Website](https://chandrunarayan.github.io/idmd/)
 * Bush Portal: [IDMD Portal](https://bush.myschoolapp.com/app/faculty#academicclass/110760511/0/bulletinboard)
-* Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
+* Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/folders/1_zq8eZnKCsoD5Y-22_pZfTbOgZg2dwmB)
 * P5JS Basics: [Wiki Page for Help Examples and Reference](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 * Other Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1y16Sl6du4C773Iy2czlFcVXpeBPmvFYN)
 * Assignment Submissions via [Your Github Site](https://github.com/)
