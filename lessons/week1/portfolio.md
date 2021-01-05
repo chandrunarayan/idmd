@@ -1,9 +1,7 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
 # Creating Your Portfolio
-These steps will guide you through setting up your portfolio on [Github](https://github.com/). These instructions are more complicated than we would like, if you have any trouble at all please reach out to your instructor.
-
-You can either complete the steps by following the text described here, or watching along in the [video](https://youtu.be/cbNokegf9mI).
+These steps will guide you through setting up your portfolio on [Github](https://github.com/). Please follow the instructions VERY CAREFULLY! These instructions are more complicated than I would like, if you have any trouble at all please reach out to me.  
 
 ## Create your portfolio repository
 
@@ -56,7 +54,7 @@ You can either complete the steps by following the text described here, or watch
 
 ## Add your own P5JS sketch to your Github using Drag and Drop
 
-1. Add P5JS project to your Github using Drag and Drop Video
+1. Add P5JS project to your Github using Drag and Drop Video (No Sound)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQ99-XExRpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Add Chandru as a Collaborator on your idmd-portfolio repository
