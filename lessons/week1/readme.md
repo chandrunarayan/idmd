@@ -34,7 +34,6 @@
 * Do so using your Bush email address (if you already have a Github account using this email, please talk to me).
 * Use the ***same usernames*** as you did in the Warm up section above when you created your P5JS account.
 * Setup your [portfolio](portfolio.md)
-* Complete the [installfest](installfest.md)
 
 ## Exercises
 * [Building a robot](exercises/robot.md) 
