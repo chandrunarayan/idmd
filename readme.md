@@ -6,9 +6,10 @@ Software influences all aspects of contemporary visual culture. This course is a
 
 We will learn and create using the programming language Javascript and the library p5.js, a full featured library that allows one to create interactive digital art for the web. Below is an example of a game you could develop using P5JS and Javascript!
 
+### Bouncing Bubbles Model Javascript Program
+
 ![alt text](bouncy_balls.gif)
 
-## Bouncing Bubbles Model Java Program
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">Click here for live code of bouncing bubbles and try clicking them inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Javascript on the side!</a>
 
 ## Remote/Hybrid Classroom Applications
