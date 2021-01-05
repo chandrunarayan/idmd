@@ -6,25 +6,25 @@
 | Student | Link | Pathway
 | :--- | :--- | :--- |
 | Pamela | [https://pamelabiniam.github.io/idmd-portfolio](https://pamelabiniam.github.io/idmd-portfolio) | Standard
-| Jeffrey | [https://jpbatzz.github.io/idmd-portfolio](https://jpbatzz.github.io/idmd-portfolio) | Standard
-| Maya | [https://mayaschrum.github.io/idmd-portfolio](https://mayaschrum.github.io/idmd-portfolio) | Standard
-| Leah | [https://leahtruman.github.io/idmd-portfolio](https://leahtruman.github.io/idmd-portfolio) | Standard
-| Ghislaine | [https://ghislaineederer.github.io/idmd-portfolio](https://ghislaineederer.github.io/idmd-portfolio) | Standard
-| Philipp | [https://philippknmergener.github.io/idmd-portfolio](https://philippknmergener.github.io/idmd-portfolio) | Advanced
-| Erik | [https://erikonsager.github.io/idmd-portfolio](https://erikonsager.github.io/idmd-portfolio) | Advanced
-| Carter | [https://carterschafer.github.io/idmd-portfolio](https://carterschafer.github.io/idmd-portfolio) | Advanced
-| Aidan | [https://aidan-lynch.github.io/idmd-portfolio](https://aidan-lynch.github.io/idmd-portfolio) | Advanced
+| Max | [https://maxalhadeff.github.io/idmd-portfolio](https://maxalhadeff.github.io/idmd-portfolio) | Standard
+| Tilden | [https://tildenkeffeler.github.io/idmd-portfolio](https://tildenkeffeler.github.io/idmd-portfolio) | Standard
+| Owen | [https://owenprendergast.github.io/idmd-portfolio](https://owenprendergast.github.io/idmd-portfolio) | Standard
+| Eli | [https://eliweise.github.io/idmd-portfolio](https://eliweise.github.io/idmd-portfolio) | Standard
 
-## Student Final Project
+## Student Final Projects
 
 | People | Project | Pathway |
 | :--- | :--- | :--- |
-| Pamela | [Jittering Robots](https://pamelabiniam.github.io/idmd-portfolio/Final%20Project/) | Standard
-| Jeffrey | [Minions](https://jpbatzz.github.io/idmd-portfolio/FINAL_PROJECT/) | Standard
-| Maya | [https://mayaschrum.github.io/idmd-portfolio](https://mayaschrum.github.io/idmd-portfolio) | Standard
-| Leah | [Ghost Race](https://editor.p5js.org/cnarayan/present/bkyZHQgrj) | Standard
-| Ghislaine | [https://ghislaineederer.github.com/idmd-portfolio](https://ghislaineederer.github.io/idmd-portfolio/) | Standard
-| Philipp | [https://philippknmergener.github.io/idmd-portfolio](https://philippknmergener.github.io/idmd-portfolio) | Advanced
-| Erik | [Ball in Wind](https://erikonsager.github.io/idmd-portfolio/WindBall/index.html) | Advanced
-| Carter | [https://carterschafer.github.io/idmd-portfolio](https://carterschafer.github.io/idmd-portfolio) | Advanced
-| Aidan | [Kaleidoscope](https://aidan-lynch.github.io/idmd-portfolio/kaleidoscope/) | Advanced
+| Max | [https://maxalhadeff.github.io/final-project](https://maxalhadeff.github.io/final-project) | Standard
+| Tilden | [https://tildenkeffeler.github.io/final-project](https://tildenkeffeler.github.io/final-project) | Standard
+| Owen | [https://owenprendergast.github.io/final-project](https://owenprendergast.github.io/final-project) | Standard
+| Eli | [https://eliweise.github.io/final-project](https://eliweise.github.io/final-project) | Standard
+
+## Student Githubs
+
+| Student Github Sites | Pathway |
+| :-------------------------------------- | :--- |
+| [Max's Github](https://github.com/maxalhadeff) | Standard
+| [Tilden's Github](https://github.com/tildenkeffeler) | Standard
+| [Owen's Github](https://github.com/owenprendergast) | Standard
+| [Eli's Github](https://github.com/eliweise) | Standard

@@ -15,10 +15,10 @@ In our IDMD classroom we are already using tools and techniques that are natural
 6. [Student Portfolios](student-work.md) - Links to Student Porfolios
 7. [Online textbooks](https://drive.google.com/drive/folders/1_zq8eZnKCsoD5Y-22_pZfTbOgZg2dwmB?usp=sharing) - Getting Started with P5JS 
 8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110760511/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
-9. Conference Appointments
-
-
-10. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
+9. Conference Appointments:
+   * [Async Zoom Scheduler](https://calendly.com/chandru-narayan/anytime-wed-async) - Wed 9:00 AM to 5:30 PM
+   * [Ad-Hoc 1-1 Conf Scheduler](https://calendly.com/chandru-narayan/adhoc-conf) Mon, Tue, Thu, Fri: 2:30-5:30 PM
+10. EMAIL - check your Bush email when all other forms of communication fails! 
 
 #### [Remote Schooling Daily Schedule](./BSDS.png)
 ![alt text](BSDS.png)
