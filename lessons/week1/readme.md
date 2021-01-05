@@ -24,7 +24,13 @@
 
 ## Prep Work
 * Review the [syllabus](../../syllabus.md)
-* Create a [Github](https://github.com/) account
+* Create a [Github](https://github.com/) account by clicking 'Sign up'.
+* Do so using your Bush email address (if you already have a Github account using this email, please talk to me).
+* Use the following usernames when creating your Github account.
+     * maxalhadeff
+     * tildenkeffeler
+     * owenprendergast
+     * eliweise
 * Setup your [portfolio](portfolio.md)
 * Complete the [installfest](installfest.md)
 
