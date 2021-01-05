@@ -47,7 +47,7 @@ We are all going through some extraordinary times due to the coronavirus.  I wou
 
 ## Course Links
 
-* Course Website: [IDMD 2020 Website](https://chandrunarayan.github.io/idmd/)
+* Course Website: [IDMD 2021 Website](https://chandrunarayan.github.io/idmd/)
 * Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 * P5JS Basics: [Wiki Page for Help Examples and Reference](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 * Other Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1y16Sl6du4C773Iy2czlFcVXpeBPmvFYN)
