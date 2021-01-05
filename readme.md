@@ -65,7 +65,6 @@ This course draws from the materials used in the UW Human Center for Design Engi
 _Topics: Installfest, git, github, why p5.js, environment setup, using the reference, digital color, coordinate system_
 
 * [Overview](lessons/week1)
-* [Installfest](lessons/week1/installfest.md)
 * [Portfolio Setup](lessons/week1/portfolio.md)
 * [Exercises](lessons/week1/readme.md)
 * [Project: Robot](lessons/week1/exercises/robot.md)
