@@ -35,7 +35,7 @@ These steps will guide you through setting up your portfolio on [Github](https:/
 		<h1>MYNAME's IDMD Portfolio</h1>
 		<p>Something interesting about yourself</p>
 		<p>Why are you taking this course?</p>
-		<p>What do you hope to become after this program?</p>
+		<p>What do you hope to learn from taking this course?</p>
 		<ol> My Projects
 			<li><a href="https://USERNAME.github.io/idmd-portfolio/SKETCHNAME">TITLE</a></li>
 			<li><a href="https://cnarayan.github.io/idmd-portfolio/meson">Meson</a></li>
