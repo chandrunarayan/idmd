@@ -1,9 +1,13 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
+
 # IDMD - Interactive Digital Media Design
 Software influences all aspects of contemporary visual culture. This course is an introduction to computer programming within the context of the visual art. Students in this course will learn the fundamentals of computer programming -- conditional control structures, iteration, data structures, functions, classes, objects, and event-driven design. We will create projects based on student interest including, but not limited to games, machine-learning inspired art, simulations of physical, biological and social phenomena.
 
 We will learn and create using the programming language Javascript and the library p5.js, a full featured library that allows one to create interactive digital art for the web. To see examples of the interactive digital media you can create with code, watch this video by the creators of p5.js.
+![alt text](bouncy_balls.gif)
+## Bouncing Bubbles Model Java Program
+<a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">Click here for live code of bouncing bubbles and try clicking them inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
 ## Remote/Hybrid Classroom Applications
 
 In our IDMD classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning IDMD.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
