@@ -6,33 +6,19 @@ __Course ID__: IDMD
 
 __Course Title__: Interactive Digital Media Design
 
-__Offering__: Spring Semester 2020
-
-__Class__: Mon/ 11:10 – 12:40, Wed/ 9:30 – 10:10, Thu/ 1:40 – 3:10, WIS 204
+__Offering__: Spring Semester 2021
 
 __Prerequisites__: None
 
 __Description__: Software influences all aspects of contemporary visual culture. Students will explore the essentials of Computer Programming including: cconditional control structures, iteration, data structures, functions, classes, objects, and event-driven design. We will create projects based on student interest including, but not limited to video games, installation art, and simulations of biological and social phenomena. We will learn and create using the programming language Javascript and the library p5.js, a full featured library that allows one to create interactive digital art for the web.
 
-__Final__: No standard final, instead a final project. The Final Project will be assigned based on student skills _Diiferentiation_. For students following the standard curriculum, the final project will be team-based.  For those students following the Advanced curriculum, Final Project will be individual. These assignments will be discussed and finalized soon after returning from Winter break.
-
-## Contact Information
-| Chandru Narayan, Instructor |
-| :--- |
-| Office hours- Mon thru Thu 7:45 - 8:15 AM by [Google Appt](https://calendar.google.com/calendar/selfsched?sstoken=UU9lVFdVYVhjbGp3fGRlZmF1bHR8MTViMWFlNmVjMmVkMmU3ODEyNDNlMjg5NjY2MWE4ZDQ) |
-| Office hours- Mon thru Thu 1:20 - 1:40 PM No Appt Needed |
-| Office hours- Mon thru Thu 3:10 - 3:40 PM by [Google Appt](https://calendar.google.com/calendar/selfsched?sstoken=UU9lVFdVYVhjbGp3fGRlZmF1bHR8MTViMWFlNmVjMmVkMmU3ODEyNDNlMjg5NjY2MWE4ZDQ) |
-| Office location- BANC or Wissner 205 |
-| Mail- chandru.narayan@bush.edu |
 
 ## Materials
 
 ### Course Links
-* Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
+
 * Course Website: [IDMD Website](https://chandrunarayan.github.io/idmd/)
-* Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
 * Assignment Submissions via [Your Github Site](https://github.com/)
-* Slack Instant Messaging - [IDMD 2020](https://idmd2020.slack.com/)
 
 Students are expected to check Portal daily for assignments.
 
@@ -43,21 +29,18 @@ Students will need regular access to a computer with git and p5.js installed, bo
 * p5.js Editor: [https://github.com/processing/p5.js-editor/releases](https://github.com/processing/p5.js-editor/releases)
 
 ## Textbooks
-### Online
-* [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/)
-* [Nature of Code](https://drive.google.com/file/d/1hMEbXcZDfEbSfmh_-XpBJTePuTg_xiJ5/view?usp=sharing)
+* [Online textbooks]((https://drive.google.com/drive/folders/1_zq8eZnKCsoD5Y-22_pZfTbOgZg2dwmB)): 
+    * Getting Started with P5JS
+    * Learning Javascript with P5JS
 ### Optional
 * [Getting Started with p5.js](https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772) by Lauren McCarthy, Casey Reas, and Ben Fry, O'Reilly, 1st edition ($8 – $16)
-
-## Differentiation
-This course is designed to accommodate students with differing pre-existing computing knowledge and future expectations for learning computer programming. The course exercises, homework, and projects will be assigned categories "required" and "advanced". Those stuents will be asked to choose their pathway ("required" or "advanced") though the curriculum at the beginning of the Semester. This choice will be recorded on the [Student Portfolio](student-work.md). The students will then proceed to complete their assignments and be evaluated according to this choice. 
 
 ## Grading
 
 The grade weighting is as follows (irresective of student choice for differentiation):
-* Student Portfolio (Classwork, Homework): 50%
+* Student Portfolio (Exercises, Projects): 60%
+* Walkthrough, Presentation: 15%
 * Final Project: 25%
-* Participation: 25%
 
 The programming assignments will include weekly individual and pair programming assignments, as well as your portfolio work to showcase your programming assignments.
 

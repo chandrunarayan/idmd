@@ -4,7 +4,7 @@
 Software influences all aspects of contemporary visual culture. This course is an introduction to computer programming within the context of the visual art. Students in this course will learn the fundamentals of computer programming -- conditional control structures, iteration, data structures, functions, classes, objects, and event-driven design. We will create projects based on student interest including, but not limited to games, machine-learning inspired art, simulations of physical, biological and social phenomena.
 
 We will learn and create using the programming language Javascript and the library p5.js, a full featured library that allows one to create interactive digital art for the web. To see examples of the interactive digital media you can create with code, watch this video by the creators of p5.js.
-## Remote Classroom Tools
+## Remote/Hybrid Classroom Applications
 
 In our IDMD classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning IDMD.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
 
@@ -20,17 +20,14 @@ In our IDMD classroom we are already using tools and techniques that are natural
    * [Ad-Hoc 1-1 Conf Scheduler](https://calendly.com/chandru-narayan/adhoc-conf) Mon, Tue, Thu, Fri: 2:30-5:30 PM
 10. EMAIL - check your Bush email when all other forms of communication fails! 
 
-#### [Remote Schooling Daily Schedule](./BSDS.png)
-![alt text](BSDS.png)
+#### [Remote/Hybrid Schooling Daily Schedules](./BSDS_R.png)
+![alt text](BSDS_R.png)
+![alt text](BSDS_H.png)
 
 #### A Reminder
-We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
+We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about wearing masks, washing hands, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
 
-![alt text][washhands]
-
-## Course Description
-
-Software influences all aspects of contemporary visual culture. Students will explore the essentials of Computer Programming including: cconditional control structures, iteration, data structures, functions, classes, objects, and event-driven design. We will create projects based on student interest including, but not limited to video games, installation art, and simulations of biological and social phenomena. We will learn and create using the programming language Javascript and the library p5.js, a full featured library that allows one to create interactive digital art for the web. To see examples of the interactive digital media you can create with code, [watch this video](https://www.youtube.com/watch?v=HerCR8bw_GE) by the creators of p5.js.
+![alt text](KCWH.png)
 
 ## Course Documents
 
@@ -44,9 +41,8 @@ Software influences all aspects of contemporary visual culture. Students will ex
 * Course Website: [IDMD 2020 Website](https://chandrunarayan.github.io/idmd/)
 * Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 * P5JS Basics: [Wiki Page for Help Examples and Reference](https://github.com/processing/p5.js/wiki/JavaScript-basics)
-* Other Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
+* Other Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1y16Sl6du4C773Iy2czlFcVXpeBPmvFYN)
 * Assignment Submissions via [Your Github Site](https://github.com/)
-* Slack Instant Messaging - [IDMD 2020 Slack](https://idmd2020.slack.com/)
 
 ## Course Credit
 
@@ -54,7 +50,7 @@ This course draws from the materials used in the UW Human Center for Design Engi
 
 ## Lessons
 
-### [Week 1](lessons/week1)
+### [Week 1 - Jan 4](lessons/week1)
 
 _Topics: Installfest, git, github, why p5.js, environment setup, using the reference, digital color, coordinate system_
 
@@ -64,21 +60,21 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 * [Exercises](lessons/week1/readme.md)
 * [Project: Robot](lessons/week1/exercises/robot.md)
 
-### [Week 2](lessons/week2)
+### [Week 2 - Jan 11](lessons/week2)
 
 _Topics: Programming flow, animation loops, functions, parameters, variables, max, min, sound_
 
 * [Overview](lessons/week2)
 * [Exercises](lessons/week2/readme.md)
 
-### [Week 3](lessons/week3)
+### [Week 3 - Jan 25 After Orientation](lessons/week3)
 
 _Topics: Conditional statements, logical operators, events, mouseX, mouseY, mouesIsPressed, frameCount, random, dist, mousePressed, mouseReleased_
 
 * [Overview](lessons/week3)
 * [Exercises](lessons/week3/readme.md)
 
-### [Week 4 After Winter Break](lessons/week4)
+### [Week 4 - Feb 1](lessons/week4)
 
 _Topics: keyPressed events, while and for loops, using text and fonts, using images_
 
@@ -86,114 +82,98 @@ _Topics: keyPressed events, while and for loops, using text and fonts, using ima
 * [Exercises](lessons/week4/code)
 * [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
 
-### [Week 5](lessons/week5)
+### [Week 5 - Feb 8](lessons/week5)
 
 _Topics: Review for loops, while loops, arrays, return statements, data vis_
 
 * [Overview](lessons/week5)
 * [Exercises](lessons/week5/code)
-* [Project: Data Visualization](lessons/week5/homework/data-visualization.md)  (For Advanced Pathway Students Only)
+* [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
 
-### [Week 6 - First week of Remote Schooling!](lessons/week6)
+### [Week 6 - Feb 22 After Mid-Winter Break](lessons/week6)
 
 _Topics: complete creativity expl, data vis, HTML/CSS_
 
 * [Overview](lessons/week6)
 * [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
-* [Project: Data Visualization](lessons/week5/homework/data-visualization.md) (For Advanced Pathway Students Only)
-* [Exercises: Student Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md) (For Advanced Pathway Students Only)
+* [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
+* [Exercises: Student Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md)
 
-### [Week 7 - 3/16](lessons/week7)
+### [Week 7 - Mar 1](lessons/week7)
 
 _Topics: Exercise and Project submissions ahead of comments_
 
-* [Overview](lessons/week8)
-* Discuss Submissions Status and catch-up for Standard Pathway Students
-* Timer based trigger exercise for Advanced Pathway Students 
+* [Overview](lessons/week7)
+* Discuss Submissions Status and catch-up
+* Timer based trigger exercise 
 
-### [Week 8 - 3/23](lessons/week8)
+### [Week 8 - Mar 8](lessons/week8)
 
 _Topics: Motion, Functions_
 
 * [Overview](lessons/week8)
 * Explore Motion, Functions
-* STD Team: [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md) *DUE 3/26*
-* ADV Team: [Project: Submit Data Viz](lessons/week5/homework/data-visualization.md) *DUE 3/23*
-* ADV Team: [Exercise: Exploding Bubbles](lessons/week7/code/exploding_bubbles.md) *DUE 3/23*
-* ADV Team: [Project: Moving Robot](lessons/week8/code/moving_robot.md) *PART 1 DUE 3/26*
+* [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md)
+* [Project: Submit Data Viz](lessons/week5/homework/data-visualization.md)
+* [Exercise: Exploding Bubbles](lessons/week7/code/exploding_bubbles.md)
+* [Project: Moving Robot](lessons/week8/code/moving_robot.md)
 
-### [Week 9 - 3/30](lessons/week9)
+### [Week 9 - Mar 15](lessons/week9)
 
 _Topics: Arrays, Functions, User Input_
 
 * [Overview](lessons/week9)
-* STD Team: [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md) *DUE 3/26*
-* ALL Teams: Learn to use Arrays, Functions [Project: Pins and Threads](lessons/week9/code/pins_threads.md)
-* STD Team: [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
-* ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/week8/code/moving_robot.md)
+* [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md)
+* Learn to use Arrays, Functions [Project: Pins and Threads](lessons/week9/code/pins_threads.md)
 
-### [Week 10 - 4/6 to 4/8 - SHORT WEEK](lessons/week10)
+### [Week 10 - Mar 22](lessons/week10)
 
 _Topics: Conferences and Catch Up on Assignments_
 
 * Conferences 1-1
-    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
-    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/anytime-wed-async)
+    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/adhoc-conf)
 * Help with Assignments
-* SPRING BREAK STARTS 4/9
 
-### Week 11 - 4/13 NO CLASSES - SPRING BREAK -
+### [Week 11 - Mar 29](lessons/week11)
 
-_No Classes_
+_Topics: Catch-up_
+* [Overview](lessons/week11)
+* [Exercises]()
 
 
-### [Week 12 - 4/22 and 4/23 - Sync Sessions](lessons/week12)
+### [Week 12 - Apr 5](lessons/week12)
 
 _Topics: Recursion, Fractals_
 * [Overview](lessons/week12)
 * [Exercises](lessons/week12/code/recursion)
 
-### [Week 13 - 4/27](lessons/week13)
+### [Week 13 - Apr 19 After Spring Break](lessons/week13)
 
 _Topics: Recursion, Complex Numbers, Mandelbrot Set, Array Lists_
 * [Overview](lessons/week13)
-* Exercises - No Coding assignment this week. [Setup Calendly meeting](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block) with me for discussing your final project
+* [Setup Calendly meeting](https://calendly.com/chandru-narayan/anytime-wed-async) with me for discussing your final project
 
-### [Week 14 - 5/4](lessons/week14)
+### [Week 14 - Apr 26](lessons/week14)
 
 _Topics: Objects, Array Lists, Perlin Noise_
 
 *  [Overview](lessons/week14)
 *  [Exercises](lessons/week14/plan/bubbles.md)
 
-### [Week 15 - 5/11](lessons/week15)
+### [Week 15 - May 3](lessons/week15)
 
 _Topics: Catching-up on assignments and 1-1 Conferences_
 
 * [Overview](lessons/week15)
-* Exercises: All pending assignments due in Student Portfolio by May 14th 
+* Exercises: All pending assignments due in Student Portfolio
 * Class Work: 1-1 Conferences and [Final Project Ideas](lessons/week15/plan/inspiration.md)
 
-### [Week 16 - 5/18](lessons/week15/plan/inspiration.md)
+### [Week 16 - May 10 Final Project Week](lessons/week15/plan/inspiration.md)
 
-_Topics: FINAL PROJECT WEEK 1_
+_Topics: FINAL PROJECT WEEK_
 
-* Class Work: Work on Final Project and 1-1 Conferences, Due May 28th
-
-### [Week 17 - 5/25](lessons/week17)
-
-_Topics: FINAL PROJECT WEEK 2 AND FINAL PRESENTATIONS_
-
-* Class Work: Final Project Completion by May 28th and Peer Sharing Presentations
-* [Student Portfolios](student-work.md)
-
-* [IDMD Students Congratulations! We are done!](https://editor.p5js.org/cnarayan/present/yIYhIOSom)
-![alt text][congrats]
-### Week 18 - 6/1
-
-_Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
-
-* Class Work: Peer Sharing Final Project Presentations
+* Class Work: Work on Final Project and 1-1 Conferences
 
 [washhands]: https://www.cdc.gov/handwashing/images/GettyImages-514363103-medium.jpg "Wash Hands"
 
