@@ -33,7 +33,7 @@ In our IDMD classroom we are already using tools and techniques that are natural
 ![alt text](BSDS_H.png)
 
 #### A Reminder
-We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about wearing masks, washing hands, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
+We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to be safe and considerate of others. Let us take time to be vigilant about wearing masks, washing hands, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
 
 ![alt text](KCWH.png)
 

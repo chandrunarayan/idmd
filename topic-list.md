@@ -18,5 +18,6 @@
 * Arrays
 * Data visuzlization and reading from a file
 * Basic overview/introduction to classes/objects
-* OPTIONAL Using video
-* OPTIONAL Physics simulations
+* Machine Learning
+* Using video
+* Physics simulations
