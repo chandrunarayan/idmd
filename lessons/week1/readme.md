@@ -38,8 +38,8 @@
 ## Exercises
 * [Building a robot](exercises/robot.md) 
   * Code your own colorful robot; make it your own with requirements below.
-  * Standard requirements - Legs, Body, Head, Eyes, Eyebrows - Robot is always facing front irrespective of movement
-  * Advanced requirements - Standard + Robot is sideways facing the direction of movement
+  * Program specifications - Legs, Body, Head, Eyes, Eyebrows - Robot is always facing front irrespective of movement
+  * Extra Credit - Robot is sideways facing the direction of movement
   * Practice using the reference
   * Practice using RGB color values - [Use this website](https://image-color.com)
   * Understand programming flow
