@@ -16,6 +16,7 @@
 
 ## Exercises
 
+* [Complete Building the robot exercise from Week 1](exercises/robot.md)
 * [Responsive face](exercises/face.md)
 * [Moving Ball](exercises/ball.md)
 
