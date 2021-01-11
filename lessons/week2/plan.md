@@ -3,7 +3,7 @@
 # Plan
 ## Week 2
 
-### [Face Exercise](exercises/face.md) (50 minutes)
+### [Face Exercise](exercises/face.md)
 
 * Show example
 * Demonstrate adding functions
@@ -11,7 +11,7 @@
 * Show how to use the sound library, variables, conditionals
 * You should finish and post your face to your github portfolio
 
-### Ball Demo (30 minutes)
+### [Ball Exercise](exercises/ball.md)
 
 * Focus on demonstrating variables, assignment statements, increment/decrement,max/min 
 

@@ -4,4 +4,3 @@
 
 * [Basic Face](basic_face_plus)
 * [Moving Ball](moving_ball)
-* [Setup and Draw Overview](setup_draw_overview)

@@ -15,7 +15,4 @@ function draw() {
     dir = dir * -1;
   }
   x = x + dir;
-  // x = (x + 1) % 275;
-  // x = min(x + 1, 275);
-  // x = x + 1;
 }

@@ -16,8 +16,9 @@
 
 ## Exercises
 
-* [Moving Ball](exercises/ball.md)
 * [Responsive face](exercises/face.md)
+* [Moving Ball](exercises/ball.md)
+
 
 
 ## Debrief
@@ -28,7 +29,7 @@
 
 ## Resources
 
-* [Code examples](code)
+* [Code examples](code/)
 
 ## Homework
 
