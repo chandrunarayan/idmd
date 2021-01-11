@@ -8,5 +8,5 @@
 | Max | [https://maxalhadeff.github.io/idmd-portfolio](https://maxalhadeff.github.io/idmd-portfolio) | Standard
 | Tilden | [https://tildenkeffeler.github.io/idmd-portfolio](https://tildenkeffeler.github.io/idmd-portfolio) | Standard
 | Owen | [https://owenprendergast.github.io/idmd-portfolio](https://owenprendergast.github.io/idmd-portfolio) | Standard
-| Eli | [https://eliweise.github.io/idmd-portfolio](https://eliweise.github.io/idmd-portfolio) | Standard
+| Eli | [https://el1weise.github.io/idmd-portfolio](https://el1weise.github.io/idmd-portfolio) | Standard
 

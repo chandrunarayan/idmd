@@ -11,7 +11,7 @@
      * `maxalhadeff`
      * `tildenkeffeler`
      * `owenprendergast`
-     * `eliweise`  
+     * `el1weise`  
   * [Then create your first Sketch with these instructions](https://p5js.org/get-started/#sketch)
   * Save your sketch - we will upload this sketch to Github later
 
