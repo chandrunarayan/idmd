@@ -19,7 +19,7 @@ __Note__: It is an image, as we would like you to practice typing out the code.
 #### Need help?
 These steps will help you color your robot
 * Find the robot part you want to color in the code
-* Find a color using the color selector [Tools > Color Selector]
+* Find a color using the color selector - [Use this website](https://image-color.com)
 * Transfer the three RGB color numbers to the `fill()` function, or the `stroke()` function __before__ the line of code that draws the robot's part
 * Run the program to make sure it still works and looks the way you want it to
 * Add in a comment that describes the line of code you wrote or changed
