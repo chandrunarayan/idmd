@@ -57,7 +57,7 @@ If you want to challenge yourself with this project try out any of the items bel
 * Give your robot some extra features, or even a side-kick!
 
 ### Reference
-This assignment is inspired by the robot code provided by [Casey Reas](http://reas.com/) and [Ben Fry](http://benfry.com/) in the Make:Getting Started with Processing book.
+Online Book Reference: [1. Getting Started with Processing](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing) Study the 1st 3 chapters.
 
 [static]: images/code_not_dynamic.png "Code that is not dynamic"
 

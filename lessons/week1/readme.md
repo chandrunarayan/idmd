@@ -53,6 +53,7 @@
 * What did you especially enjoy about today's class?
 
 ## Resources
+* Online Book Reference: [1. Getting Started with Processing](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing) Study the 1st 3 chapters.
 * How to add projects to your Github portfolio video (No Sound)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQ99-XExRpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
