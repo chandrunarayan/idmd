@@ -17,16 +17,16 @@
 ## Exercises
 
 * [Complete Building the robot exercise from Week 1](../week1/exercises/robot.md)
-* [Responsive face](exercises/face.md)
 * [Moving Ball](exercises/ball.md)
+* [Responsive face](exercises/face.md)
 
 
 
 ## Debrief
 
-* What new things did you learn today?
+* What new things did you learn this week?
 * What topics are you still struggling with?
-* What did you especially enjoy about today's class?
+* What did you especially enjoy about this week's class?
 
 ## Resources
 

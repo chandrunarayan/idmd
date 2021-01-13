@@ -2,5 +2,6 @@
 
 # Week 2 Code
 
-* [Basic Face](basic_face_plus)
 * [Moving Ball](moving_ball)
+* [Basic Face](basic_face_plus)
+
