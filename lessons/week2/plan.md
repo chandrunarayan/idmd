@@ -1,7 +1,7 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
 # Plan
-## Week 2
+## Week 2 & Week 3
 
 ### [Ball Exercise](exercises/ball.md)
 
@@ -15,4 +15,4 @@
 * Show how to use the sound library, variables, conditionals
 * You should finish and post your face to your github portfolio
 
-### [Debrief](readme.md#debrief) (10 minutes)
+### [Debrief](readme.md#debrief)

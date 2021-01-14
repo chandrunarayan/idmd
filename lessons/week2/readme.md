@@ -1,6 +1,6 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
-# Week 2
+# Week 2 & 3
 
 ## Learning Objectives
 

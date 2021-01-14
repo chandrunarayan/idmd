@@ -69,7 +69,7 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 * [Exercises](lessons/week1/readme.md)
 * [Project: Robot](lessons/week1/exercises/robot.md)
 
-### [Week 2 & 3 - Jan 11](lessons/week2)
+### [Week 2 & 3 - Jan 11 & 18](lessons/week2)
 
 _Topics: Programming flow, animation loops, functions, parameters, variables, max, min, sound_
 
