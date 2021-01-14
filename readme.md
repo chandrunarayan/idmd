@@ -74,6 +74,7 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 _Topics: Programming flow, animation loops, functions, parameters, variables, max, min, sound_
 
 * [Overview](lessons/week2)
+* [Lesson Plan](lessons/week2/plan.md)
 * [Exercises](lessons/week2/readme.md)
 
 ### [Week 4 - Jan 25 After Orientation](lessons/week3)
