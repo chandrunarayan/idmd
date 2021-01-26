@@ -66,7 +66,7 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 
 * [Overview](lessons/week1)
 * [Portfolio Setup](lessons/week1/portfolio.md)
-* [Exercises](lessons/week1/readme#exercises)
+* [Exercises](lessons/week1/#exercises)
 * [Project: Robot](lessons/week1/exercises/robot.md)
 
 ### [Week 2 & 3 - Jan 11 & 18](lessons/week2)
@@ -75,14 +75,14 @@ _Topics: Programming flow, animation loops, functions, parameters, variables, ma
 
 * [Overview](lessons/week2)
 * [Lesson Plan](lessons/week2/plan.md)
-* [Exercises](lessons/week2/readme#exercises)
+* [Exercises](lessons/week2/#exercises)
 
 ### [Week 4 - Jan 25 After Orientation](lessons/week3)
 
 _Topics: Conditional statements, logical operators, events, mouseX, mouseY, mouesIsPressed, frameCount, random, dist, mousePressed, mouseReleased_
 
 * [Overview](lessons/week3)
-* [Exercises](lessons/week3/readme#exercises)
+* [Exercises](lessons/week3/#exercises)
 
 ### [Week 5 - Feb 1](lessons/week4)
 
