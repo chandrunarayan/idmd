@@ -141,11 +141,12 @@ function ease(target, current, ease) {
 
 ```
     
+
+1. [Interactive Monster Project - Follow Specifications as noted](homework/interactive-monster.md)
+
 1. OPTIONAL [Add a Reset Button](code/rect_hover) 
 
 * Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
-
-1. OPTIONAL [Interactive Monster - Follow Specifications as noted](homework/interactive-monster.md)
 
 ## Debrief
 
@@ -154,5 +155,5 @@ function ease(target, current, ease) {
 * What do you especially enjoy about this class?
 
 ## Homework
-* Complete week 3 exercises. Upload project code to Github and modify index.html
+* Complete week 3 exercises and 1 project. Upload exercises and project code to Github and modify index.html
 * Read Code Submission Expectations for Assessments](../../final-project.md)
