@@ -27,16 +27,94 @@
 ## Exercises
 
 * [Complete Week 2 Exercises: Moving Ball and Responsive Face](../week2/readme.md)
-* [Dot Drawing](code/drawing_with_ellipses_0) - Look in Slack for initial code
-	* Update to change to random color when mouse is clicked
-* [Line Drawing](code/line_drawing) - Look in Slack for initial code
+* [Dot Drawing](code/drawing_with_ellipses_0)
+```
+function setup() {
+  createCanvas(500, 500);
+  background(255, 0, 0);
+}
+
+function draw() {
+  ellipse(mouseX, mouseY, 25, 25);
+}
+```
+	* Update above code o change to random color when mouse is clicked
+* [Line Drawing](code/line_drawing)
+```
+function setup() {
+  createCanvas(500, 500);
+  background(0, 0, 255);
+}
+
+function draw() {
+  if(mouseIsPressed) {
+    stroke(255, 255, 255);
+    line(150, 150, mouseX, mouseY);
+  }
+}
+```
 	* Update to change to add a tiny circle at the end of the line filled with a random color each time when when the mouse is clicked
-* [Growing Ellipse](code/growing_circle) - Look in Slack for initial code
+
+* [Growing Ellipse](code/growing_circle)
+```
+var x = 250;
+var y = 250;
+var w = 50;
+
+function setup() {
+  createCanvas(500, 500);
+  background(255);
+  noStroke();
+}
+
+function draw() {
+  background(255);
+  fill(120);
+  ellipse(x, y, w, w);
+  distance = dist(x, y, mouseX, mouseY);
+  if (distance < w / 2) {
+    w += 1; 
+  } else {
+    w = 50;  
+  }
+}
+```
 	* Update to make it look like a red giant star with increasing temperature with increasing size 
-		* slowly increase the intensity of the Red color only as the circle grows
-	* ADVANCED - Explode the star when it reaches the frame border and stop
-* ADVANCED [Add a Reset Button](code/rect_hover) - Look in Slack for initial code - Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
-* ADVANCED OPTIONAL [Interactive Monster - Follow Specifications as noted](homework/interactive-monster.md)
+	* slowly increase the intensity of the Red color only as the circle grows
+	* Explode the star when it reaches the frame border and stop
+* [max() Example](code/max_example)
+```
+var mic;
+var vol = 0;
+var x = 0;
+
+function setup() {
+  createCanvas(600, 600);
+
+  // create and start audio input
+  mic = new p5.AudioIn();
+  mic.start();
+}
+
+function draw() {
+  background(200);
+
+  // get the overall volume (between 0 and 1.0)
+  var vol = mic.getLevel();
+
+  // map vol from range 0 to 1 to range 0, 600
+  var xVol = map(vol, 0, 1, 0, 600);
+  // let x either be the value of xVol or stay as x, whichever is currently greater
+  x = max(x, xVol); 
+
+  // un-comment this in to see straight value of xVol
+  //ellipse(xVol, 300, 50, 50); 
+  ellipse(x, 300, 50, 50);
+}
+```
+    * Update to change adding ease() function	
+* [Add a Reset Button](code/rect_hover) - Look in Slack for initial code - Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
+* OPTIONAL [Interactive Monster - Follow Specifications as noted](homework/interactive-monster.md)
 
 ## Debrief
 
@@ -54,7 +132,5 @@
 	* [More Conditionals Video](https://vimeo.com/138935678)
 
 ## Homework
-* Standard Pathway Students Complete Week 1 and Week 2 Homework and Week 3 Exercises
-* Advanced Pathway Students Complete Week 1 and Week 2 Homework and Week 3 Exercises PLUS ADVANCED options to exercises 
-* All Sudents - Upload project code to Github and modify index.html
-* All Sudents - [Read Code Submission Expectations for Assessments](../../final-project.md)
+* Complete week 3 exercises. Upload project code to Github and modify index.html
+* Read Code Submission Expectations for Assessments](../../final-project.md)
