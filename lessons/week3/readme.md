@@ -26,10 +26,9 @@
 
 ## Exercises
 
-* [Complete Week 2 Exercises: Moving Ball and Responsive Face](../week2/readme.md)
 1. [Dot Drawing](code/drawing_with_ellipses_0)
 * Update initial code below to change to random color when mouse is clicked
-```
+````
 function setup() {
   createCanvas(500, 500);
   background(255, 0, 0);
@@ -38,12 +37,12 @@ function setup() {
 function draw() {
   ellipse(mouseX, mouseY, 25, 25);
 }
-```
+````
 
 2. [Line Drawing](code/line_drawing) 
 * Update initial code below to change to add a tiny circle at the end of the line filled with a random color each time when when the mouse is clicked
 
-```
+````
 function setup() {
   createCanvas(500, 500);
   background(0, 0, 255);
@@ -55,14 +54,14 @@ function draw() {
     line(150, 150, mouseX, mouseY);
   }
 }
-```
+````
 
 3. [Growing Ellipse](code/growing_circle)
 * Update to make it look like a red giant star with increasing temperature with increasing size
 * Slowly increase the intensity of the Red color only as the circle grows
 * Explode the star when it reaches the frame border and stop
 
-```
+````
 var x = 250;
 var y = 250;
 var w = 50;
@@ -84,12 +83,12 @@ function draw() {
     w = 50;  
   }
 }
-```
+````
 
 4. [max() Example](code/max_example)
 * Update to change adding ease() function	
 
-```
+````
 var mic;
 var vol = 0;
 var x = 0;
@@ -117,7 +116,7 @@ function draw() {
   //ellipse(xVol, 300, 50, 50); 
   ellipse(x, 300, 50, 50);
 }
-```
+````
     
 5. [Add a Reset Button](code/rect_hover) 
 * Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
