@@ -26,7 +26,7 @@
 
 ## Exercises
 
-1. [Dot Drawing](code/drawing_with_ellipses_0)
+1.  [Dot Drawing](code/drawing_with_ellipses)
 * Update initial code below to change to random color when mouse is clicked
 
 ```javascript
@@ -41,7 +41,7 @@ function draw() {
 }
 ```
 
-2. [Line Drawing](code/line_drawing) 
+2.  [Line Drawing](code/line_drawing_f) 
 * Update initial code below to change to add a tiny circle at the end of the line filled with a random color each time when when the mouse is clicked
 
 ```javascript
@@ -58,7 +58,7 @@ function draw() {
 }
 ```
 
-3. [Growing Ellipse](code/growing_circle)
+3.  [Growing Ellipse](code/growing_circle_f)
 * Update to make it look like a red giant star with increasing temperature with increasing size
 * Slowly increase the intensity of the Red color only as the circle grows
 * Explode the star when it reaches the frame border and stop
@@ -87,13 +87,13 @@ function draw() {
 }
 ```
 
-4. [max() Example](code/max_example)
-* Update to change adding ease() function	
+4.  [map() max() and min() Example](code/max_example_ease)
+* Update to by adding call to max() and ease() function	
 
 ```javascript
 var mic;
 var vol = 0;
-var x = 0;
+var xMax = 0;
 
 function setup() {
   createCanvas(600, 600);
@@ -109,18 +109,35 @@ function draw() {
   // get the overall volume (between 0 and 1.0)
   var vol = mic.getLevel();
 
+  // add a call to the ease function here to smooth the volume variable
+  // it should be of the form vol = vol + ease(......)
+
   // map vol from range 0 to 1 to range 0, 600
   var xVol = map(vol, 0, 1, 0, 600);
+
   // let x either be the value of xVol or stay as x, whichever is currently greater
-  x = max(x, xVol); 
+  xMax = max(xMax, xVol); 
 
   // un-comment this in to see straight value of xVol
-  //ellipse(xVol, 300, 50, 50); 
-  ellipse(x, 300, 50, 50);
+  var xVol = map(vol, 0, 1, 0, 600);
+  // let xMax either be the value of xVol or stay as x, whichever is currently greater
+  xMax = max(xMax, xVol); 
+
+  // Draw ellipses for instantaneous volume and Max volume
+  fill(0, 0, 255);
+  ellipse(xVol, 200, 50, 50);
+  fill(255, 0, 0);
+  ellipse(xMax, 400, 50, 50);
 }
+
+function ease(target, current, ease) {
+  return (target-current)/ease;
+}
+
+
 ```
     
-5. [Add a Reset Button](code/rect_hover) 
+5.  OPTIONAL [[Add a Reset Button](code/rect_hover) 
 * Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
 
 6.  OPTIONAL [Interactive Monster - Follow Specifications as noted](homework/interactive-monster.md)

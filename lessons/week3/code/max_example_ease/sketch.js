@@ -1,6 +1,6 @@
 var mic;
 var vol = 0;
-var x = 0;
+var xMax = 0;
 
 function setup() {
   createCanvas(600, 600);
@@ -23,14 +23,15 @@ function draw() {
 
   // map vol from range 0 to 1 to range 0, 600
   var xVol = map(vol, 0, 1, 0, 600);
-  // let x either be the value of xVol or stay as x, whichever is currently greater
-  x = max(x, xVol); 
-
-  // un-comment this in to see straight value of xVol
-  // ellipse(xVol, 300, 50, 50); 
-  ellipse(x, 300, 50, 50);
+  // let xMax either be the value of xVol or stay as x, whichever is currently greater
+  xMax = max(xMax, xVol); 
+  fill(0, 0, 255);
+  ellipse(xVol, 200, 50, 50);
+  fill(255, 0, 0);
+  ellipse(xMax, 400, 50, 50);
 }
 
 function ease(target, current, ease) {
   return (target-current)/ease;
 }
+
