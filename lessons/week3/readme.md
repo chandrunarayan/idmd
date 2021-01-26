@@ -28,6 +28,7 @@
 
 * [Complete Week 2 Exercises: Moving Ball and Responsive Face](../week2/readme.md)
 * [Dot Drawing](code/drawing_with_ellipses_0)
+
 ```js
 function setup() {
   createCanvas(500, 500);
@@ -38,8 +39,10 @@ function draw() {
   ellipse(mouseX, mouseY, 25, 25);
 }
 ```
+
 	* Update above code o change to random color when mouse is clicked
 * [Line Drawing](code/line_drawing)
+
 ```js
 function setup() {
   createCanvas(500, 500);
@@ -53,9 +56,11 @@ function draw() {
   }
 }
 ```
+
 	* Update to change to add a tiny circle at the end of the line filled with a random color each time when when the mouse is clicked
 
 * [Growing Ellipse](code/growing_circle)
+
 ```js
 var x = 250;
 var y = 250;
@@ -79,10 +84,12 @@ function draw() {
   }
 }
 ```
+
 	* Update to make it look like a red giant star with increasing temperature with increasing size 
 	* slowly increase the intensity of the Red color only as the circle grows
 	* Explode the star when it reaches the frame border and stop
 * [max() Example](code/max_example)
+
 ```js
 var mic;
 var vol = 0;
@@ -112,6 +119,7 @@ function draw() {
   ellipse(x, 300, 50, 50);
 }
 ```
+
     * Update to change adding ease() function	
 * [Add a Reset Button](code/rect_hover) - Look in Slack for initial code - Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
 * OPTIONAL [Interactive Monster - Follow Specifications as noted](homework/interactive-monster.md)
