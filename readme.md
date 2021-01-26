@@ -83,6 +83,7 @@ _Topics: Conditional statements, logical operators, events, mouseX, mouseY, moue
 
 * [Overview](lessons/week3)
 * [Exercises](lessons/week3/#exercises)
+* [Project: Interactive Monster](lessons/week3/homework/interactive-monster.md)
 
 ### [Week 5 - Feb 1](lessons/week4)
 

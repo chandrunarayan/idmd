@@ -1,8 +1,6 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
-# Week 3 Homework
-
-## Interactive Monster
+## Interactive Monster Project
 
 ### Goals
 
@@ -76,12 +74,8 @@ Example monsters:
 * We are changing monsters by clicking, as an improvement add some buttons that allows the user to switch by clicking a button instead of just any mouse click
 * Add an interesting moving background to the monster
 
-### Resources
-* Daniel Shiffman [conditionals video 1](https://vimeo.com/138935676)
-* Daniel Shiffman [conditionals video 2](https://vimeo.com/138935678)
-
 [monster-1]: images/robot.png "Monster Example 1"
 
-[monster-2]: images/monster_2.png "Monster Example 2"
+[monster-2]: images/monster_1.png "Monster Example 2"
 
 [monster-3]: images/monster_2.png "Monster Example 3"

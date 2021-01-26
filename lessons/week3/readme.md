@@ -153,15 +153,6 @@ function ease(target, current, ease) {
 * What topics are you still struggling with?
 * What do you especially enjoy about this class?
 
-## Resources
-
-* [Code Examples](code)
-* Daniel Shiffman Videos
-	* [p5.js Variables Video](https://vimeo.com/138327548)
-	* [p5.js Functions Video](https://vimeo.com/139587733)
-	* [Intro to Conditionals Video](https://vimeo.com/138935676)
-	* [More Conditionals Video](https://vimeo.com/138935678)
-
 ## Homework
 * Complete week 3 exercises. Upload project code to Github and modify index.html
 * Read Code Submission Expectations for Assessments](../../final-project.md)
