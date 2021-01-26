@@ -26,7 +26,8 @@
 
 ## Exercises
 
-1.  [Dot Drawing](code/drawing_with_ellipses)
+1. [Dot Drawing](code/drawing_with_ellipses)
+
 * Update initial code below to change to random color when mouse is clicked
 
 ```javascript
@@ -41,7 +42,8 @@ function draw() {
 }
 ```
 
-2.  [Line Drawing](code/line_drawing_f) 
+1. [Line Drawing](code/line_drawing_f) 
+
 * Update initial code below to change to add a tiny circle at the end of the line filled with a random color each time when when the mouse is clicked
 
 ```javascript
@@ -58,7 +60,8 @@ function draw() {
 }
 ```
 
-3.  [Growing Ellipse](code/growing_circle_f)
+1. [Growing Ellipse](code/growing_circle_f)
+
 * Update to make it look like a red giant star with increasing temperature with increasing size
 * Slowly increase the intensity of the Red color only as the circle grows
 * Explode the star when it reaches the frame border and stop
@@ -87,7 +90,8 @@ function draw() {
 }
 ```
 
-4.  [map() max() and min() Example](code/max_example_ease)
+1. [map() max() and min() Example](code/max_example_ease)
+
 * Update to by adding call to max() and ease() function	
 
 ```javascript
@@ -137,10 +141,11 @@ function ease(target, current, ease) {
 
 ```
     
-5.  OPTIONAL [[Add a Reset Button](code/rect_hover) 
+1. OPTIONAL [[Add a Reset Button](code/rect_hover) 
+
 * Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
 
-6.  OPTIONAL [Interactive Monster - Follow Specifications as noted](homework/interactive-monster.md)
+1. OPTIONAL [Interactive Monster - Follow Specifications as noted](homework/interactive-monster.md)
 
 ## Debrief
 
