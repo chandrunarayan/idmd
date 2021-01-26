@@ -90,9 +90,9 @@ function draw() {
 }
 ```
 
-4 [map() max() and min() Example](code/max_example_ease)
+4 [React to Sound Volume](code/max_example_ease)
 
-* Update to by adding call to max() and ease() function	
+* Update code by adding call to max() and ease() function	
 
 ```javascript
 var mic;
@@ -147,6 +147,9 @@ function ease(target, current, ease) {
 6 OPTIONAL [Add a Reset Button](code/rect_hover) 
 
 * Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
+
+## Resources
+[Inital Code for Exercises and Project](code])
 
 ## Debrief
 
