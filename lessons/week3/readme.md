@@ -28,7 +28,7 @@
 
 1 [Dot Drawing](code/drawing_with_ellipses)
 
-* Update initial code below to change to random color when mouse is clicked
+* REQUIRED: Update initial code below to change to random color when mouse is clicked
 
 ```javascript
 
@@ -44,7 +44,7 @@ function draw() {
 
 2 [Line Drawing](code/line_drawing_f) 
 
-* Update initial code below to change to add a tiny circle at the end of the line filled with a random color each time when when the mouse is clicked
+* REQUIRED: Update initial code below to change to add a tiny circle at the end of the line filled with a random color each time when when the mouse is clicked
 
 ```javascript
 function setup() {
@@ -62,9 +62,9 @@ function draw() {
 
 3 [Growing Ellipse](code/growing_circle_f)
 
-* Update to make it look like a red giant star with increasing temperature with increasing size
-* Slowly increase the intensity of the Red color only as the circle grows
-* Explode the star when it reaches the frame border and stop
+* REQUIRED: Update to make it look like a red giant star with increasing temperature with increasing size
+* REQUIRED: Slowly increase the intensity of the Red color only as the circle grows
+* OPTIONAL: Explode the star when it reaches the frame border and stop
 
 ```javascript
 var x = 250;
@@ -92,7 +92,8 @@ function draw() {
 
 4 [React to Sound Volume](code/max_example_ease)
 
-* Update code by adding call to max() and ease() function	
+* REQUIRED: Update code to display a filled rectangle (instead of an ellipse) indicating instantaneous and maximum volume using the max() and map() functions
+* OPTIONAL: Update code by adding call to ease() function to smooth the increments
 
 ```javascript
 var mic;
@@ -142,9 +143,9 @@ function ease(target, current, ease) {
 ```
     
 
-5 [Interactive Monster Project - Follow Specifications as noted](homework/interactive-monster.md)
+5 REQUIRED: [Interactive Monster Project - Follow Specifications as noted](homework/interactive-monster.md)
 
-6 OPTIONAL [Add a Reset Button](code/rect_hover) 
+6 OPTIONAL: [Add a Reset Button](code/rect_hover) 
 
 * Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
 
@@ -159,4 +160,6 @@ function ease(target, current, ease) {
 
 ## Homework
 * Complete week 4 exercises and 1 project. Upload exercises and project code to Github and modify index.html
+* You need to complete all "REQIUIRED:" tasks to obtain full credit
+* Completing "OPTIONAL:" will earn you extra credits which will carry overfor other assignments
 * Read Code Submission Expectations for Assessments](../../final-project.md)
