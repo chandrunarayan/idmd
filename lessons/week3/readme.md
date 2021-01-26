@@ -149,7 +149,7 @@ function ease(target, current, ease) {
 * Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
 
 ## Resources
-[Inital Code for Exercises and Project](code])
+[Inital Code for Exercises and Project](code)
 
 ## Debrief
 
