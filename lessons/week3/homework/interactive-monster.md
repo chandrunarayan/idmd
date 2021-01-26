@@ -4,8 +4,6 @@
 
 ## Interactive Monster
 
-_[Due Thursday, 02/13]_
-
 ### Goals
 
 This assignment will help you practice using if-statements, to allow your program to perform different operations without interference. You will be creating a custom monster, with a moving eye(s), and jumping interactions. 
@@ -82,8 +80,8 @@ Example monsters:
 * Daniel Shiffman [conditionals video 1](https://vimeo.com/138935676)
 * Daniel Shiffman [conditionals video 2](https://vimeo.com/138935678)
 
-[monster-1]: https://github.com/chandrunarayan/idmd/blob/master/lessons/week3/homework/images/robot.png "Monster Example 1"
+[monster-1]: images/robot.png "Monster Example 1"
 
-[monster-2]: https://github.com/chandrunarayan/idmd/blob/master/lessons/week3/homework/images/monster_2.png "Monster Example 2"
+[monster-2]: images/monster_2.png "Monster Example 2"
 
-[monster-3]: https://github.com/chandrunarayan/idmd/blob/master/lessons/week3/homework/images/monster_2.png "Monster Example 3"
+[monster-3]: images/monster_2.png "Monster Example 3"
