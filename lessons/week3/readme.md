@@ -13,11 +13,12 @@
 * Learn about using max and min
 * Reinforce the ability to use the variables mouseX, mouseY, mouseIsPressed, frameCount
 * Understand and be able to use the functions random, dist, mousePressed, and mouseReleased
-* Continue to learn and practice with conditional statements
+* Learn and practice with conditional statements
 * Understand and be able to use logical operators (and, or)
 
 ## Lessons
 
+* max() and min()
 * Events
 * Conditional statement structure
 * Functions: random, dist, mousePressed, mouseReleased
