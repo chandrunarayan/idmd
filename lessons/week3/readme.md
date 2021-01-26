@@ -26,7 +26,7 @@
 
 ## Exercises
 
-1. [Dot Drawing](code/drawing_with_ellipses)
+1 [Dot Drawing](code/drawing_with_ellipses)
 
 * Update initial code below to change to random color when mouse is clicked
 
@@ -42,7 +42,7 @@ function draw() {
 }
 ```
 
-1. [Line Drawing](code/line_drawing_f) 
+2 [Line Drawing](code/line_drawing_f) 
 
 * Update initial code below to change to add a tiny circle at the end of the line filled with a random color each time when when the mouse is clicked
 
@@ -60,7 +60,7 @@ function draw() {
 }
 ```
 
-1. [Growing Ellipse](code/growing_circle_f)
+3 [Growing Ellipse](code/growing_circle_f)
 
 * Update to make it look like a red giant star with increasing temperature with increasing size
 * Slowly increase the intensity of the Red color only as the circle grows
@@ -90,7 +90,7 @@ function draw() {
 }
 ```
 
-1. [map() max() and min() Example](code/max_example_ease)
+4 [map() max() and min() Example](code/max_example_ease)
 
 * Update to by adding call to max() and ease() function	
 
@@ -142,9 +142,9 @@ function ease(target, current, ease) {
 ```
     
 
-1. [Interactive Monster Project - Follow Specifications as noted](homework/interactive-monster.md)
+5 [Interactive Monster Project - Follow Specifications as noted](homework/interactive-monster.md)
 
-1. OPTIONAL [Add a Reset Button](code/rect_hover) 
+6 OPTIONAL [Add a Reset Button](code/rect_hover) 
 
 * Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
 
@@ -155,5 +155,5 @@ function ease(target, current, ease) {
 * What do you especially enjoy about this class?
 
 ## Homework
-* Complete week 3 exercises and 1 project. Upload exercises and project code to Github and modify index.html
+* Complete week 4 exercises and 1 project. Upload exercises and project code to Github and modify index.html
 * Read Code Submission Expectations for Assessments](../../final-project.md)
