@@ -122,12 +122,12 @@ function draw() {
   // let x either be the value of xVol or stay as x, whichever is currently greater
   xMax = max(xMax, xVol); 
 
-  // un-comment this in to see straight value of xVol
+  // map volume to x coordinate
   var xVol = map(vol, 0, 1, 0, 600);
   // let xMax either be the value of xVol or stay as x, whichever is currently greater
   xMax = max(xMax, xVol); 
 
-  // Draw ellipses for instantaneous volume and Max volume
+  // Draw ellipses for both instantaneous volume and Max volume
   fill(0, 0, 255);
   ellipse(xVol, 200, 50, 50);
   fill(255, 0, 0);
