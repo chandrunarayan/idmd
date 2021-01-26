@@ -1,9 +1,3 @@
-/*  Originally created by Melody Hirsch
-    Edited by susan evans
-    Last edited 01/31/2017
-    Program that draws a cute robot
-    Uses functions and parameters
-*/
 
 function setup() {
   createCanvas(450, 850);     // creates a vertical rectangle canvas
