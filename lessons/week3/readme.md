@@ -141,7 +141,7 @@ function ease(target, current, ease) {
 
 ```
     
-1. OPTIONAL [[Add a Reset Button](code/rect_hover) 
+1. OPTIONAL [Add a Reset Button](code/rect_hover) 
 
 * Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
 
