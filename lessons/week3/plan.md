@@ -16,8 +16,8 @@
 * [Tilden](https://tildenkeffeler.github.io/idmd-portfolio) - [Max](https://maxalhadeff.github.io/idmd-portfolio)
 * [Owen](https://owenprendergast.github.io/idmd-portfolio) - [Eli](https://el1weise.github.io/idmd-portfolio)
 
-* Student Portfolios in Paired Teams (Please help each other!)
-* for a primer on index.html modifications [see this](../../student-portfolios.md)
+* [Student Work in Paired Teams](../../student-work.md) Please help each other!
+* for a primer on index.html modifications [see this](../week1/add_p5js_project_to_index.md)
 * Comment/Fix/clean your code; help each other!
 
 ## Lessons

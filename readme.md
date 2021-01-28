@@ -22,11 +22,12 @@ In our IDMD classroom we are already using tools and techniques that are natural
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
 5. [P5JS Web Editor](https://editor.p5js.org) - web code editor for p5js
 6. [Student Portfolios](student-work.md) - Links to Student Porfolios
+6. [IDMD Slack Messaging](https://cpjava2020.slack.com/)) - Links to Student Porfolios
 7. [Online textbooks](https://drive.google.com/drive/folders/1_zq8eZnKCsoD5Y-22_pZfTbOgZg2dwmB?usp=sharing) - Getting Started with P5JS 
 8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110760511/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
 9. Conference Appointments:
-   * [Async Zoom Scheduler](https://calendly.com/chandru-narayan/anytime-wed-async) - Wed 9:00 AM to 5:30 PM
-   * [Ad-Hoc 1-1 Conf Scheduler](https://calendly.com/chandru-narayan/adhoc-conf) Mon, Tue, Thu, Fri: 2:30-5:30 PM
+   * [Async Zoom Scheduler](https://calendly.com/chandru-narayan/anytime-wed-async) - Wed/Thu 9:00 AM to 5:30 PM
+   * [Ad-Hoc 1-1 Conf Scheduler](https://calendly.com/chandru-narayan/anytime-wed-async) Weekdays: 3:00-8:00 PM
 10. EMAIL - check your Bush email when all other forms of communication fails! 
 
 #### [Remote/Hybrid Schooling Daily Schedules](./BSDS_R.png)
