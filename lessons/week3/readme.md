@@ -4,6 +4,7 @@
 ## Re-Introduction
 
 * Did you write a statement about yourself and modify your TOC ?
+* Did you work on IDMD code this week - [how much time did you spend](https://chandrunarayan.github.io/idmd/#expectations-for-school-work) ?
 * Do you know [my office hours](https://bush.myschoolapp.com/app/faculty#academicclass/110760511/0/bulletinboard) ?
 * Do you how your [work will be evaluated](../../syllabus.md) ?
 * Did you get an invitation to the [IDMD Slack IM](https://cpjava2020.slack.com/) ?
