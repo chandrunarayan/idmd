@@ -22,7 +22,7 @@ In our IDMD classroom we are already using tools and techniques that are natural
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
 5. [P5JS Web Editor](https://editor.p5js.org) - web code editor for p5js
 6. [Student Portfolios](student-work.md) - Links to Student Porfolios
-6. [IDMD Slack Messaging](https://cpjava2020.slack.com/)) - Links to Student Porfolios
+6. [IDMD Slack Messaging](https://app.slack.com/client/TTS9Y46VC/G01LL5FGCV7) - Links to IDMD Slack Messaging for Code Extracts etc.
 7. [Online textbooks](https://drive.google.com/drive/folders/1_zq8eZnKCsoD5Y-22_pZfTbOgZg2dwmB?usp=sharing) - Getting Started with P5JS 
 8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110760511/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
 9. Conference Appointments:
