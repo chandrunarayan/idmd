@@ -50,6 +50,7 @@ For specific details on how code submisisons will be graded please refer to [Pro
 Your participation grade will include your scores on quizzes, your active participation in class, as well as your participation on Google Classroom. We expect students to come to class with relevant ideas, and questions related to the class topics.
 
 We expect  students to be active participants in the learning process. The questions below are designed to help guide you.
+* Did you make at least 5 submits per week to your Github portfolios?
 * Do you make at least one excellent contribution (e.g., insight or question) to each class without monopolizing discussion?
 * Do you give active nonverbal and verbal feedback?
 * Do you refer to other students by name and react to their contributions?
