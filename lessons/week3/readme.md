@@ -1,5 +1,15 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
+
+## Re-Introduction
+
+* Did you write a statement about yourself and modify your TOC ?
+* Do you know [my office hours](https://bush.myschoolapp.com/app/faculty#academicclass/110760511/0/bulletinboard) ?
+* Do you how your [work will be evaluated](../../syllabus.md) ?
+* Did you get an invitation to the [IDMD Slack IM](https://cpjava2020.slack.com/) ?
+* What's working and not working - [post a message in Slack](https://cpjava2020.slack.com/) !
+* You may benefit by using an actual mouse in this class - Please ask me if you do not have one
+
 ## Homework Expectations
 
 * Review the pending [Homework and Classwork completions](https://bush.myschoolapp.com/lms-assignment/assignment-center/course/110760511/0)
