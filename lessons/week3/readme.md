@@ -11,17 +11,16 @@
 
 * Review and practice using functions and parameters
 * Learn about using max and min
-* Reinforce the ability to use the variables mouseX, mouseY, mouseIsPressed, frameCount
+* Reinforce the ability to use the variables mouseX, mouseY, mouseIsPressed
 * Understand and be able to use the functions random, dist, mousePressed, and mouseReleased
 * Learn and practice with conditional statements
 * Understand and be able to use logical operators (and, or)
 
 ## Lessons
 
-* max() and min()
-* Events
+* Mouse Events
 * Conditional statement structure
-* Functions: random, dist, mousePressed, mouseReleased
+* Functions: random, dist, max, min, mousePressed, mouseReleased, translate, rotate
 * Variables: mouseX, mouseY, mouseIsPressed, frameCount
 
 ## Exercises
@@ -151,6 +150,7 @@ function ease(target, current, ease) {
 
 ## Resources
 [Inital Code for Exercises and Project](code)
+[Additional Code for creative visual effects](addl_code.md)
 
 ## Debrief
 
