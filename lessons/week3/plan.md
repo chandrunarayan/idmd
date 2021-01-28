@@ -5,19 +5,19 @@
 
 ### Re-Introduction
 * Did you write a statement about yourself and modify your TOC ?
-* Do you know [my office hours](../../../syllabus.md) ?
-* Do you how your [work will be evaluated](../../../syllabus.md)] ?
-* Have you joined the [IDMD Slack IM](https://idmd2020.slack.com/) ?
-* You may benefit by using an actual mouse in this class - Please ask me for one
-* What's working and not working - [post a message in Slack](https://idmd2020.slack.com/) !
+* Do you know [my office hours](https://bush.myschoolapp.com/app/faculty#academicclass/110760511/0/bulletinboard) ?
+* Do you how your [work will be evaluated](../../syllabus.md) ?
+* Did you get an invitation to the [IDMD Slack IM](https://cpjava2020.slack.com/) ?
+* What's working and not working - [post a message in Slack](https://cpjava2020.slack.com/) !
+* You may benefit by using an actual mouse in this class - Please ask me if you do not have one
 
-### Pair Programming for Week 3
-* [Carter](https://carterschafer.github.io/idmd-portfolio) - [Maya](https://mayaschrum.github.io/idmd-portfolio)
-* [Aidan](https://aidan-lynch.github.io/idmd-portfolio) - [Ghislaine](https://ghislaineederer.github.io/idmb-portfolio)
-* [Philipp](https://philippknmergener.github.io/idmd-portfolio) - [Pamela](https://pamelabiniam.github.io/idmd-portfolio)
-* [Erik](https://erikonsager.github.io/idmd-portfolio) - [Jeffrey](https://jpbatzz.github.io/idmd-portfolio) - [Leah](https://leahtruman.github.io/idmd-portfolio) 
+
+### Pair Programming
+* [Tilden](https://tildenkeffeler.github.io/idmd-portfolio) - [Max](https://maxalhadeff.github.io/idmd-portfolio)
+* [Owen](https://owenprendergast.github.io/idmd-portfolio) - [Eli](https://el1weise.github.io/idmd-portfolio)
+
 * Student Portfolios in Paired Teams (Please help each other!)
-* for a primer on index.html modifications [see this](../../../portfolio.md)
+* for a primer on index.html modifications [see this](../../student-portfolios.md)
 * Comment/Fix/clean your code; help each other!
 
 ## Lessons
