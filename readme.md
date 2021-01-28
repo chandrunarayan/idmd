@@ -34,6 +34,9 @@ In our IDMD classroom we are already using tools and techniques that are natural
 ![alt text](BSDS_R.png)
 ![alt text](BSDS_H.png)
 
+#### Expectations for School Work
+![alt text][schoolwork]
+
 #### A Reminder
 We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to be safe and considerate of others. Let us take time to be vigilant about wearing masks, washing hands, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
 
@@ -191,3 +194,4 @@ _Topics: FINAL PROJECT WEEK_
 
 [congrats]: congrats.png "Congrats"
 
+[schoolwork]: schoolwork.png
