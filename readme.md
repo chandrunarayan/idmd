@@ -34,6 +34,7 @@ In our IDMD classroom we are already using tools and techniques that are natural
 * [Daily Health Screening before Campus Arrival](https://forms.office.com/Pages/ResponsePage.aspx?id=a1889x_4-0Ob0n7ko0Og-VAn6i3AlVpLnGArk2hPCDFUNVFFUVlMWEk0Sk9DMUpPVkg3WllRVVRYOC4u)
 
 * [Assigned Spaces Link](https://docs.google.com/spreadsheets/d/1taYUBJNivBvYH6h_1XqmnzDTka0KgZ4yjGY0q9Czyt8/edit#gid=1176101705)
+* [Lunch Assignments & Remote Students](https://docs.google.com/spreadsheets/d/1h0JPVNZdF9SK1j_pnrARk2tfXUhV39mZtkg4kYzWlfg/edit?ts=60183d8a#gid=1459610782)
 
 ![alt text](BSDS_H.png)
 ## Remote Schedule
