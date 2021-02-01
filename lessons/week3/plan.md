@@ -36,7 +36,7 @@
 * Variables: mouseX, mouseY, mouseIsPressed, width, height, frameCount
 * Functions: random, dist, mousePressed, mouseReleased, translate, rotate
 
-<iframe src="https://editor.p5js.org/cnarayan/embed/Lq6d-M-X2" width="100%" height="100%" frameBorder="0" scrolling="no" id="testFrame" style="position:absolute;"></iframe>
+<iframe src="https://editor.p5js.org/cnarayan/embed/Lq6d-M-X2" width="100%" height="100%"></iframe>
 
 ### Class Exercises to try
 * Rotating square
