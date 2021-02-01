@@ -99,7 +99,7 @@ _Topics: Conditional statements, logical operators, events, mouseX, mouseY, moue
 ### Week of Feb 1 - Review & Code Exercises
 
 * [Textbook and Code Exercises](lessons/week3/plan)
-* [Previous week Code Review](essons/week3/#exercises)
+* [Previous week Code Review](lessons/week3/#exercises)
 * [Project: Interactive Monster](lessons/week3/homework/interactive-monster.md)
 
 
