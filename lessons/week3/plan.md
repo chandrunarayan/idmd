@@ -29,14 +29,14 @@
   * [Getting Started with P5JS - Download your book and open locally on laptop](https://drive.google.com/drive/folders/1_zq8eZnKCsoD5Y-22_pZfTbOgZg2dwmB)
   * [Open P5JS Editor, Login and be ready work thorough examples](https://editor.p5js.org)
 
+<iframe src="https://editor.p5js.org/cnarayan/embed/Lq6d-M-X2" width="600" height="400" scrolling="no"></iframe>
+
 ##  Additional Code Review Topics
 * Conditional statement structure
 * Logical operators (and, or)
 * Events
 * Variables: mouseX, mouseY, mouseIsPressed, width, height, frameCount
 * Functions: random, dist, mousePressed, mouseReleased, translate, rotate
-
-<iframe src="https://editor.p5js.org/cnarayan/embed/Lq6d-M-X2" width="600" height="400" scrolling="no"></iframe>
 
 ### Class Exercises to try
 * Rotating square
