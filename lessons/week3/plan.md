@@ -26,7 +26,7 @@
 * Comment/Fix/clean your code; help each other!
 
 ## Textbook Chapter 3 - Draw Review
-  * [Getting Started with P5JS - Download your book](https://drive.google.com/drive/folders/1_zq8eZnKCsoD5Y-22_pZfTbOgZg2dwmB)
+  * [Getting Started with P5JS - Download your book and open locally on laptop](https://drive.google.com/drive/folders/1_zq8eZnKCsoD5Y-22_pZfTbOgZg2dwmB)
   * [Open P5JS Editor, Login and be ready work thorough examples](https://editor.p5js.org)
 
 ##  Additional Code Review Topics
