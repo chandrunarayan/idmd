@@ -38,6 +38,10 @@
 
 <iframe src="https://editor.p5js.org/cnarayan/embed/Lq6d-M-X2"></iframe>
 
+<iframe src="https://editor.p5js.org/cnarayan/embed/Lq6d-M-X2" width="100%" height="100%" frameBorder="0" scrolling="no" id="testFrame" style="position:absolute;"></iframe>
+    
+<div id="handle" style="position:absolute; display:block; width:0px; height_0px;"></div>
+
 ### Class Exercises to try
 * Rotating square
 
