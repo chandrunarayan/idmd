@@ -3,8 +3,6 @@
 # Week 4
 
 ## Reminders and Prep Work
-* Discuss issues with Weekly submissions
-  * All completed [Week 1 Exercises](../week1/readme.md), [Week 2 Exercises](../week2/readme.md) due by this Thursday Feb 27th
 * Week4 [In-Class Exercises](code/readme.md) detailed below should be completed are due Monday March 2nd
 * Week4 [Creativity Exploration Project](homework/creativity-exploration.md) is due Monday March 2nd
 * Review and be prepared to talk with others about your assignments 

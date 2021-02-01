@@ -1,7 +1,13 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
-# Plan
-## Week 3
+# Lesson Plan
+
+## Reminders
+* Discuss issues with Weekly submissions
+  * Assignments graded and returned
+  * Discuss submissions to Github 
+
+## Review and Exercises 
 
 ### Re-Introduction
 * Did you write a statement about yourself and modify your TOC ?
@@ -11,7 +17,6 @@
 * What's working and not working - [post a message in Slack](https://cpjava2020.slack.com/) !
 * You may benefit by using an actual mouse in this class - Please ask me if you do not have one
 
-
 ### Pair Programming
 * [Tilden](https://tildenkeffeler.github.io/idmd-portfolio) - [Max](https://maxalhadeff.github.io/idmd-portfolio)
 * [Owen](https://owenprendergast.github.io/idmd-portfolio) - [Eli](https://el1weise.github.io/idmd-portfolio)
@@ -20,14 +25,18 @@
 * for a primer on index.html modifications [see this](../week1/add_p5js_project_to_index.md)
 * Comment/Fix/clean your code; help each other!
 
-## Lessons
+## Textbook Chapter 3 - Draw Review
+  * [Getting Started with P5JS - Download your book](https://drive.google.com/drive/folders/1_zq8eZnKCsoD5Y-22_pZfTbOgZg2dwmB)
+  * [Open P5JS Editor, Login and be ready work thorough examples](https://editor.p5js.org)
+
+##  Additional Code Review Topics
 * Conditional statement structure
 * Logical operators (and, or)
 * Events
-* Variables: mouseX, mouseY, mouseIsPressed, frameCount
-* Functions: random, dist, mousePressed, mouseReleased
+* Variables: mouseX, mouseY, mouseIsPressed, width, height, frameCount
+* Functions: random, dist, mousePressed, mouseReleased, translate, rotate
 
-### Exercises
+### Class Exercises to try
 * Rotating square
 
 	```javascript
@@ -201,6 +210,3 @@
 
 	```
 
-### Introduce Week 3 Homework
-
-### Debrief
