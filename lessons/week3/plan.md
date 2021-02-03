@@ -104,7 +104,7 @@
 	```
 
 * Seconds Clock - Let us try to create one!
-<iframe src="https://editor.p5js.org/cnarayan/embed/BLRpx3bwK" width="600" height="600" scrolling="no"></iframe>
+<iframe src="https://editor.p5js.org/cnarayan/embed/BLRpx3bwK" width="400" height="400" scrolling="no"></iframe>
 
 * Drawing with lines
 
