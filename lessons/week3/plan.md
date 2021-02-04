@@ -103,8 +103,8 @@
 	}
 	```
 
-* Seconds Clock - Let us try to create one!
-<iframe src="https://editor.p5js.org/cnarayan/embed/BLRpx3bwK" width="400" height="400" scrolling="no"></iframe>
+* Analog Clock - Let us try to create one!
+<iframe src="https://editor.p5js.org/cnarayan/embed/OIX0N6HrZ" width="400" height="400" scrolling="no"></iframe>
 
 * Drawing with lines
 
