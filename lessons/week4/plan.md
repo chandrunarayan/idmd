@@ -1,6 +1,6 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
-# Lesson Plan Monday Feb 8th
+# Lesson Plan Feb 8th - Feb 15th
 
 ##  Review Projects and Homework completions
   Ensure completion and proper submission of overdue Exercises into GitHub.  The code should work, meet the specifications, and be properly formatted.  Make sure they are completed by end of day on <u>Thursday, Feb 11th</u>. These will be graded this weekend.
