@@ -103,7 +103,7 @@ _Topics: Conditional statements, logical operators, events, mouseX, mouseY, moue
 * [Project: Interactive Monster](lessons/week3/homework/interactive-monster.md)
 
 
-### [Week of Feb 8](lessons/week4)
+### [Week of Feb 8 & 15th](lessons/week4) 
 
 _Topics: keyPressed events, while and for loops, using text and fonts, using images_
 
