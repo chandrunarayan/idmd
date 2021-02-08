@@ -1,6 +1,6 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
-# Week of Feb 8th
+# Week of Feb 8th & Mid-winter Break
 
 ## Reminders
   Ensure completion and proper submission of overdue Exercises into GitHub.  The code should work, meet the specifications, and be properly formatted.  Make sure they are completed by end of day on <u>Thursday, Feb 11th</u>. These will be graded this weekend.
