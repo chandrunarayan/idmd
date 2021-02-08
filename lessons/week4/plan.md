@@ -17,6 +17,11 @@ Project	|  Assignment  | [Complete Robot Project](https://classroom.google.com/u
 
 *  Use Chrome for all your P5JS sketch editing! There are issues with error processing and other issues with different browsers. 
 *  We will start by covering events and event processing plus text display in the canvas.
+   * keyTyped(), keyPressed(), keyIsPressed
+   * textSize(), textFonr(), text()
+
+* Images
+     
 *  We will cover "for" loops and "while" loops today. In general the loops can be used interchageably.  It is more appropriate to use "for" loops when you know the bounds (no. of iterations) of your loop.  If you do not know the bounds ahead of time, it is better to use "while" loops.
 
   * To demonstrate the "for" loop we will use the [Ellipse Grid](../week4/code/ellipseGrid) example.
