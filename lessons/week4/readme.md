@@ -5,13 +5,14 @@
 ## Reminders
   Ensure completion and proper submission of overdue Exercises into GitHub.  The code should work, meet the specifications, and be properly formatted.  Make sure they are completed by end of day on <u>Thursday, Feb 11th</u>. These will be graded this weekend.
 
-|  Type |  Format | Details  | Due  |
-|---|---|---|---|
-| Project  |  Assignment |  Complete [Interactive Monster Project](https://chandrunarayan.github.io/idmd/lessons/week3/homework/interactive-monster.html). Initial [code for project can be obtained here](https://chandrunarayan.github.io/idmd/lessons/week3/code/) |  2/5/2021 |
-| Homework  |  Assignment |  Complete [Previous Week Exercises.](https://chandrunarayan.github.io/idmd/lessons/week3/#exercises)  Initial [code for project can be obtained here](https://chandrunarayan.github.io/idmd/lessons/week3/code/)|  2/1/2021 |
+| Type | Format | Details |  Due  |
+|  :--- |  :--- |  :--- |  :--- |
+|  Project  |  Assignment |  Complete [Interactive Monster Project](https://chandrunarayan.github.io/idmd/lessons/week3/homework/interactive-monster.html). Initial [code for project can be obtained here](https://chandrunarayan.github.io/idmd/lessons/week3/code/) |  2/5/2021|  
+|  Homework|    Assignment |  Complete [Previous Week Exercises.](https://chandrunarayan.github.io/idmd/lessons/week3/#exercises)  Initial [code for project can be obtained here](https://chandrunarayan.github.io/idmd/lessons/week3/code/)  |  2/1/2021 |
 |  Homework |  Assignment |  [Complete Responsive Face Exercise](https://classroom.google.com/u/0/c/MjQ5OTg2OTEwMDEz/a/MjU1MDYxNDI3MTQ0/details?cjc=gmy37a3) |  1/25/2021 |
-Project	|  Assignment  | [Complete Robot Project](https://classroom.google.com/u/0/c/MjQ5OTg2OTEwMDEz/a/MjUwMjg1MzYwNTk3/details?cjc=gmy37a3)  | 1/14/2021  |
-|  Classwork | Assignment | [Complete Moving Ball Exercise](https://chandrunarayan.github.io/idmd/lessons/week2/exercises/ball.html)  |  1/14/2021  |
+Project	|  Assignment  | [Complete Robot Project](https://classroom.google.com/u/0/c/MjQ5OTg2OTEwMDEz/a/MjUwMjg1MzYwNTk3/details?cjc=gmy37a3)  |  1/14/2021  |  
+|  Classwork |  Assignment |  [Complete Moving Ball Exercise](https://chandrunarayan.github.io/idmd/lessons/week2/exercises/ball.html)  |  1/14/2021  |  <br/>
+
 <br/>
 
 ## Textbook Chapter 4 - Variables & Loop Review
