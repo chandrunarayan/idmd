@@ -1,18 +1,18 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
-# Week 4 Homework
+# Week of Feb 8th Homework
 
 ## Creativity Exploration and In-Class Exercises
-_[Due Monday, 03/02]_
+_[Due Monday, 03/01]_
 
 ### Goals
 The purpose of this exercise is to give you a chance to explore with p5.js and use new things in creative ways.
 
 ### Specification
-In this assignment you will create 2 p5.js visually interesting programs. They should do something new, creative, and interesting. Sketch and plan your projects before starting on your code.
+In this assignment you will create multiple p5.js visually interesting programs. They should do something new, creative, and interesting. Sketch and plan your projects before starting on your code.
 
 The goal is for your programs to not be too complex, but rather explore with different aspects of p5.js. You might explore more with sound, or keyboard and mouse input, or maybe you might explore with text and images or even video. The goal is for you to try something new and interesting—to learn how to do something new with p5.js.
 
-_Note: You may work individually or in a pair on this assignment. If you work as a pair you need to let me know who you are working with via Slack direct message. In the Slack message mention what aspects each person worked on.
+_Note: You may work individually or in a pair on this assignment. 
 
 ### Examples
 _These examples are meant to inspire you, you should not be recreating any of these directly. If you want to build off one of these projects that is okay as long as you dive deep and modify it to create something new._
@@ -38,7 +38,7 @@ In this program a stick figure is animated to walk forward over an abyss. Notice
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
 * Each line in setup and draw should have a comment
 * Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
-* Add your creative exploration project to your Github idmd-portfolio. If working in pairs both persons should add it to their individual portfolios.
+* Add your Exercises and the Creative exploration project to your Github idmd-portfolio. If working in pairs both persons should add it to their individual portfolios.
 
 ### Resources
 * Daniel Shiffman's [p5.js Videos](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14)
