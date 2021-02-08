@@ -1,5 +1,5 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
-# Week 4 Code Specifications
+# Week of Feb 8th & 15th Code Specifications
 
 The In-Class Exercises and Creativity Exploration Project is intended to demonstrate your coding skill to produce the visual elements you see linked below. 
 
