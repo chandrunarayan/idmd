@@ -21,8 +21,9 @@ Project	|  Assignment  | [Complete Robot Project](https://classroom.google.com/u
    * textSize(), textFonr(), text()
 
 * Images
-     
-*  We will cover "for" loops and "while" loops today. In general the loops can be used interchageably.  It is more appropriate to use "for" loops when you know the bounds (no. of iterations) of your loop.  If you do not know the bounds ahead of time, it is better to use "while" loops.
+   * preload(), loadImage(), image()
+
+*  We will cover "for" loops and "while" loops later this week. In general the loops can be used interchageably.  It is more appropriate to use "for" loops when you know the bounds (no. of iterations) of your loop.  If you do not know the bounds ahead of time, it is better to use "while" loops.
 
   * To demonstrate the "for" loop we will use the [Ellipse Grid](../week4/code/ellipseGrid) example.
   * Another example of the "for" loop - [Ellipse Grid 2](../week4/code/ellipseGrid2)  

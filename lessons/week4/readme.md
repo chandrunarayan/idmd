@@ -28,9 +28,9 @@ Project	|  Assignment  | [Complete Robot Project](https://classroom.google.com/u
 * Understand when and how to use loops
 * Practice writing and using for loops
 
-## [Lessons](plan.md)
+## Topics
 * keyPressed events
-* Working with text
+* Working with text and fonts
 * Using images
 * Working with while and for loops
 
