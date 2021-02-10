@@ -1,4 +1,4 @@
-##  Modify Moving Ball sketch to do the following:
+##  Events Fonts Images Exercise:
 
 1.  Adjust dynamically to size of canvas. Also adjust dynamically for a variable containing the radius of ball
 1.  Display a custom image of your favorite pet or object filling the background  of the canvas. Image should be properly formatted so that it is not skewed i.e “aspect ratio” of width to height of image should match the “aspect ratio” of the dimensions of the original image.
