@@ -5,7 +5,7 @@
 1.  Stop at each border - do not go beyond. Use the max() and min() functions to do so
 1.  React to arrow keys left, right, up and down
 1.  Display the Text “Hit Wall!” using a custom font centered on the ball when you hit a border
-1.  Submit to Github by end of today!
+1.  Submit your final to Github!
 
 Initial code for Moving Ball, Displaying Custom Image, and Displaying Text using a Custom Font is below
 
