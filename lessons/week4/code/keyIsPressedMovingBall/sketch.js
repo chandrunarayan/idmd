@@ -3,11 +3,11 @@ var y = 75;
 
 function setup() {
   createCanvas(500, 500);
-  background(200);
+  background(120);
 }
 
 function draw() {
-  background(255);
+  background(120);
   fill(0, 255, 0);
   ellipse(x, y, 150, 150);
   
