@@ -9,7 +9,7 @@ Your artwork for all assignments should be original and should significantly dev
 
 You should complete these assignments in paired teams. Each student must submit all of their individual and team work into Github separately for it to count towards your grade.
 
-In-class Exercises (see Slack "General" channel for code extracts)
+### In-class Exercises (see Slack "General" channel for code extracts)
 
 Submit these as separate projects into Github. You might also consider combining ALL of the visusal elements below into a single submission to Github! See starting code below for eachof these assignments.
 * [Key Typed Red Green Blue for Character key response](keyTypedRedGreenBlue)
@@ -22,7 +22,10 @@ Submit these as separate projects into Github. You might also consider combining
 * [Gradients](gradients)
 * [Gradients 2](gradients2)
 
-Creativity Exploration Project (See starting code below).
+### Consolidated Events Fonts Images Loops Exercises
+* [Events Fonts Images Exercise](../homework/events-fonts-images.md) 
+
+### [Creativity Exploration](../homework/creativity-exploration.md) Project (See starting code below).
 
 Use following examples as inspiration for your Creativity Exploration Project. Submit the Creativity Exploration Project to Github.
 
