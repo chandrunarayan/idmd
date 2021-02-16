@@ -10,10 +10,10 @@
 | 10 min | Feedback | Share your thoughts on today
 | 15 min | Q&A | Extended time for parents Q&A
 
-</br>
 
-## Logistics
+## Logistics (5 minutes)
 * Parents/Guardians are welcome to join!
+* Session will be recorded today for sharing with Bush community
 * Use your laptop to write some simple and visual code today during the Mini Lesson
 * We will use the browser for coding - no software needed. Chrome is preferred
 * Do our exercise in breakout rooms
@@ -21,7 +21,7 @@
 * Brief Cascade intro and Bush Telescope live demonstration
 * Stay online for additional 15 minutes for questions from parents or guardians
 
-## Mini Lesson - First Steps in Learning how to Code!
+## Mini Lesson - First Steps in Learning how to Code! (15 minutes)
 
 1. Walkthrough one example
 1. All Odd numbered teams will work on code extract 1
@@ -38,7 +38,7 @@
 1. One [solution to each example can be found here](codesolutions.md). Only look here after you have attempted it within your team! 
 
 
-## Telescope & Astronomy Cascade Preview
+## Telescope & Astronomy Cascade Preview (15 minutes)
 
 1. Bush Cascades is a 3-week experiential and immersion program on a interdisciplinary course of study. 
 1. They are held 2 times a year at the end of Fall and Spring semesters in January and May. They are open to all Upper School students execlusing Seniors who will be doing their final projects instead.
@@ -57,3 +57,13 @@
    * Brief description
    * Telecope live demonstration
    * Astro Photographs
+
+## Feedback from Students (10 minutes)
+1. Did you enjoy the session today?
+1. What caught yoru attention?
+1. Any questions are OK!
+1. The main sessions is complete, thank you for joining!
+
+## Extended Q&A with Parents/Guardians (15 minutes)
+* Extended session for parents, guardians and students!
+* All questions are welcome
