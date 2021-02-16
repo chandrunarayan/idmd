@@ -69,6 +69,9 @@ In this mode of learning we will simultaneously start a consolidatded student-pa
 ### Doing by Learning First - Lecture-Based Synchronous Workflow
 We will use this method of learning sparingly, reserved for difficult topics that might require a lecture-based instructional unit.  The lectures below are designed in that manner and always available as a reference while we live in the world of Asynchronous "Learning by Doing First" model above.
 
+## MINI LESSON FOR NEWLY ADMITTED BUSH STUDENTS!
+### [Click here to access mini lesson](lessons/minilesson)
+
 ## Lessons
 
 ### [Week of Jan 4](lessons/week1)
