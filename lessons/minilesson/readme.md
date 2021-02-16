@@ -54,9 +54,12 @@
    * Cultural Journet through the American South
 
 1. Telescope & Astronomy Cascade Preview
-   * Brief description
+   * Brief description of cascade
+        * Astronomy is one of the oldest sciences
+        * Anthropological considerations
+        * Modern advances in robotic telescopes and asto photography
    * Telecope live demonstration
-   * Astro Photographs
+   * Example Astro Photographs
 
 ## Feedback from Students (10 minutes)
 1. Did you enjoy the session today?
