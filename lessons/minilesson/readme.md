@@ -1,4 +1,4 @@
-# Bush Preview Day!
+# Bush Upper School Preview Day!
 
 ## Agenda
 
