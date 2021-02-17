@@ -33,7 +33,7 @@ function sayHello() {
   // SAY HELLO TO YOUR FRIENDS - MODIFY TEXT BELOW!! 
   // use input parameters: quoted text, x, y loc in pixels
   fill("black");
-  text("Hello friends!", 30, 30);  
+  text("Hello friends!", 250, 30);  
 }
 
 function drawRect1() {
@@ -88,7 +88,7 @@ function setup() {  // this function is run once.
     
     // draw smooth lines
     smooth();
-    
+
     // UNCOMMENT LINE BELOW TO SAY HELLO!
     sayHello();
 } 
