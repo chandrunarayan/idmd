@@ -13,6 +13,7 @@
 // Dynamic Rectangles
 // Learn to code visually!
 // text following // are help comments !!
+// Make Change to lines below starting with ***AND ALL CAPS LETTERS like this
 
 let loc1 = 0; // set up a variable pixel location for rect1
 let loc2 = 0; // set up a variable pixel location for rect2
@@ -28,21 +29,22 @@ function draw() { // this function is run repeatedly.
   // set the background color to cyan
   background("cyan");
   
-  // SAY HELLO BY UNCOMMENTING LINE BELOW
+  // ***SAY HELLO BY UNCOMMENTING LINE BELOW BY DELETING THE 2 SLASHES
   //sayHello();
 
-  // UNCOMMENT LINE BELOW TO SEE WHAT HAPPENS!
+  // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO SEE WHAT HAPPENS!
   //drawRect1();
   
-  // UNCOMMENT LINE BELOW TO RUN YOUR MODIFIED CODE!
-  drawRect2();
+  // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO INCLUDE YOUR MODIFIED CODE!
+  //drawRect2();
   
 }
 
 function sayHello() {
-  // SAY HELLO TO YOUR FRIENDS - MODIFY TEXT BELOW!! 
+  // ***SAY HELLO TO YOUR FRIENDS - MODIFY TEXT BELOW!! 
   // use input parameters: quoted text, x, y loc in pixels
   fill("black");
+  textSize(20);
   text("Hello friends!", 250, 30);  
 }
 
@@ -62,7 +64,7 @@ function drawRect1() {
 }
 
 function drawRect2() {
-// DRAW A VERICAL RECT WITH A DIFFERENT COLOR
+// ***DRAW A VERICAL RECT WITH A DIFFERENT COLOR
 // MOVING FROM TOP TO BOTTOM AT ANOTHER SPEED?
 // YOU WILL NEED COPY CONTENTS OF drawRect1() FUNCTION 
 // BETWEEN OUTER BRACKETS BELOW AND MODIFY!

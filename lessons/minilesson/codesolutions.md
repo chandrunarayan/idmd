@@ -3,37 +3,39 @@
 // Dynamic Rectangles
 // Learn to code visually!
 // text following // are help comments !!
+// Make Change to lines below starting with ***AND ALL CAPS LETTERS like this
 
 let loc1 = 0; // set up a variable pixel location for rect1
 let loc2 = 0; // set up a variable pixel location for rect2
 
 function setup() { // this function is run once.   
-
   // canvas size in pixels
   // width is set to 600, and height to 200
   createCanvas(400, 200);
 }
 
 function draw() { // this function is run repeatedly.  
+
   // set the background color to cyan
   background("cyan");
   
-  // SAY HELLO BY UNCOMMENTING LINE BELOW
+  // ***SAY HELLO BY UNCOMMENTING LINE BELOW BY DELETING THE 2 SLASHES
   sayHello();
 
-  // UNCOMMENT LINE BELOW TO SEE WHAT HAPPENS!
+  // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO SEE WHAT HAPPENS!
   drawRect1();
   
-  // UNCOMMENT LINE BELOW TO RUN YOUR MODIFIED CODE!
+  // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO INCLUDE YOUR MODIFIED CODE!
   drawRect2();
   
 }
 
 function sayHello() {
-  // SAY HELLO TO YOUR FRIENDS - MODIFY TEXT BELOW!! 
+  // ***SAY HELLO TO YOUR FRIENDS - MODIFY TEXT BELOW!! 
   // use input parameters: quoted text, x, y loc in pixels
   fill("black");
-  text("Hello friends!", 250, 30);  
+  textSize(20);
+  text("Welcome to the new Bush Students!", 250, 30);  
 }
 
 function drawRect1() {
@@ -52,20 +54,13 @@ function drawRect1() {
 }
 
 function drawRect2() {
-// DRAW A VERICAL RECT WITH A DIFFERENT COLOR
+// ***DRAW A VERICAL RECT WITH A DIFFERENT COLOR
 // MOVING FROM TOP TO BOTTOM AT ANOTHER SPEED?
-// COPY-PASTE-MODIFY LINES 37 to 48 BELOW THIS LINE!!
-  fill("purple");
-  rect(50, loc2, 50, 100);
+// YOU WILL NEED COPY CONTENTS OF drawRect1() FUNCTION 
+// BETWEEN OUTER BRACKETS BELOW AND MODIFY!
 
-  if (loc2 < height) {
-    loc2 = loc2 + 1;
-  } else {
-    loc2 = 0;
-  }
 }
 ```
-<br/>
 
 ## A solution for Dynamic sticks
 ```javascript
@@ -89,15 +84,15 @@ function setup() {  // this function is run once.
     // draw smooth lines
     smooth();
 
-    // UNCOMMENT LINE BELOW TO SAY HELLO!
+    // ***UNCOMMENT LINE BELOW TO SAY HELLO!
     sayHello();
 } 
 
 function draw() {  // this function is run repeatedly.  
-  // UNCOMMENT ONE LINE BELOW TO SEE WHAT HAPPENS!
+  // ***UNCOMMENT ONE LINE BELOW TO SEE WHAT HAPPENS!
   drawSticks1();
 
-  // UNCOMMENT ONE LINE BELOW TO RUN YOUR CUSTOM CODE!
+  // ***UNCOMMENT ONE LINE BELOW TO RUN YOUR CUSTOM CODE!
   drawSticks2();   
   
   // dynamically move location for next draw loop
@@ -105,18 +100,17 @@ function draw() {  // this function is run repeatedly.
 }
 
 function sayHello() {
-    // SAY HELLO TO YOUR FRIENDS - MODIFY TEXT BELOW!! 
+    // ***SAY HELLO TO YOUR FRIENDS - MODIFY TEXT BELOW!! 
     // use input parameters: quoted text, x loc & y loc
-    text("Hello friends!", 20, height/2);
+    textSize(20);
+    text("Welcome to the new Bush Students!", 10, height/2);
 }
 
 function drawSticks1() {
-    // set the thickness of the line. 
-    strokeWeight(5);
-    // set the color using input parameters:
-    // shades of red, green, blue, transparency in order
-    // random(255) gives a random number 0 to 255 for each color
-    stroke(random(255), random(255), random(255), 100);
+  // set the thickness of the line. 
+    strokeWeight(10);
+  // set a random color for the line 
+    stroke(randomColor());
     
     // draw the line using input parameters:
     // 2 pairs of points: x1, y1, x2, y2 
@@ -124,17 +118,16 @@ function drawSticks1() {
 }
 
 function drawSticks2() {
-  // CAN YOU DRAW ANOTHER SET OF LINES FROM BOTTOM TO TOP?
-  // OR FROM LEFT TO RIGHT ??
+  // ***CAN YOU DRAW ANOTHER SET OF LINES 
+  // FROM BOTTOM TO TOP? OR FROM LEFT TO RIGHT ??
   // YOU WILL NEED COPY CONTENTS OF drawSticks1() FUNCTION 
   // BETWEEN OUTER BRACKETS BELOW AND MODIFY JUST 
-  // THE "line" COMMAND!
-    // set the thickness of the line. 
-    strokeWeight(5);
-    // set the color using input parameters:
-    // shades of red, green, blue, transparency in order
-    // random(255) gives a random number 0 to 255 for each color
-    stroke(random(255), random(255), random(255), 100);
+  // THE "line" FUNCTION CALL BELOW!
+
+  // set the thickness of the line. 
+    strokeWeight(10);
+  // set a random color for the line 
+    stroke(randomColor());
     
     // draw the line using input parameters:
     // 2 pairs of points: x1, y1, x2, y2 
@@ -151,4 +144,9 @@ function moveLoc() {
     }
 }
 
+function randomColor() {
+  // return an array of random RGBA values for color
+  // random(255) gives a random number 0 to 255 for each color and alpha
+  return [random(255), random(255), random(255), 255];
+}
 ```
