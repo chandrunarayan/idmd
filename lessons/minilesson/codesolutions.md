@@ -1,5 +1,6 @@
 ## A solution for Dynamic rectangles
 ```javascript
+// Dynamic Rectangles
 // Learn to code visually!
 // text following // are help comments !!
 
@@ -68,6 +69,7 @@ function drawRect2() {
 
 ## A solution for Dynamic sticks
 ```javascript
+// Dynamic Sticks
 // Learn to code visually!
 // Anything following "//" are help comments !!
 
