@@ -36,7 +36,7 @@ function sayHello() {
   // use input parameters: quoted text, x, y loc in pixels
   fill("black");
   textSize(20);
-  text("Welcome to the new Bush Students!", 250, 30);  
+  text("Welcome to the new Bush Students!", 70, 30);  
 }
 
 function drawRect1() {
@@ -58,7 +58,10 @@ function drawRect2() {
 // ***DRAW A VERICAL RECT WITH A DIFFERENT COLOR
 // MOVING FROM TOP TO BOTTOM AT ANOTHER SPEED?
 // YOU WILL NEED COPY CONTENTS OF drawRect1() FUNCTION 
-// BETWEEN OUTER BRACKETS BELOW AND MODIFY!
+// BETWEEN OUTER BRACKETS BELOW
+// MODIFY THE rect COMMAND (Hint: switch height & width parameters)
+// MODIFY OTHER LINES (Hint: SWAP ALL REFERNCES TO loc1 WITH loc2)
+// CHANGE THE INCREMENT OF loc2 TO A DIFFERENT VALUE  
 
 }
 ```
