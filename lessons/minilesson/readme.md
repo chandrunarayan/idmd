@@ -23,20 +23,17 @@
 
 ## Mini Lesson - First Steps in Learning how to Code! (15 minutes)
 
-1. Walkthrough one example
-1. All Odd numbered teams will work on code extract 1
-1. All Even numbered teams will work on code extract 2
-1. Open a NEW tab on your browser 
-1. Start a P5JS [Javascript web editor in the new tab created by clicking here](https://editor.p5js.org)
-
+1. Walkthrough one example for the whole class
+1. Open a NEW tab on your browser by accessing File-> New Tab 
+1. Start a P5JS [Javascript web editor in the new tab created by clicking here](https://editor.p5js.org). Please be patient, it might take a few seconds to open.
+1. Breakout into multiple rooms for doing a coding exercise!
    * Odd numbered teams Replace all code inside using [code for "Dynamic sticks" linked here](code1.md)
 
-   * Even numbered teams Replace all code inside using [code for Dynamic rectangles linked here](code2.md)
+   * Even numbered teams Replace all code inside using [code for "Dynamic rectangles" linked here](code2.md)
 
 1. Breakout to work on code for 10 minutes
 1. When time is up select one teammember to display results to the class!
 1. One [solution to each example can be found here](codesolutions.md). Only look here after you have attempted it within your team! 
-
 
 ## Telescope & Astronomy Cascade Preview (15 minutes)
 
