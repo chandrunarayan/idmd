@@ -27,9 +27,9 @@
 1. Open a NEW tab on your browser by accessing File-> New Tab 
 1. Start a P5JS [Javascript web editor in the new tab created by clicking here](https://editor.p5js.org). Please be patient, it might take a few seconds to open.
 1. Breakout into multiple rooms for doing a coding exercise!
-   * Odd numbered teams Replace all code inside using [code for "Dynamic sticks" linked here](code1.md)
+   * Odd numbered teams Replace all code inside editor using [code for "Dynamic sticks" linked here](code1.md)
 
-   * Even numbered teams Replace all code inside using [code for "Dynamic rectangles" linked here](code2.md)
+   * Even numbered teams Replace all code inside editor using [code for "Dynamic rectangles" linked here](code2.md)
 
 1. Breakout to work on code for 10 minutes
 1. When time is up select one teammember to display results to the class!
