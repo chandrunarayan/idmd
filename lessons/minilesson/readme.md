@@ -25,16 +25,16 @@
 
 ## Mini Lesson - First Steps in Learning how to Code! (15 minutes)
 
-1. We will draw dynamic shapes on a digital canvas
-1. Walkthrough one example for the whole class
+1. We will draw dynamic shapes on a digital canvas such as lines and rectangles
+1. A walkthrough of one example for the whole class
 1. Start a P5JS [Javascript web editor in the new tab created by clicking here](https://editor.p5js.org){:target="_blank"}. Please be patient, it might take a few seconds to open.
 1. Breakout into multiple rooms for doing a coding exercise!
    * Odd numbered teams Replace all code inside editor using [code for "Dynamic sticks" linked here](code1.md){:target="_blank"}
    * Even numbered teams Replace all code inside editor using [code for "Dynamic rectangles" linked here](code2.md){:target="_blank"}
    * Attempt to make at least one small change "AS DIRECTED IN ALL CAPS" inside the code. Press the Play button to see your changes!
 
-1. Breakout to work on code for 10 minutes
-1. When time is up select one teammember to display results to the class!
+1. Breakout to work on code for 10 minutes using instructions aove.
+1. When time is up select one team member to display results of your team to the class!
 1. One [solution to each example can be found here](codesolutions.md){:target="_blank"}. Only look here after you have attempted it within your team! 
 
 ## Telescope & Astronomy Cascade Preview (15 minutes)
