@@ -29,13 +29,13 @@
 1. Walkthrough one example for the whole class
 1. Start a P5JS [Javascript web editor in the new tab created by clicking here](https://editor.p5js.org){:target="_blank"}. Please be patient, it might take a few seconds to open.
 1. Breakout into multiple rooms for doing a coding exercise!
-   * Odd numbered teams Replace all code inside editor using [code for "Dynamic sticks" linked here](code1.md)
-   * Even numbered teams Replace all code inside editor using [code for "Dynamic rectangles" linked here](code2.md)
+   * Odd numbered teams Replace all code inside editor using [code for "Dynamic sticks" linked here](code1.md){:target="_blank"}
+   * Even numbered teams Replace all code inside editor using [code for "Dynamic rectangles" linked here](code2.md){:target="_blank"}
    * Attempt to make at least one small change "AS DIRECTED IN ALL CAPS" inside the code. Press the Play button to see your changes!
 
 1. Breakout to work on code for 10 minutes
 1. When time is up select one teammember to display results to the class!
-1. One [solution to each example can be found here](codesolutions.md). Only look here after you have attempted it within your team! 
+1. One [solution to each example can be found here](codesolutions.md){:target="_blank"}. Only look here after you have attempted it within your team! 
 
 ## Telescope & Astronomy Cascade Preview (15 minutes)
 
@@ -71,5 +71,5 @@
 * All questions are welcome
 
 ## My contact information
-* [Chandru Narayan a brief intro](../../chandru.png), Computer Science Teacher
+* [Chandru Narayan a brief intro](../../chandru.png){:target="_blank"}, Computer Science Teacher
 * chandru.narayan@bush.edu
