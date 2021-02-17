@@ -70,3 +70,7 @@
 ## Extended Q&A with Parents/Guardians (15 minutes)
 * Extended session for parents, guardians and students!
 * All questions are welcome
+
+## My contact information
+* [Chandru Narayan a brief intro](../../chandru.png), Computer Science Teacher
+* chandru.narayan@bush.edu
