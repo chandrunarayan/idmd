@@ -4,7 +4,7 @@
 
 ### Computer Graphics coordinate system and shapes that we will use
 
-<img src="graphics_coords.svg" alt="Graphics Coordinate System" width="740"/>
+<img src="graphics_coords.svg" alt="Graphics Coordinate System" width="800"/>
 
 ### The graphics canvas in the code below has width of 400 pixels and height of 200 pixels
 
