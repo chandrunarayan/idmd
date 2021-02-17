@@ -40,7 +40,7 @@
 ## Telescope & Astronomy Cascade Preview (15 minutes)
 
 1. The Bush Cascade program is a 3-week experiential and immersion program on a interdisciplinary course of study. 
-1. They are held 2 times a year at the end of Fall and Spring semesters in January and May. They are open to all Upper School students execluding Seniors who will be doing their final projects instead.
+1. They are held 2 times a year at the end of Fall and Spring semesters in January and May. They are open to all Upper School students.
 1. Some Cascades are local to Seattle and others might involve travel to other locations inside and outside Washington State including some international locations! 
 1. They could involve engaging with the Bush and Seattle communities with a goal to learn help and support.
 1. Previous Cascades included diverse subjects such as:
@@ -55,10 +55,13 @@
 1. Telescope & Astronomy Cascade Preview
    * Brief description of cascade
         * Astronomy is one of the oldest sciences
-        * Anthropological considerations
-        * Modern advances in robotic telescopes and astro photography
+        * Observing the night Sky - Have you seen stars constellations, planets, phases of the moon
+        * Have you seen through a Telescope before?
+        * [The robotic Rover Perseverence landed on Mars last week!](perseverence.md)  
+        * [Celestial coordinate System & Telescope GOTO/Tracking](celestial_coords.md)
+        * [Calculating the Resolving power of The Bush Telescopes](resolution.md)
    * Telecope live demonstration
-   * Example Astro Photographs
+   * [Example Astro Photographs](astrophotos.md)
 
 ## Feedback from Students (10 minutes)
 1. Did you enjoy the session today?
