@@ -1,5 +1,5 @@
 ### While reading this example remember canvas coordinates are defined as follows:
-![alt text](canvas_coords.png)
+
 ![alt text](canvas_coords.svg)
 
 The canvas above has width of 400 pixels and height of 400 pixels
