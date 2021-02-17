@@ -71,6 +71,8 @@ function drawSticks2() {
   // YOU WILL NEED COPY CONTENTS OF drawSticks1() FUNCTION 
   // BETWEEN OUTER BRACKETS BELOW AND MODIFY JUST 
   // THE "line" FUNCTION CALL BELOW!
+  // HINT: x1, y1 need to be fixed & x2 is var, y2 is fixed
+  // 
 
 }
 
