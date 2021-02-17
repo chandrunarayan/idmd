@@ -1,4 +1,4 @@
-### While reading this example remember canvas coordinates are as follows:
+### While reading this example remember canvas coordinates are defined as follows:
 ![alt text](canvas_coords.png)
 ![alt text](canvas_coords.svg)
 
