@@ -29,9 +29,9 @@
 1. Open a NEW tab on your browser 
 1. Start a P5JS [Javascript web editor in the new tab created by clicking here](https://editor.p5js.org)
 
-   * [Odd numbered teams Replace all code inside using code for "Dynamic sticks" linked here](code1.md)
+   * Odd numbered teams Replace all code inside using [code for "Dynamic sticks" linked here](code1.md)
 
-   * [Even numbered teams Replace all code inside using code for Dynamic rectangles linked here](code2.md)
+   * Even numbered teams Replace all code inside using [code for Dynamic rectangles linked here](code2.md)
 
 1. Breakout to work on code for 10 minutes
 1. When time is up select one teammember to display results to the class!
