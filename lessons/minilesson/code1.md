@@ -1,4 +1,5 @@
 ```javascript
+// Dynamic Sticks
 // Learn to code visually!
 // Anything following "//" are help comments !!
 
