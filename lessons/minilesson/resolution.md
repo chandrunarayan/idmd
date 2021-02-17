@@ -1,0 +1,1 @@
+## Resolving Power of the Bush Telescope
