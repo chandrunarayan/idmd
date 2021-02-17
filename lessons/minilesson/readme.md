@@ -34,7 +34,7 @@
    * Attempt to make at least one small change "AS DIRECTED IN ALL CAPS" inside the code. Press the Play button to see your changes!
 
 1. Breakout to work on code for 10 minutes using instructions aove.
-1. When time is up select one team member to display results of your team to the class!
+1. When time is up select one team member to display results of your team to the class! [Click here if you need help with Sharing your Browser window](sharing.md){:target="_blank"}.
 1. One [solution to each example can be found here](codesolutions.md){:target="_blank"}. Only look here after you have attempted it within your team! 
 
 ## Telescope & Astronomy Cascade Preview (15 minutes)
