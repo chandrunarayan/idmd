@@ -4,6 +4,7 @@
 // Learn to code visually!
 // text following // are help comments !!
 // Make Change to lines below starting with ***AND ALL CAPS LETTERS like this
+// HIT THE PLAY BUTTON IN YOUR EDITOR TO SEE CHANGES
 
 let loc1 = 0; // set up a variable pixel location for rect1
 let loc2 = 0; // set up a variable pixel location for rect2

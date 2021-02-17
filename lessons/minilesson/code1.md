@@ -32,6 +32,7 @@ function setup() {  // this function is run once.
     smooth();
 
     // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO SAY HELLO!
+    // HIT THE PLAY BUTTON IN YOUR EDITOR
     //sayHello();
 } 
 
@@ -40,7 +41,7 @@ function draw() {  // this function is run repeatedly.
   //drawSticks1();
 
   // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO INCLUDE YOUR CUSTOM CODE!
-  drawSticks2();   
+  //drawSticks2();   
   
   // dynamically move location for next draw loop
   moveLoc();

@@ -30,6 +30,7 @@ function draw() { // this function is run repeatedly.
   background("cyan");
   
   // ***SAY HELLO BY UNCOMMENTING LINE BELOW BY DELETING THE 2 SLASHES
+  // HIT THE PLAY BUTTON IN YOUR EDITOR
   //sayHello();
 
   // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO SEE WHAT HAPPENS!
