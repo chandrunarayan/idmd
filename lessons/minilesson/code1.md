@@ -2,11 +2,12 @@
 
 ![alt text](canvas_coords.svg)
 
-#### Computer Graphics coordinate system that we will use
+### Computer Graphics coordinate system and shapes that we will use
 
 ![alt text](graphics_coords.svg?width=600)
 
-#### The graphics canvas in the code below has width of 600 pixels and height of 200 pixels
+### The graphics canvas in the code below has width of 600 pixels and height of 200 pixels
+
 ```javascript
 // Dynamic Sticks
 // Learn to code visually!
