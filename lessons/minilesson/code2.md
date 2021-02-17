@@ -1,7 +1,10 @@
 ### While reading this example remember the graphics canvas coordinates are defined as follows:
 
 ![alt text](canvas_coords.svg)
-![alt text](graphics_coords.svg)
+
+Computer Graphics cooedinate system that we will use
+
+![alt text](graphics_coords.svg?width=600)
 
 The graphics canvas in the code below has width of 400 pixels and height of 200 pixels
 ```javascript
