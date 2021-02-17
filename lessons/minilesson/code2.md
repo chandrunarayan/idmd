@@ -1,3 +1,4 @@
+## Dynamic Rectangles Example Starter Code
 ### While reading this example remember the graphics canvas coordinates are defined as follows:
 
 ![alt text](canvas_coords.svg)
