@@ -1,2 +1,4 @@
-## Perseverence Rover on Mars!
+## Perseverence Rover Landed on Mars!
 ![alt text](perseverence.png)
+## First picture from the Hazard camera upon touchdown!
+![alt text](firstpic_perseverence.png)
