@@ -58,8 +58,8 @@
         * Observing the night Sky - Have you seen stars constellations, planets, phases of the moon
         * Have you seen through a Telescope before?
         * [The robotic Rover Perseverence landed on Mars!](perseverence.md){:target="_blank"}  
-        * [Celestial coordinate System & Telescope GOTO/Tracking](celestial_coords.md){:target="_blank"}
-        * [Calculating the Resolving power of The Bush Telescopes](https://colab.research.google.com/drive/1EMaLxiWkPj9aSof622z3roco1VVmo1GW#scrollTo=GJBs_flRovLc&uniqifier=2){:target="_blank"}
+        * [Calculating the Resolving power of The Bush Telescope](https://colab.research.google.com/drive/1EMaLxiWkPj9aSof622z3roco1VVmo1GW#scrollTo=GJBs_flRovLc&uniqifier=2){:target="_blank"}
+        * [Celestial coordinate System & Telescope GOTO/Tracking](celestial_coords.md){:target="_blank"}        
    * Telecope live demonstration
    * [Example Astro Photographs](astrophotos.md){:target="_blank"}
 
