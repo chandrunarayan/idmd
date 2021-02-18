@@ -3,7 +3,7 @@
 ### Craters of the Moon
 ![alt text](craters.png)
 
-<iframe width="740" src="https://www.youtube.com/watch?v=7gWu5l_fvIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" src="https://www.youtube.com/watch?v=7gWu5l_fvIM" frameborder="0" allowfullscreen></iframe>
 
 ### Andromeda Galaxy M31
 ![alt text](./m31.png)
