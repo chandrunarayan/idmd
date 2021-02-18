@@ -13,7 +13,9 @@
 // Dynamic Rectangles
 // Learn to code visually!
 // text following // are help comments !!
-// Make Change to lines below starting with ***AND ALL CAPS LETTERS like this
+// Modify lines with "***AND ALL CAPS LETTERS like this"
+
+// Do not worry about breaking anything as you can come back to the original version of this code!!
 
 let loc1 = 0; // set up a variable pixel location for rect1
 let loc2 = 0; // set up a variable pixel location for rect2
