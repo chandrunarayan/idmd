@@ -7,7 +7,7 @@
 
 <img src="graphics_coords.svg" alt="Graphics Coordinate System" width="800"/>
 
-### The graphics canvas in the code below has width of 400 pixels and height of 200 pixels
+### Copy & Paste all the lines of code in the box below into the editor you previously opened
 
 ```javascript
 // Dynamic Rectangles

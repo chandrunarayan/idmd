@@ -6,6 +6,8 @@
 
 ## How fast is the sky rotating for a stationary observer on the surface of our planet?
 ## And how can a Telescope compensate for that apparent motion of the sky??
+\
+![alt text](equatorial_axis.png)
 
 ![alt text](compensate.png)
 
