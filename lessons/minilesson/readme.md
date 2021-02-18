@@ -33,7 +33,7 @@
    * Even numbered teams Replace all code inside editor using [code for "Dynamic rectangles" linked here](code2.md){:target="_blank"}
    * Attempt to make at least one small change "AS DIRECTED IN ALL CAPS" inside the code. Press the Play button to see your changes!
 
-1. Breakout to work on code for 10 minutes using instructions aove.
+1. Breakout to work on code for 10 minutes using instructions above. Rooms will close automatically at the end. If you do not finish, no issues! You can do so after today's session by using the same links.
 1. When time is up select one team member to display results of your team to the class! [Click here if you need help with Sharing your Browser window](sharing.md){:target="_blank"}.
 1. One [solution to each example can be found here](codesolutions.md){:target="_blank"}. Only look here after you have attempted it within your team! 
 
