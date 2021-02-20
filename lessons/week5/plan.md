@@ -1,13 +1,12 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
 # Lesson Plan
-## Week 5
+## Week of Feb 22nd
 
 ### Introduction 
 * Update on Exercises, Projects and Grading
 * How do we catch-up?
-* Schedule for the rest of the quarter
-* You will have 2 weeks for the visualization assignment, we will do a similar project together today
+* You will have 2 weeks for the visualization assignment. We will do a similar assignment together.
 
 ### Warmup 
 * [Programming is hard, but you're doing great!](programming-is-hard-youre-doing-great.md)

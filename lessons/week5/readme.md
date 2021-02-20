@@ -1,6 +1,6 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
-# Week of Fen 22nd
+# Week of Feb 22nd
 
 ## Reminders
 * 
