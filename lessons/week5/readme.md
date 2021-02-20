@@ -2,8 +2,13 @@
 
 # Week of Fen 22nd
 
-## Reminders and Prep Work
+## Reminders
 * 
+| Type | Format | Details |  Due
+|  :--- |  :--- |  :--- |  :---
+|  Exercise  |  Assignment |  Complete [Events Fonts Images Exercise](https://chandrunarayan.github.io/idmd/lessons/week4/homework/events-fonts-images.html) |  2/25/2021
+|  Project  |  Assignment |  Complete [Interactive Monster Project](https://chandrunarayan.github.io/idmd/lessons/week3/homework/interactive-monster.html). Initial [code for project can be obtained here](https://chandrunarayan.github.io/idmd/lessons/week3/code/) |  2/5/2021 OVERDUE!
+
 
 
 ## Learning Objectives
