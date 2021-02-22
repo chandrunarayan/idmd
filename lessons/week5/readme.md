@@ -30,11 +30,11 @@
 * while loops
 * returning a value from a function
 
-## [Exercises](https://chandrunarayan.github.io/idmd/lessons/week5/code/){:target="_blank"} (Submit each to Github when finished)
-* Mouse Lines
-* Dot Grid
-* Concentric Circles
-* Birthday Visualization
+## [Exercises](https://chandrunarayan.github.io/idmd/lessons/week5/code/){:target="_blank"} (Modify code to produce results below. Submit each to Github when finished)
+* [Mouse Lines](https://chandrunarayan.github.io/idmd/lessons/week5/code/hash_effect)
+* [Dot Grid](https://chandrunarayan.github.io/idmd/lessons/week5/code/dotGrid)
+* [Concentric Circles](https://chandrunarayan.github.io/idmd/lessons/week5/code/concentricCircles)
+* [Birthday Visualization](https://chandrunarayan.github.io/idmd/lessons/week5/code/birthdayVisualization)
 
 ## Debrief
 * What new things did you learn today?
