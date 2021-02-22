@@ -24,12 +24,13 @@
 * [Programming is hard, but you're doing great!](programming-is-hard-youre-doing-great.md)
 
 
-## [Lessons](plan.md)
+## [Lessons](plan.md){:target="_blank"}
 * for loops
 * arrays
+* while loops
 * returning a value from a function
 
-## [Exercises](https://chandrunarayan.github.io/idmd/lessons/week5/code/) (Submit to Github for grading)
+## [Exercises](https://chandrunarayan.github.io/idmd/lessons/week5/code/){:target="_blank"} (Submit each to Github when finished)
 * Mouse Lines
 * Dot Grid
 * Concentric Circles
@@ -44,5 +45,5 @@
 ## Resources
 * [Code Examples](code)
 
-## [Project](https://chandrunarayan.github.io/idmd/lessons/week5/homework/data-visualization.html) (Submit to Github for grading)
+## [Project](https://chandrunarayan.github.io/idmd/lessons/week5/homework/data-visualization.html){:target="_blank"} (Submit to Github for grading)
 * [Data Visualization](homework/data-visualization.md)

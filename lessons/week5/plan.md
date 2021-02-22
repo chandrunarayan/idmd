@@ -35,7 +35,7 @@
 			}
 		}
 		```
-  * [Can you create a hash effect?](code/hash_effect)
+
 	* Concentric Circles
 
 		```java
