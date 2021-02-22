@@ -10,10 +10,14 @@
 
 ### Warmup 
 * [Programming is hard, but you're doing great!](programming-is-hard-youre-doing-great.md)
-* Did you select your coding partner?
+
+### [Online book Getting Started with P5JS](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
+* Open your local copy you have previoosly downloaded to yout laptop. If not download above and open locally.
+* Chapter 4 - Repetition 
 
 ## Lessons
 * Review for loops
+![alt text](loops.png)
 	* Vocabulary, order, forward and backward
 	* Mouse Lines
 
@@ -31,7 +35,7 @@
 			}
 		}
 		```
-
+  * [Can you create a hash effect?](code/hash_effect)
 	* Concentric Circles
 
 		```java
