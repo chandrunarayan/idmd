@@ -1,6 +1,7 @@
+
 function setup() {
   createCanvas(400, 400);
-  for (d = width; d >= 50; d-=50) {
+  for (let d = width; d >= 50; d-=50) {
     fill(randomColor());
     ellipse(width / 2, height / 2, d, d);
   }

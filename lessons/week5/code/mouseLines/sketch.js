@@ -6,7 +6,7 @@ function setup() {
 function draw() {
   background(204);
   
-  for(i = 10; i < mouseY; i = i + 18){
+  for(let i = 10; i < mouseY; i = i + 18){
     line(0, i, 390, i);  
   }
 }
