@@ -26,9 +26,8 @@
 
 ## [Lessons](plan.md)
 * for loops
-* while loops
 * arrays
-* returning a value form a function
+* returning a value from a function
 
 ## [Exercises](https://chandrunarayan.github.io/idmd/lessons/week5/code/) (Submit to Github for grading)
 * Mouse Lines
