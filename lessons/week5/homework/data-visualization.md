@@ -2,7 +2,6 @@
 # Week 5/6 Homework
 
 ## Data Visualization Project
-_Due Thursday, 03/12, before class_
 
 _Note: You have 2 weeks to complete this assignment._
 
