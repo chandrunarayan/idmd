@@ -21,7 +21,7 @@
 	* Vocabulary, order, forward and backward
 	* Mouse Lines
 
-		```java
+		```javascript
 		function setup() {
 			createCanvas(400, 400);
 			strokeWeight(4);
@@ -38,20 +38,27 @@
 
 	* Concentric Circles
 
-		```java
+		```javascript
 		function setup() {
-			createCanvas(400, 400);
-			noFill();
+let dia = 0;
 
-			for(d = 10; d < width; d = d + 10){
-				ellipse(width / 2, height / 2, d, d);  
-			}
-		}
+function setup() {
+  createCanvas(400, 400);
+  background(212);
+  noFill();
+}
+
+function draw() {
+  while (dia < width) {
+    ellipse(width / 2, height / 2, dia, dia);
+    dia += 10;
+  }
+}
 		```
 	
 	* Dot Grid
 
-		```java
+		```javascript
 		function setup() {
 			createCanvas(400, 400);
 		}
