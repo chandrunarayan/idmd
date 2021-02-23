@@ -33,19 +33,22 @@ function setup() {  // this function is run once.
     // draw smooth lines
     smooth();
 
+    // 1. Say Hello!
     // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO SAY HELLO!
     // HIT THE PLAY BUTTON IN YOUR EDITOR
     //sayHello();
 } 
 
 function draw() {  // this function is run repeatedly.  
+
+  // 2. Draw some sticks
   // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO SEE WHAT HAPPENS!
   //drawSticks1();
 
-  // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO INCLUDE YOUR CUSTOM CODE!
-  //drawSticks2();   
+  // 3. Draw more sticks
+  drawSticks2();   
   
-  // dynamically move location for next draw loop
+  // Move location for next draw loop
   moveLoc();
 }
 

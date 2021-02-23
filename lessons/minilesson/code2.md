@@ -31,15 +31,16 @@ function draw() { // this function is run repeatedly.
   // set the background color to cyan
   background("cyan");
   
-  // ***SAY HELLO BY UNCOMMENTING LINE BELOW BY DELETING THE 2 SLASHES
-  // HIT THE PLAY BUTTON IN YOUR EDITOR
+  // 1. Say Hello 
+  // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO SEE WHAT HAPPENS!
   //sayHello();
 
+  // 2. Draw a rectangle
   // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO SEE WHAT HAPPENS!
   //drawRect1();
   
-  // ***UNCOMMENT LINE BELOW BY DELETING THE 2 SLASHES TO INCLUDE YOUR MODIFIED CODE!
-  //drawRect2();
+  // 3. Draw another rectangle!
+  drawRect2();
   
 }
 
