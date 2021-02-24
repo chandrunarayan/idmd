@@ -75,7 +75,10 @@
 			}
 		}
 		```
-
+![alt text](nested_loop_coords.png)
+![alt text](equi_distant_pattern.png)
+![alt text](row_col_wise.png)
+![alt text](row_col_wise_alt.png)
 * Introduce arrays
 	* Arrays+For loops love each other
 	* Object that stores many values, but only 1 name
