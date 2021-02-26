@@ -102,8 +102,8 @@
     Last edited 02/21/2021
     This program displays a visualizations of the most popular
     birthdays of the year.
+    INCOMPLETE VERSION
 */
-
 // ranks by day of the year (out of 365)
 // Data from 2016 (leap year); source unknown
 let rank = [364, 362, 356, 350, 338, 301, 324, 347, 351, 349, 341, 306, 316, 260, 304, 322, 337, 317, 302, 240, 279, 271, 294, 333,
@@ -121,23 +121,19 @@ let rank = [364, 362, 356, 350, 338, 301, 324, 347, 351, 349, 341, 306, 316, 260
   190, 161, 148, 147, 151, 199, 340, 344, 352, 353, 357, 358, 359, 345, 231, 149, 144, 186, 283, 320, 318, 284, 221, 217, 205,
   295, 266, 342, 185, 128, 102, 94, 96, 113, 104, 115, 224, 354, 363, 365, 360, 130, 62, 42, 26, 220, 67, 120, 200, 100, 35, 130
 ];
-
 let numColors = 160;
 let rectWidth = 40;
 let rectHeight = 20;
 let gridOffset = 50;
-
 function setup() {
   createCanvas(700, 800); // sets the canvas size to 700 x 800
 }
-
 function draw() {
   background(250, 182, 182); // clears the background
   drawGrid(); // draws the gridlines
   drawLabels(); // draws the graphs labels
   displayValues(); // calls dispaly values, which will show values on hover
 }
-
 // Draws the day, and month labels
 // and the labels for the gradient key
 // as well as the gradient key itself
@@ -149,18 +145,16 @@ function drawLabels() {
     text(i + 1, 65, 82 + i * 20);
   }
   // month labels
-  text("   Jan        Feb      Mar       Apr        May     June      July       Aug      Sept      Oct       Nov      Dec", 90, 65);
-
+  text('   Jan        Feb      Mar       Apr        May     June      July       Aug      Sept      Oct       Nov      Dec’, 90, 65);
   // labels for keys
-  text("More Common", 165, 730);
-  text("Less Common", 420, 730);
+  text(‘More Common’, 165, 730);
+  text(‘Less Common’, 420, 730);
   // gradient key
   for (let i = 0; i < numColors; i++) {
     stroke(200 - i, 200 - i, 200 - i);
     line(250 + i, 710, 250 + i, 740);
   }
 }
-
 // draws the grid of rectangles
 function drawGrid() {
   noStroke();
@@ -169,7 +163,6 @@ function drawGrid() {
     rect(gridOffset + getMonth(i) * rectWidth, gridOffset + getDay(i) * rectHeight, rectWidth - 2, rectHeight - 2);
   }
 }
-
 // given the current index (out of 365)
 // returns the month (1 based)
 function getMonth(index) {
@@ -181,7 +174,6 @@ function getMonth(index) {
   }
   return currentMonth;
 }
-
 // given the current index (out of 365)
 // returns the day (1 based)
 function getDay(index) {
@@ -199,7 +191,6 @@ function getDay(index) {
   }
   return currentDay;
 }
-
 // when the user hovers over a square
 // it displays the actual rank of that day
 function displayValues() {
@@ -220,30 +211,18 @@ function displayValues() {
     text(rank[getNumDays(monthIndex) + dayIndex], mouseX, mouseY);
   }
 }
-
 // Given the current month (1-based)
 // returns the total number of days
 function getNumDays(monthIndex) {
-  let dayTotal = 0;
-  let count = 0;
-  while (count < monthIndex) {
-    dayTotal = dayTotal + getDaysInMonth(count);
-    count++;
-  }
-  return dayTotal;
+// ADD CODE HERE
+// RETURN SOMETHING HERE
 }
 // 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31
 // takes in a month, zero based
 // and returns the days in that month
 // 0 is January, 11 is December
 function getDaysInMonth(month) {
-  // if the month is 3, 5, 8, or 10 send back 30, representing 30 days
-  if (month == 3 || month == 5 || month == 8 || month == 10) {
-    return 30;
-  } else if (month == 1) { // otherwise if its 1 (feb), send back 29
-    return 29;
-  } else {
-    return 31; // otherwise, in all other cases send back 31
-  }
+// ADD CODE HERE
+// RETURN SOMETHING HERE
 }
 ```
