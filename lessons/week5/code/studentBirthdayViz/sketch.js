@@ -125,11 +125,26 @@ function displayValues() {
 }
 
 // Given the current month (1-based)
-// returns the total number of days
+// returns the total number of days up to and including the month specified
+// so an input of 2 should give an output of the sum of the number of days 
+// in January (31) and the number of days in February (29). 
+// In other words getNumDays(2) => 31+29 = 60.
 function getNumDays(monthIndex) {
 // ADD CODE HERE
 // RETURN SOMETHING HERE
+  // this wil sum up the total number of days up to a specified month
+  var dayOfYear = 0;
+  // this is counting up how many months we have added in so far
+  var count = 0;
+  // loop from 0 up to the monthIndex that was passed
+  for (i = 0; i < monthIndex; i++) {
+    // add the days in the current month to our day total
+    dayOfYear = dayOfYear + getDaysInMonth(i);
+  }
+  // Send total number of days back to whichever method called it
+  return dayOfYear;
 }
+
 // 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31
 // takes in a month, zero based
 // and returns the days in that month

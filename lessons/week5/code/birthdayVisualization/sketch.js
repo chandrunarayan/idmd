@@ -20,7 +20,7 @@ var rank = [364,362,356,350,338,301,324,347,351,349,341,306,316,260,304,322,337,
         7,5,3,6,11,27,21,23,22,19,20,53,88,89,79,83,84,97,119,122,160,136,180,116,109,155,216,239,219,159,135,
         164,212,269,209,184,172,142,173,252,355,233,222,178,131,143,207,236,241,192,182,158,194,312,263,238,
         190,161,148,147,151,199,340,344,352,353,357,358,359,345,231,149,144,186,283,320,318,284,221,217,205,
-        295,266,342,185,128,102,94,96,113,104,115,224,354,363,365,360,130,62,42,26,220,67,120,200,100,35,130];
+        295,266,342,185,128,102,94,96,113,104,115,224,354,363,365,360,130,62,42,26,220];
 
 var numColors = 160;  // holds the number of possible colors
                       // we need this because the colors close to white hard to see
@@ -154,34 +154,39 @@ function displayValues(){
   }
 }
 
+
 // Given the current month (1-based)
-// returns the total number of days
+// returns the total number of days up to and including the month specified
+// so an input of 2 should give an output of the sum of the number of days 
+// in January (31) and the number of days in February (29). 
+// In other words getNumDays(2) => 31+29 = 60.
+// Given the current month (1-based)
+// returns the total number of days up to and including the month specified
+// so an input of 2 should give an output of the sum of the number of days 
+// in January (31) and the number of days in February (29). 
+// In other words getNumDays(2) => 31+29 = 60.
+
 function getNumDays(monthIndex) {
   // this wil sum up the total number of days up to a specified month
-  var dayTotal = 0;
+  var dayOfYear = 0;
   // this is counting up how many months we have added in so far
   var count = 0;
   // loop from 0 up to the monthIndex that was passed
   for (i = 0; i < monthIndex; i++) {
     // add the days in the current month to our day total
-    dayTotal = dayTotal + getDaysInMonth(i);
+    dayOfYear = dayOfYear + getDaysInMonth(i);
   }
-  // if we break the loop that means we have our daytotal
-  // so send it back to whichever method called it
-  return dayTotal;
+
+  // Send total number of days back to whichever method called it
+  return dayOfYear;
 }
+
 
 // 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31
 // takes in a month, zero based
 // and returns the days in that month
 // 0 is January, 11 is December
 function getDaysInMonth(month) {
-  // if the month is 3, 5, 8, or 10 send back 30, representing 30 days
-  if (month == 3 || month == 5 || month == 8 || month == 10) {
-    return 30;
-  } else if (month == 1) { // otherwise if its 1 (feb), send back 29
-    return 29;
-  } else {
-    return 31; // otherwise, in all other cases send back 31
-  }
+  var daysInMonth = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+  return daysInMonth[month];
 }
