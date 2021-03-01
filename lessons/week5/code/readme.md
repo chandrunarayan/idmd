@@ -6,9 +6,7 @@ Write code to produce the following results from the extended exercises. Submit 
 * [Concentric Circles](concentricCircles)
 * [Dot Grid](dotGrid)
 * [Mouse Lines](hash_effect)
-* [Print Nums](printNums)
+* [Print Nums using Arrays](printNums)
 * [Birthday Visualization](birthdayVisualization)
-   * [Look in Slack for starter code](https://cpjava2020.slack.com/archives/G01LL5FGCV7)
-
 
 Consider adding some or all these new techniques to your [Creativity Exploration](https://chandrunarayan.github.io/idmd/lessons/week4/homework/creativity-exploration.html) or [Data Viz](https://chandrunarayan.github.io/idmd/lessons/week5/homework/data-visualization.html) projects. 
