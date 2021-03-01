@@ -137,7 +137,7 @@ function getNumDays(monthIndex) {
   // this is counting up how many months we have added in so far
   var count = 0;
   // loop from 0 up to the monthIndex that was passed
-  for (i = 0; i < monthIndex; i++) {
+  for (let i = 0; i < monthIndex; i++) {
     // add the days in the current month to our day total
     dayOfYear = dayOfYear + getDaysInMonth(i);
   }
