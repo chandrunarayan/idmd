@@ -129,7 +129,7 @@ _Topics: Continue for loops, while loops, arrays, return statements, data vis_
 * [Exercises](lessons/week5/code)
 * [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
 
-### [Week of Mar 8]()
+### [Week of Mar 8](lessons/week7)
 
 _Topics: Exercise and Project submissions ahead of comments_
 
@@ -137,7 +137,7 @@ _Topics: Exercise and Project submissions ahead of comments_
 * Discuss Submissions Status and catch-up
 * Timer based trigger exercise 
 
-### [Week of Mar 15]()
+### [Week of Mar 15](lessons/week8)
 
 _Topics: Motion, Functions_
 
@@ -148,7 +148,7 @@ _Topics: Motion, Functions_
 * [Exercise: Exploding Bubbles](lessons/week7/code/exploding_bubbles.md)
 * [Project: Moving Robot](lessons/week8/code/moving_robot.md)
 
-### [Week of Mar 22]()
+### [Week of Mar 22](lessons/week9)
 
 _Topics: Arrays, Functions, User Input_
 
@@ -156,7 +156,7 @@ _Topics: Arrays, Functions, User Input_
 * [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md)
 * Learn to use Arrays, Functions [Project: Pins and Threads](lessons/week9/code/pins_threads.md)
 
-### [Week of Mar 29]()
+### [Week of Mar 29](lessons/week10)
 
 _Topics: Conferences and Catch Up on Assignments_
 
@@ -165,33 +165,33 @@ _Topics: Conferences and Catch Up on Assignments_
     *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/adhoc-conf)
 * Help with Assignments
 
-### [Week of Apr 5]()
+### [Week of Apr 5](lessons/week11)
 
 _Topics: Catch-up_
 * [Overview](lessons/week11)
 * [Exercises]()
 
 
-### [Week of Apr 19 After Spring Break](
+### [Week of Apr 19 After Spring Break](lessons/week12)
 
 _Topics: Recursion, Fractals_
 * [Overview](lessons/week12)
 * [Exercises](lessons/week12/code/recursion)
 
-### [Week of Apr 26]()
+### [Week of Apr 26](lessons/week13)
 
 _Topics: Recursion, Complex Numbers, Mandelbrot Set, Array Lists_
 * [Overview](lessons/week13)
 * [Setup Calendly meeting](https://calendly.com/chandru-narayan/anytime-wed-async) with me for discussing your final project
 
-### [Week of May 3]()
+### [Week of May 3](lessons/week14)
 
 _Topics: Objects, Array Lists, Perlin Noise_
 
 *  [Overview](lessons/week14)
 *  [Exercises](lessons/week14/plan/bubbles.md)
 
-### [Week of May 10 Final Project]()
+### [Week of May 10 Final Project](lessons/week15)
 
 _Topics: Catching-up on assignments and 1-1 Conferences_
 
@@ -199,7 +199,7 @@ _Topics: Catching-up on assignments and 1-1 Conferences_
 * Exercises: All pending assignments due in Student Portfolio
 * Class Work: 1-1 Conferences and [Final Project Ideas](lessons/week15/plan/inspiration.md)
 
-### [Final Week of Semester!]()
+### [Final Week of Semester!](lessons/week15/plan/inspiration.md)
 
 _Topics: FINAL PROJECT WEEK_
 
