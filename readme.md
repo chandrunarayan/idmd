@@ -112,7 +112,6 @@ _Topics: keyPressed events, while and for loops, using text and fonts, using ima
 
 * [Overview](lessons/week4)
 * [Exercises](lessons/week4/code)
-* [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
 
 ### [Week of Feb 22 After Mid-Winter Break](lessons/week5)
 
@@ -127,9 +126,8 @@ _Topics: Review for loops, while loops, arrays, return statements, data vis_
 _Topics: complete creativity expl, data vis, HTML/CSS_
 
 * [Overview](lessons/week6)
-* [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
+* [Exercises](lessons/week5/code)
 * [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
-* [Exercises: Student Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md)
 
 ### [Week of Mar 8](lessons/week7)
 
