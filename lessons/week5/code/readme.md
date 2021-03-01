@@ -6,7 +6,7 @@ Write code to produce the following results from the extended exercises. Submit 
 * [Concentric Circles](concentricCircles)
 * [Dot Grid](dotGrid)
 * [Mouse Lines](hash_effect)
-* [Print Nums using Arrays](printNums)
+* [Print Nums using Arrays](printNumsSoln)
 * [Birthday Visualization](birthdayVisualization)
 
-Consider adding some or all these new techniques to your [Creativity Exploration](https://chandrunarayan.github.io/idmd/lessons/week4/homework/creativity-exploration.html) or [Data Viz](https://chandrunarayan.github.io/idmd/lessons/week5/homework/data-visualization.html) projects. 
+Consider adding some or all these new techniques to your [Data Viz](https://chandrunarayan.github.io/idmd/lessons/week5/homework/data-visualization.html) projects. 
