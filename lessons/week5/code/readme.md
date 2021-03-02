@@ -8,6 +8,7 @@ Write code to produce the following results from the extended exercises. Submit 
 * [Mouse Lines](hash_effect)
 * [Print Nums using Arrays](printNumsSoln)
    * Use Starter code below with nested loops for column-wise "folding" of output
+
    ```javascript
    // col wise reversed text display
    let cols = 10; // number of cols not pixels
@@ -41,8 +42,10 @@ Write code to produce the following results from the extended exercises. Submit 
    dir *= -1;
    }
    ```
+
 * [Birthday Visualization](birthdayVisualization)
    * Modify code below as instructed
+
    ```javascript
    /*  Created by susan evans
       Modified by Chandru Narayan
@@ -200,4 +203,5 @@ Write code to produce the following results from the extended exercises. Submit 
    // RETURN SOMETHING HERE
    }
    ```
+   
 Consider adding some or all these new techniques to your [Data Viz](https://chandrunarayan.github.io/idmd/lessons/week5/homework/data-visualization.html) projects. 
