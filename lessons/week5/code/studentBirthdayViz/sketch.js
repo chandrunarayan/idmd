@@ -52,11 +52,11 @@ function drawLabels() {
     text(i + 1, 65, 82 + i * 20);
   }
   // month labels
-  text("   Jan        Feb      Mar       Apr        May     June      July       Aug      Sept      Oct       Nov      Dec", 90, 65);
+  text(''   Jan        Feb      Mar       Apr        May     June      July       Aug      Sept      Oct       Nov      Dec', 90, 65);
 
   // labels for keys
-  text("More Common", 165, 730);
-  text("Less Common", 420, 730);
+  text('More Common', 165, 730);
+  text('Less Common', 420, 730);
   // gradient key
   for (let i = 0; i < numColors; i++) {
     stroke(200 - i, 200 - i, 200 - i);
