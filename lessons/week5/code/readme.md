@@ -159,18 +159,18 @@ Write code to produce the following results from the extended exercises. Submit 
    let monthIndex = (int)((mouseX - (gridOffset + rectWidth)) / rectWidth); // 90 is the starting point of the left-most rects
    let dayIndex = (int)((mouseY - (gridOffset + rectHeight)) / rectHeight); // 70 is the starting points of the left-most rects
    // if that mouse position is within the range of the data
-   if (monthIndex >= 0 && monthIndex < 12 && dayIndex >= 0 && dayIndex < getDaysInMonth(monthIndex)) {
-      // determine whether to show the text as black or white
-      // 183 is about when we should switch to black
-      if (rank[getNumDays(monthIndex) + dayIndex] > 183) {
-         fill(0);
-      } else {
-         fill(255);
+      if (monthIndex >= 0 && monthIndex < 12 && dayIndex >= 0 && dayIndex < getDaysInMonth(monthIndex)) {
+         // determine whether to show the text as black or white
+         // 183 is about when we should switch to black
+         if (rank[getNumDays(monthIndex) + dayIndex] > 183) {
+            fill(0);
+         } else {
+            fill(255);
+         }
+         // display the actual rank
+         textSize(20);
+         text(rank[getNumDays(monthIndex) + dayIndex], mouseX, mouseY);
       }
-      // display the actual rank
-      textSize(20);
-      text(rank[getNumDays(monthIndex) + dayIndex], mouseX, mouseY);
-   }
    }
 
    // Given the current month (1-based)
@@ -203,5 +203,5 @@ Write code to produce the following results from the extended exercises. Submit 
    // RETURN SOMETHING HERE
    }
    ```
-   
+
 Consider adding some or all these new techniques to your [Data Viz](https://chandrunarayan.github.io/idmd/lessons/week5/homework/data-visualization.html) projects. 
