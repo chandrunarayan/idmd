@@ -1,11 +1,80 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
 # Code Exercises for this week
-Write code to produce the following results from the extended exercises. Submit these into Github as your Week 5 assignments. _These are due March 1st_.
+Write code to produce the following results from the extended exercises. Submit these into Github as your Week 5 assignments. _These are due March 8th_.
 
 * [Concentric Circles](concentricCircles)
 * [Dot Grid](dotGrid)
 * [Mouse Lines](hash_effect)
+* [Fanning & Kinking Lines](fanKinkSoln) follow example 4-6 to 4-13 in book. [Open previosly downloaded copy for easier refrence!](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
+
+```javascript
+let cols = 30;
+let rows = 10;
+let canWid = 480;
+let canHgt = 210;
+let count = 0;
+function setup() {
+   createCanvas(canWid, canHgt);
+   background(200);
+   let xoff = canWid/(cols + 1);
+   let yoff = canHgt/(rows +1);
+   for (let i = 0; i < cols; i++) {
+      let x1 = xoff * (i+1);
+      let y1 = 0;
+      let x2 = x1 + x1/2;
+      let y2 = height*0.6;
+      line(x1, y1, x2, y2);
+      //Can you draw another line from the tip 
+      // of the first line to show a kink??
+      // Write Code here
+   }
+}
+```
+
+* [Developing Animation!](developingAnimation)
+
+```javascript
+let cols = 50;
+let rows = 10;
+let canWid = 480;
+let canHgt = 210;
+let ai = 0;
+let x1 = [], x2 = [], x3 = [];
+let y1 = [], y2 = [], y3 = [];
+
+function setup() {
+   createCanvas(canWid, canHgt);
+   background(200);
+   let xoff = canWid / (cols + 1);
+   let yoff = canHgt / (rows + 1);
+   for (let i = 0; i < cols; i++) {
+      x1.push(xoff * (i + 1));
+      y1.push(0);
+      x2.push(x1[i] + x1[i] / 2);
+      y2.push(height * 0.6);
+      x3.push(x2[i] * 2 / 3);
+      y3.push(height);
+   }
+   frameRate(5);
+}
+
+function draw() {
+   line(x1[ai], y1[ai], x2[ai], y2[ai]);
+   //Can you draw another line from the tip 
+   // of the first line to show a kink??
+   line(x2[ai], y2[ai], x3[ai], y3[ai]);
+   ai++;
+   if (ai >= cols) {
+      textSize(30);
+      fill('red');
+      text("finished " + ai + " lines!", 
+         width / 2, height / 2);
+      noLoop();
+   }
+}
+```
+
 * [Print Nums using Arrays](printNumsSoln)
    * Use Starter code below with nested loops for column-wise "folding" of output
 
