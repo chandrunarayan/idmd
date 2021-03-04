@@ -6,7 +6,7 @@ Write code to produce the following results from the extended exercises. Submit 
 * [Concentric Circles](concentricCircles)
 * [Dot Grid](dotGrid)
 * [Mouse Lines](hash_effect)
-* [Fanning & Kinking Lines](fanKinkSoln) follow example 4-6 to 4-13 in book. [Open previosly downloaded copy for easier refrence!](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
+* [Fanning & Kinking Lines](fanKinkSoln) follow example 4-6 to 4-13 in book. [Open previously downloaded copy for easier refrence!](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
 
 ```javascript
 let cols = 30;
