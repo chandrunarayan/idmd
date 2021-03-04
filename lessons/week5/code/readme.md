@@ -32,7 +32,44 @@ function setup() {
 }
 ```
 
-* [Developing Animation!](developingAnimation)
+* [Print Nums using Arrays](printNumsSoln)
+   * Use Starter code below with nested loops for column-wise "folding" of output
+
+```javascript
+// col wise reversed text display
+let cols = 10; // number of cols not pixels
+let rows = 7; // number of rows
+let count = 0;
+let dir = 1;
+
+function setup() {
+   createCanvas(200, 100);
+   background('pink');
+   strokeWeight(5);
+   textAlign(CENTER, CENTER);
+   let xoff = width / (cols + 1);
+   let yoff = height / (rows + 1);
+   for (let c = 0; c < cols; c++) { // cols
+      let x = xoff * (c + 1);
+      if (dir == 1) {
+         for (let r = 0; r < rows; r++) { // rows
+         let y = yoff * (r + 1);
+         count++;
+         text('' + count, x, y);
+         }
+      } else {
+         for (let r = 0; r < rows; r++) { // rows
+         let y = yoff * (r + 1);
+         count++;
+         text('' + count, x, y);
+         }
+      }
+   }
+   dir *= -1;
+}
+```
+
+* [Developing Animation using Arrays!](developingAnimation)
 
 ```javascript
 let cols = 50;
@@ -74,43 +111,6 @@ function draw() {
    }
 }
 ```
-
-* [Print Nums using Arrays](printNumsSoln)
-   * Use Starter code below with nested loops for column-wise "folding" of output
-
-   ```javascript
-   // col wise reversed text display
-   let cols = 10; // number of cols not pixels
-   let rows = 7; // number of rows
-   let count = 0;
-   let dir = 1;
-
-   function setup() {
-   createCanvas(200, 100);
-   background('pink');
-   strokeWeight(5);
-   textAlign(CENTER, CENTER);
-   let xoff = width / (cols + 1);
-   let yoff = height / (rows + 1);
-   for (let c = 0; c < cols; c++) { // cols
-      let x = xoff * (c + 1);
-      if (dir == 1) {
-         for (let r = 0; r < rows; r++) { // rows
-         let y = yoff * (r + 1);
-         count++;
-         text('' + count, x, y);
-         }
-      } else {
-         for (let r = 0; r < rows; r++) { // rows
-         let y = yoff * (r + 1);
-         count++;
-         text('' + count, x, y);
-         }
-      }
-   }
-   dir *= -1;
-   }
-   ```
 
 * [Birthday Visualization](birthdayVisualization)
    * Modify code below as instructed
