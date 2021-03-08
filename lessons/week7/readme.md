@@ -32,12 +32,17 @@
         background(0);
         if (pct < 1.0) {
             x = startX + ((stopX - startX) * pct);
-            y = startY + ((stopY - startX) * pct);
+            y = startY + ((stopY - startY) * pct);
             pct += step;
         }
         ellipse(x, y, 20, 20);
     }
-
+//***** 
+// MODIFY THIS CODE TO ADD ADDITIONAL POINTS TO TWEEN TO    
+// BASED ON WHERE THE MOUSE IS CLICKED. START EACH ADDITIONAL
+// TWEEN ONLY WHEN THE PREVIOUS TWEEN HAS COMPLETED. 
+// HINT: USE mousePressed(), mouseX, mouseY  
+//*****
    ```
 
    * Shaking
@@ -49,9 +54,16 @@
 
     function draw() {
         background(210);
-        y2 = random(40, height-40);
+        y2 = random(20, height-20);
         line(20, height/2, width-20, y2);
-    }  
+    }
+//***** 
+// MODIFY THIS CODE TO SHOW 10 VERTICAL LINES EQUALLY
+// SPACED THAT ARE SHAKING IN BOTH X and Y COORDINATES. 
+// INCREASE THE AMOUNT OF SHAKING BASED mouseX LOCATION
+// MORE SHAKING IF mouseX IS GREATER  
+// HINT: USE mouseX to MODIFY random() PARAMETERS
+//*****      
    ```
 
    * Timing
