@@ -4,8 +4,8 @@
 ## Week of Mar 1
 
 ### [Online book Getting Started with P5JS](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
-* Open your local copy you have previoosly downloaded to yout laptop. If not download above and open locally.
-* Chapter 4 - Repetition 
+* Open your local copy you have previously downloaded to yout laptop. If not download above and open locally.
+* Chapter 4 Repetition
 
 ## Lessons
 * Create and access Array elements

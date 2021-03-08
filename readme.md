@@ -119,7 +119,7 @@ _Topics: Review for loops, while loops, arrays, return statements, data vis_
 
 * [Overview](lessons/week5)
 * [Exercises](lessons/week5/code)
-* [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
+* [Project: Data Visualization](lessons/week5/homework/data-visualization.md) OR [Project: Creative Animation](lessons/week5/homework/creative-animation.md)
 
 ### [Week of Mar 1](lessons/week6)
 
@@ -127,14 +127,15 @@ _Topics: Continue for loops, while loops, arrays, return statements, data vis_
 
 * [Overview](lessons/week6)
 * [Exercises](lessons/week5/code)
-* [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
+* [Project: Data Visualization](lessons/week5/homework/data-visualization.md) OR [Project: Creative Animation](lessons/week5/homework/creative-animation.md)
 
-### [Week of Mar 8]()
+### [Week of Mar 8](lessons/week7)
 
-_Topics: Exercise and Project submissions ahead of comments_
+_Topics: Tweening Shaking Timer_
 
 * [Overview](lessons/week7)
-* Discuss Submissions Status and catch-up
+* Exercises and Project submissions ahead of comments
+* Tweening, Random, Shaking
 * Timer based trigger exercise 
 
 ### [Week of Mar 15]()

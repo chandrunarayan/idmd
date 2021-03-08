@@ -1,9 +1,5 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
-# Week 5/6 Homework
-
 ## Data Visualization Project
-
-_Note: You have 2 weeks to complete this assignment._
 
 ### Goals
 The purpose of this exercise is to give you a chance to create a data visualization using p5.js.
@@ -11,9 +7,9 @@ The purpose of this exercise is to give you a chance to create a data visualizat
 ### Specification
 In this assignment you should create a unique data visualization using a small set of data (of any kind). Your program must dynamically create the visualization from the data set (this means I should be able to change your data, and the visualization will change too). Your visualization should be graphically interesting, and should include some sort of user interaction or changes based on actions the user takes.
 
-Your program should use loops(for or while, or both), arrays, functions and parameters. The birthday visualization we created is a good example of what is expected. Sample code is provided for the STANDARD team to understand the basics of parameter passing and return values from functions.
+Your program should use loops(for or while, or both), arrays, functions and parameters. The birthday visualization we created is a good example of what is expected. Sample code is provided to understand the basics of parameter passing and return values from functions.
 
-This is a much more challenging assignment then past assignments and as such you will have two weeks to complete it. You should complete your program in stages, and reach out to me if you get stuck or need any help along the way.
+This is a much more challenging assignment then past assignments and as such you will have two weeks to complete it. You should complete your program in stages, and reach out to me if you get stuck or need any help along the way.  Please conference with me if you need help getting started with thsi assignment!
 
 ### Tips
 * Choose a small dataset, or a subset of a large data set
@@ -36,5 +32,4 @@ This is a much more challenging assignment then past assignments and as such you
 * [Dear Data](http://www.dear-data.com/theproject)
 * [Information is Beautiful](http://www.informationisbeautiful.net/)
 * [Data Visualizations](http://feltron.com/) by Nick Feltron
-* [Data Visualizations](http://www.loc.gov/pictures/search/?q=%22lot%2011931%22%20NOT%20medal&st=grid&co=anedub&loclr=blogpic) by William Edward Burghardt, 1868-1963
 * Udacity Visualization [Blog Post](http://blog.udacity.com/2015/01/15-data-visualizations-will-blow-mind.html)
