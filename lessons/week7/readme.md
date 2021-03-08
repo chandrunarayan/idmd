@@ -12,7 +12,7 @@
 * [Online Textbook reference Chapter 8.6 - 8.10](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
 * Open your local copy you have previously downloaded to yout laptop. If not download above and open locally.
 * Practice Motion: Tweening, Shaking, Timing
-   * Tweening
+   * Tweening [Modify code below to do this!]()
  
    ```javascript
     let startX = 20; // Initial x coordinate
@@ -45,7 +45,7 @@
 //*****
    ```
 
-   * Shaking
+   * Shaking [Modify code below to do this!]()
  
    ```javascript
     function setup() {
@@ -66,30 +66,34 @@
 //*****      
    ```
 
-   * Timing
+   * Timing [Combine code below with modified Tweening code to do this!]()
 
    ```javascript
-    var time1 = 2000;
-    var time2 = 4000;
-    var x = 0;
+let timer = 2000;
+    let savedTime, elapsedTime;
+    let out = 'tick';
 
     function setup() {
         createCanvas(480, 120);
+        background(204);
+        savedTime = millis();
+        textSize(20);
+        text(out, width/2, height/2);
     }
 
     function draw() {
-        var currentTime = millis();
-        background(204);
-        if (currentTime > time2) {
-            x -= 0.5;
-            if (x < 0) {
-                time1 = millis();
-                time2 = time1 + 2000;
+        elapsedTime = millis() - savedTime;
+        //print(nf(elapsedTime,4,0));
+        if (elapsedTime >= timer) {
+            savedTime = millis();
+            if (out == 'tick') {
+                out = 'tock';
+            } else {
+                out = 'tick'
             }
-        } else if (currentTime > time1) {
-            x += 2;
+            background(204)
+            text(out, width/2, height/2);
         }
-            
-        ellipse(x, 60, 90, 90);
     }
+
    ```
