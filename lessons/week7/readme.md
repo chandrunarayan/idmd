@@ -11,7 +11,7 @@
 ## Learning Objectives
 * [Online Textbook reference Chapter 8.6 - 8.10](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
 * Open your local copy you have previously downloaded to yout laptop. If not download above and open locally.
-* Practice Motion Tweening, Shaking, Timing
+* Practice Motion: Tweening, Shaking, Timing
    * Tweening
  
    ```javascript
@@ -39,6 +39,7 @@
     }
 
    ```
+
    * Shaking
  
    ```javascript
