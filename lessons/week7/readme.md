@@ -8,11 +8,58 @@
 * Practice for showing Animation Buildup using Arrays
 
 ## Learning Objectives
-* Practice Motion - Tweening, Shaking, Timers
-* [Online Textbook reference Chapter 8.6 - 8.10]((https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
+* Practice Motion Tweening, Shaking, Timing
+   * Tweening
+ 
+   ```javascript
+    let startX = 20; // Initial x coordinate
+    let stopX = 160; // Final x coordinate
+    let startY = 30; // Initial y coordinate
+    let stopY = 80; // Final y coordinate
+    let x = startX; // Current x coordinate
+    let y = startY; // Current y coordinate
+    let step = 0.005; // createCanvas of each step (0.0 to 1.0)
+    let pct = 0.0; // Percentage traveled (0.0 to 1.0)
+
+    function setup() {
+        createCanvas(240, 120);
+    }
+
+    function draw() {
+        background(0);
+        if (pct < 1.0) {
+            x = startX + ((stopX - startX) * pct);
+            y = startY + ((stopY - startX) * pct);
+            pct += step;
+        }
+        ellipse(x, y, 20, 20);
+    }
+
+   ```
+   * Shaking
+ 
+   ```javascript
+    function setup() {
+        createCanvas(600, 400);
+    }
+
+    function draw() {
+        background(210);
+        y2 = random(40, height-40);
+        line(20, height/2, width-20, y2);
+    }  
+   ```
+
+   * Timing
+
+   ```javascript
+
+   ```
+
+* [Online Textbook reference Chapter 8.6 - 8.10](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
 * Open your local copy you have previously downloaded to yout laptop. If not download above and open locally.
 
 ## Week 7 Exercises
 * [Exercise - Exploding Bubbles](code/exploding_bubbles.md)
 * [Shaking Sticks](code/shakingsticks)
-* [Timing Bubbles](code/timingbubbles)
+* [Timed Bubble](code/timingbubbles)
