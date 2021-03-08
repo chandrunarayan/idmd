@@ -12,6 +12,7 @@
 * [Online Textbook reference Chapter 8.6 - 8.10](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
 * Open your local copy you have previously downloaded to yout laptop. If not download above and open locally.
 * Practice Motion: Tweening, Shaking, Timing
+<br/>
    * Tweening [Modify code below to do this!](code/tweening2/)
  
    ```javascript
@@ -44,7 +45,7 @@
 // HINT: USE mousePressed(), mouseX, mouseY  
 //*****
    ```
-
+<br/>
    * Shaking [Modify code below to do this!](code/random2/)
  
    ```javascript
@@ -65,7 +66,7 @@
 // HINT: USE mouseX to MODIFY random() PARAMETERS
 //*****      
    ```
-
+<br/>
    * Timing [Combine code below with modified Tweening code to do this!](code/tweening3/)
 
    ```javascript
