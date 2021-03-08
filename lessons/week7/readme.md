@@ -80,9 +80,3 @@
         ellipse(x, 60, 90, 90);
     }
    ```
-
-
-
-## Week 7 Exercises
-* [Exercise - Exploding Bubbles](code/exploding_bubbles.md)
-* [Shaking Sticks](code/shakingsticks)
