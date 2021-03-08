@@ -3,10 +3,10 @@
 # Code Exercises for Week 5 6 & 7
 Write code to produce the following results from the extended exercises. Submit these into Github as your Week 5 6 & 7 assignments. _These are due March 12th_.
 
-1. [Concentric Circles](concentricCircles)
-2. [Dot Grid](dotGrid)
-3. [Mouse Lines](hash_effect)
-4. [Fanning & Kinking Lines](fanKinkSoln) follow example 4-6 to 4-13 in book. [Open previously downloaded copy for easier refrence!](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
+* [Concentric Circles](concentricCircles)
+* [Dot Grid](dotGrid)
+* [Mouse Lines](hash_effect)
+* [Fanning & Kinking Lines](fanKinkSoln) follow example 4-6 to 4-13 in book. [Open previously downloaded copy for easier refrence!](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
 
 ```javascript
 let cols = 30;
@@ -32,7 +32,7 @@ function setup() {
 }
 ```
 
-5. [Print Nums using Arrays](printNumsSoln)
+* [Print Nums using Arrays](printNumsSoln)
    * Use Starter code below with nested loops for column-wise "folding" of output
 
 ```javascript
@@ -69,7 +69,7 @@ function setup() {
 }
 ```
 
-6. [Developing Animation using Arrays!](developingAnimation)
+* [Developing Animation using Arrays!](developingAnimation)
 
 ```javascript
 let cols = 50;
@@ -112,7 +112,7 @@ function draw() {
 }
 ```
 
-7. [Birthday Visualization](birthdayVisualization)
+* [Birthday Visualization](birthdayVisualization)
    * Modify code below as instructed
 
    ```javascript
@@ -273,6 +273,6 @@ function draw() {
    }
    ```
 
-8. Start with the code below to produce the [Shaking Sticks effect shown here](code/shakingsticks) 
+
 
 Consider adding some or all these new techniques to your [Data Viz](https://chandrunarayan.github.io/idmd/lessons/week5/homework/data-visualization.html) or [Creative Animation](lessons/week5/homework/creative-animation.md) projects. 
