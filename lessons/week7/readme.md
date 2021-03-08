@@ -7,7 +7,10 @@
 * Practice for Loops and While Loops
 * Practice for showing Animation Buildup using Arrays
 
+
 ## Learning Objectives
+* [Online Textbook reference Chapter 8.6 - 8.10](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
+* Open your local copy you have previously downloaded to yout laptop. If not download above and open locally.
 * Practice Motion Tweening, Shaking, Timing
    * Tweening
  
@@ -53,13 +56,33 @@
    * Timing
 
    ```javascript
+    var time1 = 2000;
+    var time2 = 4000;
+    var x = 0;
 
+    function setup() {
+        createCanvas(480, 120);
+    }
+
+    function draw() {
+        var currentTime = millis();
+        background(204);
+        if (currentTime > time2) {
+            x -= 0.5;
+            if (x < 0) {
+                time1 = millis();
+                time2 = time1 + 2000;
+            }
+        } else if (currentTime > time1) {
+            x += 2;
+        }
+            
+        ellipse(x, 60, 90, 90);
+    }
    ```
 
-* [Online Textbook reference Chapter 8.6 - 8.10](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
-* Open your local copy you have previously downloaded to yout laptop. If not download above and open locally.
+
 
 ## Week 7 Exercises
 * [Exercise - Exploding Bubbles](code/exploding_bubbles.md)
 * [Shaking Sticks](code/shakingsticks)
-* [Timed Bubble](code/timingbubbles)
