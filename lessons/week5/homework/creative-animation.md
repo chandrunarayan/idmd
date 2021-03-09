@@ -7,7 +7,7 @@ The purpose of this exercise is to give you a chance to combine techniques learn
 ### Specification
 In this assignment you should combine each of the following Javascript concepts into one creative animation.
 
-Your program should include for loops, arrays, functions with parameters, custom fonts with color with a smooth visual build of lines or shapes. The code exercissampleses [here](https://chandrunarayan.github.io/idmd/lessons/week5/code/) and [here](https://chandrunarayan.github.io/idmd/lessons/week7/) should provide plenty of examples to produce interesting and original work.
+Your program should include for loops, arrays, functions with parameters, custom fonts with color with a smooth visual build of lines or shapes. The code exercise samples [here](https://chandrunarayan.github.io/idmd/lessons/week5/code/) and [here](https://chandrunarayan.github.io/idmd/lessons/week7/) should provide plenty of examples to produce interesting and original work.
 
 This is a much more challenging assignment as you are combining multiple concepts to come up with your final work. You should complete your program in stages, and reach out to me if you get stuck or need any help along the way.
 
