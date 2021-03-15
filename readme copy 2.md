@@ -142,10 +142,16 @@ _Topics: Tweening Shaking Timer_
 * Tweening, Random, Shaking
 * Timer based trigger exercise 
 
-### [Week of Mar 15 - Short comments week]()
+### [Week of Mar 15]()
 
-_Topics: Review_Catchup_
+_Topics: Motion, Functions_
 
+* [Overview](lessons/week8)
+* Explore Motion, Functions
+* [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md)
+* [Project: Submit Data Viz](lessons/week5/homework/data-visualization.md)
+* [Exercise: Exploding Bubbles](lessons/week7/code/exploding_bubbles.md)
+* [Project: Moving Robot](lessons/week8/code/moving_robot.md)
 
 ### [Week of Mar 22]()
 
