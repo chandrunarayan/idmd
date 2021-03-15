@@ -145,6 +145,11 @@ _Topics: Tweening Shaking Timer_
 ### [Week of Mar 15 - Short comments week]()
 
 _Topics: Review_Catchup_
+* [Online Book References](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
+* Open your local copy you have previously downloaded to yout laptop. If not download above and open locally.
+    *  Chapetr 9:  Functions
+    *  Chapter 11.1 to 11.8: Arrays
+
 
 
 ### [Week of Mar 22]()
