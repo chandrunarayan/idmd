@@ -20,6 +20,9 @@
   * ![alt text](4createrepl.png)
   * ![alt text](5createrepl.png)
 
+* [What is perlin noise?](https://en.wikipedia.org/wiki/Perlin_noise)
+  * ![alt text](perlin.png)
+
 * Demonstrate difference between random() & noise()
   * ![alt text](6createrepl.png)
 * Create a moving plot of perlin noise
