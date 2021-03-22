@@ -30,5 +30,5 @@
 
 ## Homework
 * Exercise: Update click-timer from last week with perlin noise
-* [Project: Atrract Bugs with Food](bugs_food.md)
+* [Project: Atrract Bugs with Food](code/bugs_moving_to_food.md)
 
