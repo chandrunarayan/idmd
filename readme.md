@@ -151,14 +151,12 @@ _Topics: Review_Catchup_
     *  Chapter 11.1 to 11.8: Arrays
 
 
+### [Week of Mar 22](lessons/week8)
 
-### [Week of Mar 22]()
+_Topics: Repl editor, Debugging, Perlin Noise_
 
-_Topics: Arrays, Functions, User Input_
-
-* [Overview](lessons/week9)
-* [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md)
-* Learn to use Arrays, Functions [Project: Pins and Threads](lessons/week9/code/pins_threads.md)
+* [Overview](lessons/week8)
+* [Project: Bugs](lessons/week8/code/bugs_butterflies.md)
 
 ### [Week of Mar 29]()
 
