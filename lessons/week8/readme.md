@@ -1,6 +1,6 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
-# Week 8
+# Week of March 22nd
 
 ## Learning Objectives
 * Learning to use the repl.it editor for debugging
