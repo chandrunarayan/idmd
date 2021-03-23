@@ -33,5 +33,7 @@
 
 ## Homework
 * Exercise: Update click-timer from last week with perlin noise
-* [Project: Atrract Bugs with Food](code/bugs_moving_to_food.md)
+* [Project: Attract Bugs with Food](code/bugs_moving_to_food.md)
 
+## Cloud Recording of Zoom
+[March 22nd Cliud Recording](https://zoom.us/rec/share/W-Vqwy-K2zRsv1bMAZ2E6Pa3od1_qUN8CVABc-rNetTqh5iZ0L8J363iE_t4lESB.YG0X-zlqwgSrWvqQ) Passcode: .7kp.t!q
