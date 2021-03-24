@@ -30,9 +30,21 @@
   * ![alt text](8createrepl.png)
   * ![alt text](9createrepl.png)
   * ![alt text](10createrepl.png)
+* 2D Perlin Noise
+  * Learn about the Pixel Array Background
+  * ![alt text](pixelarray.png)
+  * Introduce 1D perlin Noise into Pixel Array
+  * ![alt text](pixelarray25.png)
+  * 2D Perlin Noise Background
+  * ![alt text](2dperlin1.png)
+  * Clouds in the sky!
+  * Create the following effect by combining and modifying code learned this week!
+
+<iframe height="400px" width="100%" src="https://replit.com/@cnarayan/GleefulGrandDownload?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 ## Homework
 * Exercise: Update click-timer from last week with perlin noise
+* Exercise: Moving Clouds in the Sky!
 * [Project: Attract Bugs with Food](code/bugs_moving_to_food.md)
 
 ## Cloud Recording of Zoom
