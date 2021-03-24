@@ -40,7 +40,7 @@
   * 
   * Create the Clouds in the sky effect by combining and modifying code learned this week!
 
-<iframe src="https://editor.p5js.org/cnarayan/embed/O4J9BcyGm"></iframe>
+<iframe height="600px" width="100%" src="https://editor.p5js.org/cnarayan/embed/O4J9BcyGm"></iframe>
 
 ## Homework
 * Exercise: Update click-timer from last week with perlin noise
