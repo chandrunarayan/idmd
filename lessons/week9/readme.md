@@ -1,33 +1,123 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
-# Week 9
+# Week of March 27th
 
 ## Learning Objectives
-* Functions, Arrays, User Input
 
-## Week 9 Lessons
-* ALL Teams: [Learn to use Arrays, Functions, User Input](plan/readme.md) 
-* STD Team: [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
-* ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/week8/code/moving_robot.md)
+* Sliders to control a sketch
+* Add text outside the canvas
+* Create a Perlin Noise Flow field
+* Apply 2D Perlin Noise to Flow Field
+* 3rd Diemsion of Perlin Noise - Time!
+* Particles in a Flow Field
 
-## Homework
+## Lessons
+* [Draw a 2D noise grid](https://editor.p5js.org/cnarayan/present/Fc8AufHwQ)
+```javascript
+let res = 20;
+let rows, cols;
+let xoff, yoff;
+let inc = .1;
 
-### OverDue (Last Week) 3/30
+function setup() {
+  createCanvas(400, 400);
+  rows = height/res;
+  cols = width/res;
+  noStroke();
+}
 
-* STD Team: [Moving Pacman Exercise](code/moving_pacman.md). Add to Github and Student Portfolio
+function draw() {
+  background(220);
+  yoff = 100;
+  for(let i=0; i<rows; i++) {
+    xoff = 300;
+    for(let j=0; j<cols; j++) {
+//  WRITE CODE HERE
+    }
+    yoff += inc;
+  }
+}
+```
+* Change a variable in above sketch using a slider
+* Display a variable in above sketch outside the canvas
+* Create a flow field for 2D perlin noise with time in 3D
+```javascript
+let res = 20;
+let rows, cols;
+let xoff, yoff;
+let inc = .1;
+let zoff = 0;
 
-### Due Thursday 4/9
-* STD Team: [Project: Pins and Threads](code/pins_threads.md)
-* ADV Team: [Moving Robot Project Part 2](lessons/week8/code/moving_robot.md). Add Part 2 to Github and Student Portfolio
+function setup() {
+  createCanvas(400, 400);
+  rows = height/res;
+  cols = width/res;
+  noStroke();
+}
 
-### Due Thursday 4/9
-* ADV Team: [Moving Robot Project Part 3](lessons/week8/code/moving_robot.md. Add Part 3 to Github and Student Portfolio
+function draw() {
+  background(220);
+  yoff = 100;
+  for(let i=0; i<rows; i++) {
+    xoff = 300;
+    for(let j=0; j<cols; j++) {
+      let index = rows*i+j;
+      console.log(index);
+      let n = noise(xoff, yoff, zoff);
+      fill(n*255);
+      rect(i*res,j*res,res,res);
+      xoff += inc;
+    }
+    yoff += inc;
+  }
+  zoff += 0.005
+}
+```
+* Add slider for inc and text for frame rate to above sketch
+* Draw lines reacting to the flow field at their static location
+```javascript
+let res = 40;
+let rows, cols;
+let xoff, yoff;
+let inc = .1;
+let zoff = 0;
 
-## [Code Examples](plan/readme.md)
+function setup() {
+  createCanvas(400, 400);
+  rows = height/res;
+  cols = width/res; 
+}
 
-* [Pins and Threads](code/pinsThreads3)
-*   ![alt text](plan/savecanvas.png)
+function draw() {
+  background(220);
+  yoff = 100;
+  for(let i=0; i<rows; i++) {
+    xoff = 300;
+    for(let j=0; j<cols; j++) {
+      let index = rows*i+j;
+      let n = noise(xoff, yoff, zoff);
+      let angle = map(n, 0, 1, 0, 2*PI);
+      fill(n*255);
+      noStroke();
+      rect(i*res,j*res,res,res);      
+      drawLine(i*res, j*res, angle);
+      xoff += inc;
+    }
+    yoff += inc;
+  }
+  zoff += 0.005
+}
 
-* [User Input Slider](code/userInput)
-*   ![alt text](plan/inputSlider.png)
+function drawLine(x, y, a) {
+//COMPLETE THIS FUNCTION
+}
+```
+
+* [Make particles follow a flow field while moving](https://editor.p5js.org/cnarayan/present/wOc8Ih813)
+* See Slack for code extract
+
+
+## Submit exercises completed in the last 2 weeks to Github
+
+
 
