@@ -171,7 +171,7 @@ _Topics: Catch-up_
 * [Exercises]()
 
 
-### [Week of Apr 19 After Spring Break](
+### [Week of Apr 19 After Spring Break]()
 
 _Topics: Recursion, Fractals_
 * [Overview](lessons/week12)
@@ -185,7 +185,7 @@ _Topics: Recursion, Complex Numbers, Mandelbrot Set, Array Lists_
 
 ### [Week of May 3]()
 
-_Topics: Objects, Array Lists, Perlin Noise_
+_Topics: Objects, Array Lists_
 
 *  [Overview](lessons/week14)
 *  [Exercises](lessons/week14/plan/bubbles.md)
