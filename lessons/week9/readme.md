@@ -121,8 +121,9 @@ function drawLine(x, y, a) {
 * [Make particles follow a flow field while moving](https://editor.p5js.org/cnarayan/present/wOc8Ih813)
 * See Slack for code extract
 
-
-## Submit exercises completed in the last 2 weeks to Github
+## Homework
+1. Submit exercises completed in the last 2 weeks to Github
+1. Complete Perlin Noise effects project by combining techniques from the last 2 weeks
 
 
 

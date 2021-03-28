@@ -43,8 +43,9 @@
 <iframe height="600px" width="100%" src="https://editor.p5js.org/cnarayan/embed/O4J9BcyGm"></iframe>
 
 ## Homework
-* Exercise: Update click-timer from last week with perlin noise
-* Exercise: Moving Clouds in the Sky!
+* Exercise: Create and submit exercises above using Perlin Noise
+* Exercise: Create a sketch of moving Clouds in the Sky!
+* Optional Exercise: Update click-timer from last week with perlin noise
 
 
 ## Cloud Recording of Zoom
