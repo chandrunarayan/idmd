@@ -156,16 +156,13 @@ _Topics: Review_Catchup_
 _Topics: Repl editor, Debugging, Perlin Noise_
 
 * [Overview](lessons/week8)
-* [Project: Bugs](lessons/week8/code/bugs_butterflies.md)
 
-### [Week of Mar 29]()
 
-_Topics: Conferences and Catch Up on Assignments_
+### [Week of Mar 29](lessons/week9)
 
-* Conferences 1-1
-    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/anytime-wed-async)
-    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/adhoc-conf)
-* Help with Assignments
+_Topics: 2D & Dynamic Perlin Noise, Sliders, html text, Particles_
+
+* [Overview](lessons/week9)
 
 ### [Week of Apr 5]()
 
