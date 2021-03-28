@@ -13,6 +13,7 @@
 
 ## Lessons
 * [Draw a 2D noise grid](https://editor.p5js.org/cnarayan/present/Fc8AufHwQ)
+
 ```javascript
 let res = 20;
 let rows, cols;
@@ -38,9 +39,11 @@ function draw() {
   }
 }
 ```
+
 * Change a variable in above sketch using a slider
 * Display a variable in above sketch outside the canvas
 * Create a flow field for 2D perlin noise with time in 3D
+
 ```javascript
 let res = 20;
 let rows, cols;
@@ -73,8 +76,10 @@ function draw() {
   zoff += 0.005
 }
 ```
+
 * Add slider for inc and text for frame rate to above sketch
 * Draw lines reacting to the flow field at their static location
+
 ```javascript
 let res = 40;
 let rows, cols;
