@@ -72,7 +72,7 @@ function draw() {
 * Display a variable in sketch below outside the canvas
 
 ### Perlin Noise Blobs
-* [An example of 2D Perlin noise circular blob](https://editor.p5js.org/cnarayan/present/FVUDCqj-7)
+* [An example of 2D Perlin noise circular blob](https://editor.p5js.org/cnarayan/present/8zlPoaYqd)
 * We will animate this in class
 
 ```javascript
