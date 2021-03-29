@@ -7,9 +7,10 @@
 * Sliders to control a sketch
 * Add text outside the canvas
 * Create Perlin Noise Movement
-* Apply 2D Perlin Noise Grid
+* Apply 2D Perlin Noise Grids & Flow Fields
 * 3rd Diemsion of Perlin Noise - Time!
-* Particles in a Flow Field
+* Particles in a Perlin Noise Flow Field
+* Perlin Noise Blobs
 
 ## Lessons
 
