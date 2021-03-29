@@ -110,7 +110,8 @@ function draw() {
 1. Submit exercises completed in the last 2 weeks to Github
 1. Complete Perlin Noise effects project by combining techniques from the last 2 weeks
 
-## Session Recording
-
+## Zoom Session Recording
+[Zoom session recording March 29th](https://zoom.us/rec/share/kC3ncHbdbJYYNJaCbVJL5YUMijbZsydunT1e4e57UMcBG5k4Qah38aPNlvxb2RcD.dGEegCDJVchZGd7S)
+Use Passcode: t3iDY6$X 
 
 
