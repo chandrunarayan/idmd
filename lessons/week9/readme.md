@@ -13,6 +13,7 @@
 
 ## Lessons
 
+### Perlin Noise Movement with Sliders
 * [Develop a sketch Perlin Noise movement with a slider!](https://editor.p5js.org/cnarayan/present/QydpnqtQZ)
 
 ```javascript
@@ -36,7 +37,12 @@ function draw() {
 }
 ```
 
-* [Draw a 2D noise grid](https://editor.p5js.org/cnarayan/present/Fc8AufHwQ)
+### Perlin Noise Grids & Flow Fields
+* [Create a 2D noise grid](https://editor.p5js.org/cnarayan/present/Fc8AufHwQ)
+* [Create 2D perlin noise with time in 3D](https://editor.p5js.org/cnarayan/present/5JeDU4VDt)
+* [Create Flow Field using Perlin Noise](https://editor.p5js.org/cnarayan/present/tur3F4Wct)
+* [Particles following a flow field while moving](https://editor.p5js.org/cnarayan/present/wOc8Ih813)
+* See Slack for code extract
 
 ```javascript
 let res = 20;
@@ -61,12 +67,10 @@ function draw() {
   }
 }
 ```
-
-* Change a variable in sketch below using a slider
+* Change the inc varable in sketch above using a slider
 * Display a variable in sketch below outside the canvas
-* [Create 2D perlin noise with time in 3D](https://editor.p5js.org/cnarayan/present/5JeDU4VDt)
 
-
+### Perlin Noise Blobs
 * [An example of 2D Perlin noise circular blob](https://editor.p5js.org/cnarayan/present/FVUDCqj-7)
 * We will animate this in class
 
@@ -95,49 +99,6 @@ function draw() {
   //noLoop();
 }
 ```
-
-* [An example of 2D Perlin noise Flow Field](https://editor.p5js.org/cnarayan/present/tur3F4Wct)
-
-```javascript
-let res = 40;
-let rows, cols;
-let xoff, yoff;
-let inc = .1;
-let zoff = 0;
-
-function setup() {
-  createCanvas(400, 400);
-  rows = height/res;
-  cols = width/res; 
-}
-
-function draw() {
-  background(220);
-  yoff = 100;
-  for(let i=0; i<rows; i++) {
-    xoff = 300;
-    for(let j=0; j<cols; j++) {
-      let index = rows*i+j;
-      let n = noise(xoff, yoff, zoff);
-      let angle = map(n, 0, 1, 0, 2*PI);
-      fill(n*255);
-      noStroke();
-      rect(i*res,j*res,res,res);      
-      drawLine(i*res, j*res, angle);
-      xoff += inc;
-    }
-    yoff += inc;
-  }
-  zoff += 0.005
-}
-
-function drawLine(x, y, a) {
-//COMPLETE THIS FUNCTION
-}
-```
-
-* [Make particles follow a flow field while moving](https://editor.p5js.org/cnarayan/present/wOc8Ih813)
-* See Slack for code extract
 
 ## Homework
 1. Submit exercises completed in the last 2 weeks to Github
