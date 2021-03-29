@@ -13,7 +13,7 @@
 
 ## Lessons
 
-* [Develop a sketch Perlin Noise movemwnt for an ellipse](https://editor.p5js.org/cnarayan/present/JPN-a0grp)
+* [Develop a sketch Perlin Noise movement with a slider!](https://editor.p5js.org/cnarayan/present/QydpnqtQZ)
 
 ```javascript
 let x, y, clr
