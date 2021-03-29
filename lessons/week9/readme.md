@@ -42,8 +42,10 @@ function draw() {
 * [Create a 2D noise grid](https://editor.p5js.org/cnarayan/present/Fc8AufHwQ)
 * [Create 2D perlin noise with time in 3D](https://editor.p5js.org/cnarayan/present/5JeDU4VDt)
 * [Create Flow Field using Perlin Noise](https://editor.p5js.org/cnarayan/present/tur3F4Wct)
+* Instead of a line inside the grid, draw a narrow triangle pointing in the direction of flow!
 * [Particles following a flow field while moving](https://editor.p5js.org/cnarayan/present/wOc8Ih813)
 * See Slack for code extract
+
 
 ```javascript
 let res = 20;
