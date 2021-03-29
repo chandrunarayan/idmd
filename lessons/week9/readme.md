@@ -110,5 +110,7 @@ function draw() {
 1. Submit exercises completed in the last 2 weeks to Github
 1. Complete Perlin Noise effects project by combining techniques from the last 2 weeks
 
+## Session Recording
+
 
 
