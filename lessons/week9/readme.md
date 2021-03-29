@@ -29,7 +29,7 @@ function draw() {
   background(220);
   fill(clr);
   x = // random location for x using perlin noise
-  y = // random location for x using perlin noise
+  y = // random location for y using perlin noise
   ellipse(x, y, 25, 25);
   xoff1 += 0.01;
   xoff2 += 0.01;
@@ -66,38 +66,6 @@ function draw() {
 * Display a variable in sketch below outside the canvas
 * [Create 2D perlin noise with time in 3D](https://editor.p5js.org/cnarayan/present/5JeDU4VDt)
 
-```javascript
-let res = 20;
-let rows, cols;
-let xoff, yoff;
-let inc = .1;
-let zoff = 0;
-
-function setup() {
-  createCanvas(400, 400);
-  rows = height/res;
-  cols = width/res;
-  noStroke();
-}
-
-function draw() {
-  background(220);
-  yoff = 100;
-  for(let i=0; i<rows; i++) {
-    xoff = 300;
-    for(let j=0; j<cols; j++) {
-      let index = rows*i+j;
-      console.log(index);
-      let n = noise(xoff, yoff, zoff);
-      fill(n*255);
-      rect(i*res,j*res,res,res);
-      xoff += inc;
-    }
-    yoff += inc;
-  }
-  zoff += 0.005
-}
-```
 
 * [An example of 2D Perlin noise circular blob](https://editor.p5js.org/cnarayan/present/FVUDCqj-7)
 * We will animate this in class
