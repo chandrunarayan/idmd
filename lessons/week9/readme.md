@@ -25,7 +25,7 @@
 
 ### Perlin Noise Movement with Sliders
 * [Develop a sketch Perlin Noise movement with a slider!](https://editor.p5js.org/cnarayan/present/QydpnqtQZ)
-* Submit this to Github as an exercise
+* Add Sliders & Buttons, then Submit this to Github as an exercise
 
 ```javascript
 let x, y, clr
@@ -53,7 +53,7 @@ function draw() {
 * [Create 2D perlin noise with time in 3D](https://editor.p5js.org/cnarayan/present/5JeDU4VDt)
 * [Create Flow Field using Perlin Noise](https://editor.p5js.org/cnarayan/present/tur3F4Wct)
 * Instead of a line inside the grid, draw a narrow triangle pointing in the direction of flow!
-* Submit this to Github as an exercise
+* Add Sliders & Buttons, then Submit this to Github as an exercise
 * [Particles following a flow field while moving](https://editor.p5js.org/cnarayan/present/wOc8Ih813)
 * See Slack for code extract
 
@@ -86,11 +86,11 @@ function draw() {
 
 ### Perlin Noise Blobs
 * [An example of 2D Perlin noise circular blob](https://editor.p5js.org/cnarayan/present/8zlPoaYqd)
-* We will animate this in class
-* Submit this to Github as an exercise
+* We will animate this further in class
+* Add Sliders & Buttons, then Submit this to Github as an exercise
 
 ```javascript
-let nmax = 1;
+let xoff = 0;
 
 function setup() {
   createCanvas(400, 400);
@@ -102,16 +102,16 @@ function draw() {
   stroke(255);
   noFill();
   beginShape();
-  for (let a = 0; a < TWO_PI; a+=0.3) {
-    let xoff = map(cos(a),-1,1,0,nmax);
-    let yoff = map(sin(a),-1,1,0,nmax);
-    let r = map(noise(xoff, yoff), 0, 1, 100, 200);
+  for (let a = 0; a < TWO_PI; a+=0.1) {
+    let r = random(150, 200);
+    //let r = map(noise(xoff), 0, 1, 150, 200);
     let x = r * cos(a);
     let y = r * sin(a);
     vertex(x,y);
+    xoff += 0.1;
   }
-  endShape(CLOSE);
-  //noLoop();
+  endShape();
+  noLoop();
 }
 ```
 
