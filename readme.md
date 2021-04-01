@@ -142,7 +142,7 @@ _Topics: Tweening Shaking Timer_
 * Tweening, Random, Shaking
 * Timer based trigger exercise 
 
-### [Week of Mar 15 - Short comments week]()
+### [Week of Mar 15 - Short comments week](lessons/week7)
 
 _Topics: Review_Catchup_
 * [Online Book References](https://drive.google.com/file/d/18kfdShfj79ISxFTn-iw1ahFTtuFY-KF9/view?usp=sharing)
