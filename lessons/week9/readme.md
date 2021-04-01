@@ -25,7 +25,7 @@
 
 ### Perlin Noise Movement with Sliders
 * [Develop a sketch Perlin Noise movement with a slider!](https://editor.p5js.org/cnarayan/present/QydpnqtQZ)
-* Add Sliders & Buttons, then Submit this to Github as an exercise
+* Add Sliders & Buttons, then Submit this to Github as an exercise. For button look up "createButton"
 
 ```javascript
 let x, y, clr
@@ -53,7 +53,7 @@ function draw() {
 * [Create 2D perlin noise with time in 3D](https://editor.p5js.org/cnarayan/present/5JeDU4VDt)
 * [Create Flow Field using Perlin Noise](https://editor.p5js.org/cnarayan/present/tur3F4Wct)
 * Instead of a line inside the grid, draw a narrow triangle pointing in the direction of flow!
-* Add Sliders & Buttons, then Submit this to Github as an exercise
+* Add Sliders & Buttons, then Submit this to Github as an exercise. For button look up "createButton"
 * [Particles following a flow field while moving](https://editor.p5js.org/cnarayan/present/wOc8Ih813)
 * See Slack for code extract
 
@@ -87,7 +87,7 @@ function draw() {
 ### Perlin Noise Blobs
 * [An example of 2D Perlin noise circular blob](https://editor.p5js.org/cnarayan/present/8zlPoaYqd)
 * We will animate this further in class
-* Add Sliders & Buttons, then Submit this to Github as an exercise
+* Add Sliders & Buttons, then Submit this to Github as an exercise. For button look up "createButton"
 
 ```javascript
 let xoff = 0;
@@ -116,7 +116,7 @@ function draw() {
 ```
 
 ## Homework
-1. Submit exercises completed in the last 2 weeks to Github
+1. Add Sliders & Buttons. Then submit exercises completed in the last 2 weeks to Github
 1. Complete Perlin Noise effects project by combining techniques from the last 2 weeks
 
 ## Zoom Session Recording
