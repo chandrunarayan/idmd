@@ -3,6 +3,7 @@
 # Week of March 29th
 
 ## [Reminder - Assignments Due Calendar](https://bush.myschoolapp.com/lms-assignment/assignment-center/course/110760511/0)
+
 | Type | Format | Details |  Due
 |  :--- |  :--- |  :--- |  :---
 |  Project  |  Assignment |  Complete one of two projects [Data Viz](https://chandrunarayan.github.io/idmd/lessons/week5/homework/data-visualization) or [Creative Animation](https://chandrunarayan.github.io/idmd/lessons/week5/homework/creative-animation.html) |  3/15/2021 OVERDUE!
