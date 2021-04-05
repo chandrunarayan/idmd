@@ -1,26 +1,16 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
-## Week 10 - 4/6 to 4/8 - SHORT WEEK
+## Week 10 - Catch up with Exercises and Projects
 
 ## Learning Objectives
-* 1-1 Conferences
-    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
-    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_montuethufri)
-* Catch up and help with Assignments
+### Complete pending assignments and projects
 
-## Assignments Due by 4/8 
-* STD Team: [Moving Pacman Exercise](../week8/code/moving_pacman.md). Add to Github and Student Portfolio
-* STD Team: [Project: Pins and Threads](../week9/code/pins_threads.md). Add to Github and Student Portfolio
-* ADV Team: Complete Part 2 [Moving Robot Project Part 2](../week8/code/moving_robot.md). Add Part 2 to Github and Student Portfolio
+| Type | Format | Details |  Due
+|  :--- |  :--- |  :--- |  :---
+|  Project  |  Assignment |  Complete one of two projects [Data Viz](https://chandrunarayan.github.io/idmd/lessons/week5/homework/data-visualization) or [Creative Animation](https://chandrunarayan.github.io/idmd/lessons/week5/homework/creative-animation.html) |  3/15/2021 OVERDUE!
+|  Exercise  |  Assignment |  Complete [Week 8 Exercises](https://chandrunarayan.github.io/idmd/lessons/week8/) |  4/1/2021 OVERDUE!
+|  Exercise  |  Assignment |  Complete [Week 9 Exercises](https://chandrunarayan.github.io/idmd/lessons/week9/) |  4/5/2021 DUE TODAY!
+|  Project  |  Assignment |  Complete Perlin Noise Effects Project integrating [Week 8](https://chandrunarayan.github.io/idmd/lessons/week8/) & [Week 9](https://chandrunarayan.github.io/idmd/lessons/week9/) techniques| 4/8/2021
 
-## Code Extracts for STD Team
-* [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
 
-### Due Thursday 4/23
-* ADV Team: [Moving Robot Project Part 3](../week8/code/moving_robot.md). Add Part 3 to Github and Student Portfolio
-
-## Code Examples
-* [Moving Pacman](../week8/code/movingPacman)
-* [Pins and Threads](../week9/code/pinsThreads3)
-* [Input Slider](../week9/code/inputSlider) example using 'Constrain' method and an user Input Slider]
 

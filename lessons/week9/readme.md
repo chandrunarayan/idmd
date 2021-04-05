@@ -18,7 +18,7 @@
 * Create Perlin Noise Movement
 * Apply 2D Perlin Noise Grids & Flow Fields
 * 3rd Diemsion of Perlin Noise - Time!
-* Particles in a Perlin Noise Flow Field
+* OPTIONAL: Particles in a Perlin Noise Flow Field
 * Perlin Noise Blobs
 
 ## Lessons
@@ -54,7 +54,7 @@ function draw() {
 * [Create Flow Field using Perlin Noise](https://editor.p5js.org/cnarayan/present/tur3F4Wct)
 * Instead of a line inside the grid, draw a narrow triangle pointing in the direction of flow!
 * Add Sliders & Buttons, then Submit this to Github as an exercise. For button look up "createButton"
-* [Particles following a flow field while moving](https://editor.p5js.org/cnarayan/present/wOc8Ih813)
+* OPTIONAL: [Particles following a flow field while moving](https://editor.p5js.org/cnarayan/present/wOc8Ih813)
 * See Slack for code extract
 
 
