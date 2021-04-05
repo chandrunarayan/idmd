@@ -164,7 +164,7 @@ _Topics: 2D & Dynamic Perlin Noise, Sliders, html text, Particles_
 
 * [Overview](lessons/week9)
 
-### [Week of Apr 5]()
+### [Week of Apr 5](lessons/week9)
 
 _Topics: Catch-up with Pending assignments & projects_
 
