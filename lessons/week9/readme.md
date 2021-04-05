@@ -1,6 +1,6 @@
 [_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
-# Week of March 29th
+# Week of March 29th & April 5th
 
 ## [Reminder - Assignments Due Calendar](https://bush.myschoolapp.com/lms-assignment/assignment-center/course/110760511/0)
 
