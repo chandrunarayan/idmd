@@ -170,7 +170,6 @@ _Topics: Catch-up with Pending assignments & projects_
 
 * [Overview](lessons/week9)
 
-
 ### [Week of Apr 19 After Spring Break]()
 
 _Topics: Recursion, Fractals_
@@ -179,7 +178,7 @@ _Topics: Recursion, Fractals_
 
 ### [Week of Apr 26]()
 
-_Topics: Recursion, Complex Numbers, Mandelbrot Set, Array Lists_
+_Topics: Recursion, Mandelbrot Set_
 * [Overview]()
 * [Setup Calendly meeting](https://calendly.com/chandru-narayan/anytime-wed-async) with me for discussing your final project
 
