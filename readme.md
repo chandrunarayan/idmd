@@ -168,40 +168,22 @@ _Topics: 2D & Dynamic Perlin Noise, Sliders, html text, Particles_
 
 _Topics: Catch-up with Pending assignments & projects_
 
-* [Overview](lessons/week9)
+* [Overview](lessons/week10)
 
-### [Week of Apr 19 After Spring Break]()
+### [Weeks of Apr 19 and Apr 26th After Spring Break](lessons/week11)
 
-_Topics: Recursion, Fractals_
-* [Overview]()
-* [Exercises]()
+_Topics: Classes, Objects, Interactions, Animations_
+* [Overview](lessons/week11)
 
-### [Week of Apr 26]()
+### [Week of May 3 - Final Project Week!](lessons/week12)
 
-_Topics: Recursion, Mandelbrot Set_
-* [Overview]()
-* [Setup Calendly meeting](https://calendly.com/chandru-narayan/anytime-wed-async) with me for discussing your final project
+_Topics: Final Project Assignments_
+* [Overview](lessons/week11)
 
-### [Week of May 3]()
+### [Week of May 10 - All assignments & Projects due!]()
 
-_Topics: Objects, Array Lists_
-
+_Topics: Submit Final Project_
 *  [Overview]()
-*  [Exercises]()
-
-### [Week of May 10 Final Project]()
-
-_Topics: Catching-up on assignments and 1-1 Conferences_
-
-* [Overview]()
-* Exercises: All pending assignments due in Student Portfolio
-* Class Work: 1-1 Conferences and [Final Project Ideas](lessons/week15/plan/inspiration.md)
-
-### [Final Week of Semester!]()
-
-_Topics: FINAL PROJECT WEEK_
-
-* Class Work: Work on Final Project and 1-1 Conferences
 
 ## Course Credit
 
