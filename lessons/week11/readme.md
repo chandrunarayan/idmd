@@ -13,11 +13,43 @@
 
 ## Lessons
 
-* Introduce Objects
-* Put Objects in Arrays
-* Code Object interactions
-* Code Object movement, events
-* Time permitting introduce recursion and fractals
+1. Introduce Objects 
+
+```javascript
+class Bubble {
+  
+  constructor() {
+    this.x = 25;
+    this.y = height-25;
+  }
+  
+  display() {
+    ellipse(this.x, this.y, 50, 50);
+  }
+  
+  move() {
+  }
+}
+
+let bubb;
+function setup() {
+  createCanvas(400, 400);
+  bubb = new Bubble();
+}
+
+function draw() {
+  background(220);
+  bubb.display();
+}
+```
+        * Update Code above to move bubble to top-right, add color, change size
+        * Can you add another bubble starting from bottom-right and moving top-left?
+        * Can you stop moving the bubble when your mouse hovers on the bubble?
+
+2. Put Bubbles in Arrays - create lots of bubbles!
+3. Code Bubble interactions
+4. Code Object movement, events
+5. Time permitting introduce recursion and fractals
 
 ## Reminders 
 ### Complete pending assignments and projects
@@ -29,6 +61,6 @@
 |  Exercise  |  Assignment |  Complete [Week 9 Exercises](https://chandrunarayan.github.io/idmd/lessons/week9/) |  4/5/2021 OVERDUE!
 |  Project  |  Assignment |  Complete Perlin Noise Effects Project integrating [Week 8](https://chandrunarayan.github.io/idmd/lessons/week8/) & [Week 9](https://chandrunarayan.github.io/idmd/lessons/week9/) techniques| 4/8/2021 OVERDUE
 
-## Code Examples
+
 
 
