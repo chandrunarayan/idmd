@@ -46,13 +46,7 @@ function draw() {
         * Can you add another bubble starting from bottom-right and moving top-left?
         * Can you stop moving the bubble when your mouse hovers on the bubble?
 
-<<<<<<< HEAD
 <iframe src="https://editor.p5js.org/cnarayan/embed/wS7fLxFGo" width="400" height="400" scrolling="no"></iframe>
-=======
-
-<iframe src="https://editor.p5js.org/cnarayan/embed/wS7fLxFGo"></iframe>
-
->>>>>>> f99c806f883f3f86172594b7c28186fcb3f38ad7
 
 2. Put Bubbles in Arrays - create lots of bubbles!
 3. Code Bubble interactions
