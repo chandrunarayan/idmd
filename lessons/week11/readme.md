@@ -55,6 +55,7 @@ function draw() {
 4. Use slider to set timer for bursting bubbles, fade bubbles to disappear in the last few seconds
 4. Bounce Bubble off canvas borders
 3. Code Bubble mouse interactions, freeze, burst etc
+3. Code interaction with Bubbles based on specific property ofthe bubble such as color, size, etc. Initiate action via a special button.
 1. Make custom shapes instead of Bubbles!
 5. Time permitting introduce recursion and fractals
 
