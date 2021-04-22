@@ -34,10 +34,8 @@ In our IDMD classroom we are already using tools and techniques that are natural
 ## 2021 Weekly Schedule
 ![alt text](2021-Weekly-Schedule.png)
 * [Daily Health Screening before Campus Arrival](https://forms.office.com/Pages/ResponsePage.aspx?id=a1889x_4-0Ob0n7ko0Og-VAn6i3AlVpLnGArk2hPCDFUNVFFUVlMWEk0Sk9DMUpPVkg3WllRVVRYOC4u)
-* [Assigned Spaces Link](https://docs.google.com/spreadsheets/d/1taYUBJNivBvYH6h_1XqmnzDTka0KgZ4yjGY0q9Czyt8/edit#gid=1176101705)
-* [Lunch Assignments & Remote Students](https://docs.google.com/spreadsheets/d/1h0JPVNZdF9SK1j_pnrARk2tfXUhV39mZtkg4kYzWlfg/edit?ts=60183d8a#gid=1459610782)
-## Remote Schedule Apr 19th
-![alt text](BSDS_R.png)
+* [Lunch Assignments & Remote Students Roster](https://docs.google.com/spreadsheets/d/1zUfECDQHdLX9Wg1Q_MNokOrYd7GXkEOLYGulvWUvKPQ/edit?ts=608080fc#gid=919051611)
+* [Assigned Classroom Spaces for Hybrid Schooling](https://docs.google.com/spreadsheets/d/1ptL6A439QUUwwVE4XioRQpLjxhR3keJVzTiOWTpGizo/edit?usp=sharing_eip&ts=60819645)
 
 ## On-Campus Schedule Apr 26th
 ![alt text](BSDS_H.png)

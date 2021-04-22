@@ -11,7 +11,7 @@
 * Final Project selection including Objects, Arrays, Sliders, Noise, Color, Text and Images
 
 
-## Lessons
+## Lesson Plan
 
 1. Introduce Objects 
 
@@ -47,9 +47,15 @@ function draw() {
         * Can you stop moving the bubble when your mouse hovers on the bubble?
 
 <iframe src="https://editor.p5js.org/cnarayan/embed/wS7fLxFGo" width="600" height="600" scrolling="no"></iframe>
+
+## Final Project Ideas
+
 2. Put Bubbles in Arrays - create lots of bubbles!
-3. Code Bubble interactions
-4. Code Object movement, events
+3. Create a button to add Bubble with random inital location and speed
+4. Use slider to set timer for bursting bubbles, fade bubbles to disappear in the last few seconds
+4. Bounce Bubble off canvas borders
+3. Code Bubble mouse interactions, freeze, burst etc
+1. Make custom shapes instead of Bubbles!
 5. Time permitting introduce recursion and fractals
 
 ## Reminders 
@@ -61,7 +67,7 @@ function draw() {
 |  Exercise  |  Assignment |  Complete [Week 8 Exercises](https://chandrunarayan.github.io/idmd/lessons/week8/) |  4/1/2021 OVERDUE!
 |  Exercise  |  Assignment |  Complete [Week 9 Exercises](https://chandrunarayan.github.io/idmd/lessons/week9/) |  4/5/2021 OVERDUE!
 |  Project  |  Assignment |  Complete Perlin Noise Effects Project integrating [Week 8](https://chandrunarayan.github.io/idmd/lessons/week8/) & [Week 9](https://chandrunarayan.github.io/idmd/lessons/week9/) techniques| 4/8/2021 OVERDUE
-
+|  Project  |  Assignment |  Complete Final Project as specified for each student| 5/10/2021 
 
 
 
