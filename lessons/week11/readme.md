@@ -68,7 +68,7 @@ function draw() {
 |  Exercise  |  Assignment |  Complete [Week 8 Exercises](https://chandrunarayan.github.io/idmd/lessons/week8/) |  4/1/2021 OVERDUE!
 |  Exercise  |  Assignment |  Complete [Week 9 Exercises](https://chandrunarayan.github.io/idmd/lessons/week9/) |  4/5/2021 OVERDUE!
 |  Project  |  Assignment |  Complete Perlin Noise Effects Project integrating [Week 8](https://chandrunarayan.github.io/idmd/lessons/week8/) & [Week 9](https://chandrunarayan.github.io/idmd/lessons/week9/) techniques| 4/8/2021 OVERDUE
-|  Project  |  Assignment |  Complete Final Project as specified for each student| 5/10/2021 
+|  Project  |  Assignment |  [Complete Final Project as specified for each student](https://chandrunarayan.github.io/idmd/lessons/week11/#final-project-ideas)| 5/10/2021 
 
 
 
