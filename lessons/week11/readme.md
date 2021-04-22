@@ -48,16 +48,19 @@ function draw() {
 
 <iframe src="https://editor.p5js.org/cnarayan/embed/wS7fLxFGo" width="600" height="600" scrolling="no"></iframe>
 
-## Final Project Ideas
+## Final Project
+Complete Final Project based on custom specification designed for each student. The capabilities to demonstrate will be picked from the list below. The final project should contain at least 8 out of the 10 elements listed.
 
 2. Put Bubbles in Arrays - create lots of bubbles!
-3. Create a button to add Bubble with random inital location and speed
-4. Use slider to set timer for bursting bubbles, fade bubbles to disappear in the last few seconds
+3. Create a button to add Bubble with random inital location, direction and speed
+4. Use slider to set timer for bursting bubbles, fade bubbles to disappear in the last few seconds. 
+1. Provide instructions to operate sketch outside the canvas.
 4. Bounce Bubble off canvas borders
 3. Code Bubble mouse interactions, freeze, burst etc
 3. Code interaction with Bubbles based on specific property ofthe bubble such as color, size, etc. Initiate action via a special button.
 1. Make custom shapes instead of Bubbles!
-5. Time permitting introduce recursion and fractals
+1. "Point" your custom shape in the direction of movement
+5. Create a Perlin Noise background for your sketch
 
 ## Reminders 
 ### Complete pending assignments and projects
