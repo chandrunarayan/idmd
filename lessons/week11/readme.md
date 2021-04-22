@@ -49,7 +49,7 @@ function draw() {
 <iframe src="https://editor.p5js.org/cnarayan/embed/wS7fLxFGo" width="600" height="600" scrolling="no"></iframe>
 
 ## Final Project
-Complete Final Project based on custom specification designed for each student. The capabilities to demonstrate will be picked from the list below. The final project should contain at least 8 out of the 10 elements listed.
+Complete Final Project based on custom specification designed for each student. The code should be properly organized, using functions as needed. Code should be documented with comments. The capabilities to demonstrate will be picked from the list below. The final project should contain at least 8 out of the 10 elements listed.
 
 2. Put Bubbles in Arrays - create lots of bubbles!
 3. Create a button to add Bubble with random inital location, direction and speed
