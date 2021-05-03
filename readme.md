@@ -174,7 +174,7 @@ _Topics: Catch-up with Pending assignments & projects_
 _Topics: Classes, Objects, Interactions, Animations_
 * [Overview](lessons/week11)
 
-### [Week of May 3 - Final Project Week!](lessons/week12)
+### [Week of May 3 - Final Project Week!](lessons/week11)
 
 _Topics: Final Project Assignments_
 * [Overview](lessons/week11)
