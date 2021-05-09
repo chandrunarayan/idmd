@@ -16,7 +16,7 @@
 | :--- | :--- |
 | Max | [https://maxalhadeff.github.io/final-project](https://maxalhadeff.github.io/final-project)
 | Tilden | [https://tildenkeffeler.github.io/final-project](https://tildenkeffeler.github.io/final-project)
-| Owen | [https://owenprendergast.github.io/final-project](https://owenprendergast.github.io/final-project)
+| Owen | [https://owenprendergast.github.io/idmd-portfolio/](https://owenprendergast.github.io/idmd-portfolio/Piano_Jellys/)
 | Eli | [https://el1weise.github.io/final-project](https://el1weise.github.io/final-project)
 
 ## Student Githubs
